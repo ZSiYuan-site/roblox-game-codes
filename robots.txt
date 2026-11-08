@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zsiyuan-site.github.io/roblox-game-codes/sitemap.xml

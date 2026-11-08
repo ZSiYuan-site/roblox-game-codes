@@ -23,3 +23,19 @@ Check the counter that shows how many portions you have stored and decide how ma
 If you prefer something calmer, Pocket Landlord is a tenant-management game. The [Pocket Landlord wiki](https://games.resuhive.com/pocket-landlord) has the current code status, player counts and screenshots, and the [prosperity levels guide](https://games.resuhive.com/pocket-landlord/prosperity-levels) explains how to grow your building.
 
 All of these pages are maintained at [Roblox Guides](https://games.resuhive.com/) and refreshed as the games update.
+
+## Code status for the other new games (checked 8 November 2026)
+
+Three more October 2026 releases get searched with the word codes, and the honest answer differs for each one.
+
+- **MALAM SAMA OPAH** (also titled Malam Sama Nenek): one code, SETTINGS, listed as active by a code site, worth 3 normal spins and 500 Duit. It was removed from the game description around 5 November, so it may have expired. The reported path is Settings at the bottom-right, then Codes, then Redeem. See [Malam Sama Opah codes](https://games.resuhive.com/malam-sama-opah/codes) for the current state.
+- **+1 Spider Arm**: four codes are reported, SPIDERARM, SECONDCHANCE, LUCKYSPIN and WEBFAMILY, entered from the Shop icon under CODES. WEBFAMILY needs you to join the developer's group. Code lists for Spider Army belong to a different game. See [+1 Spider Arm codes](https://games.resuhive.com/plus-1-spider-arm/codes).
+- **Survive Your Ideas**: no codes found. The developer asks players to like and favourite the game to see new words first. See [Survive Your Ideas codes](https://games.resuhive.com/survive-your-ideas/codes).
+
+## How we check
+
+A code is only listed here when at least two code-list sites agree or the game's own page mentions it, and every entry carries the date it was last checked. When a code box cannot be confirmed in the game itself, we say so rather than guess where to type it. Lists written for similarly named games, such as Rent Please! Landlord Sim or 18 Floors, are not copied across.
+
+## More notes
+
+Sibling notebooks cover the same games from other angles: [Roblox Guide Notes](https://roblox-guide-notes.pages.dev/), [Roblox Field Notes](https://zsiyuan-site.github.io/roblox-field-notes/), [Obby & Survival Dispatch](https://roblox-dispatch-notes.vercel.app/) and the blog [Roblox Guides Daily](https://robloxguidesdaily.blogspot.com/). The full guides live at [games.resuhive.com](https://games.resuhive.com/).
