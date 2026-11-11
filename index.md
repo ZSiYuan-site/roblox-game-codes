@@ -46,3 +46,11 @@ Latest notes: [30 Floors Up best weapon: quick pick list](https://zsiyuan-site.g
 ## New: Do Not Stop route notes (10 November 2026)
 
 Two notes on the Roblox driving game Do Not Stop: [the two named Hard routes, East Hollow Way and All Souls Road](do-not-stop-hard-routes-east-hollow-way-all-souls-road.html) and [Whiteout Ridge against Misty Mountain Pass](do-not-stop-whiteout-ridge-vs-misty-mountain-pass.html). The full wiki is at [Do Not Stop Wiki](https://donotstop.wiki/).
+
+
+## New: 30 Floors Up notes (11 November 2026)
+
+- [30 Floors Up first night water plan: bucket, rack and tablets](30-floors-up-first-night-water-plan.html)
+- [30 Floors Up Day 9 to Day 38: the objectives and the one deadline](30-floors-up-day-9-to-38-objectives-and-deadline.html)
+
+See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and the [30 Floors Up guide](https://games.resuhive.com/30-floors-up/guide).
