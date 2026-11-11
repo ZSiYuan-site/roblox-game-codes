@@ -4,7 +4,7 @@ Working codes, endings and guides for new and trending Roblox games. Every code 
 
 Full guides with screenshots and videos: [games.resuhive.com](https://games.resuhive.com?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=games-resuhive-com)
 
-**36 games** · player counts from Roblox on Nov 10, 2026
+**42 games** · player counts from Roblox on Nov 11, 2026
 
 ## Contents
 
@@ -27,34 +27,40 @@ Sorted by players online right now.
 | 6 | [Say Cheese!](https://games.resuhive.com/say-cheese?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=say-cheese-) | 14.5K | 8.1M | — | [All endings](https://games.resuhive.com/say-cheese/endings?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=all-endings) |
 | 7 | [Make a Cartoon](https://games.resuhive.com/make-a-cartoon?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=make-a-cartoon) | 12.3K | 5.9M | None yet | [Codes](https://games.resuhive.com/make-a-cartoon/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
 | 8 | [Hyper Realistic Ragdoll](https://games.resuhive.com/hyper-realistic-ragdoll?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=hyper-realistic-ragdoll) | 12.0K | 1.2M | — | — |
-| 9 | [WRECKED](https://games.resuhive.com/wrecked?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=wrecked) | 11.5K | 1.7M | — | — |
-| 10 | [Do Not Stop](https://games.resuhive.com/do-not-stop?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=do-not-stop) | 9.8K | 1.4M | **2 working** | [Codes](https://games.resuhive.com/do-not-stop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://games.resuhive.com/do-not-stop/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 11 | [Unstable SMP FFA](https://games.resuhive.com/unstable-smp-ffa?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=unstable-smp-ffa) | 9.7K | 1.1M | — | — |
-| 12 | [Raise The Biggest Family](https://games.resuhive.com/raise-the-biggest-family?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=raise-the-biggest-family) | 9.1K | 13.4M | None yet | [Codes](https://games.resuhive.com/raise-the-biggest-family/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://games.resuhive.com/raise-the-biggest-family/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 13 | [Ragdoll Realism](https://games.resuhive.com/ragdoll-realism?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-realism) | 8.6K | 1.3M | — | — |
-| 14 | [Low Range: Offroad 4x4](https://games.resuhive.com/low-range-offroad-4x4?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=low-range-offroad-4x4) | 8.3K | 1.2M | — | [Guide](https://games.resuhive.com/low-range-offroad-4x4/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 15 | [FERAL Animal Survival](https://games.resuhive.com/feral-animal-survival?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=feral-animal-survival) | 7.9K | 963.5K | — | — |
-| 16 | [Untitled Symbiote Suit Game](https://games.resuhive.com/untitled-symbiote-suit-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-symbiote-suit-game) | 7.5K | 1.7M | — | — |
-| 17 | [Cozy Lucky Scoop Order](https://games.resuhive.com/cozy-lucky-scoop-order?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cozy-lucky-scoop-order) | 7.5K | 8.3M | — | — |
-| 18 | [+1 Baddie Evolution](https://games.resuhive.com/1-baddie-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-baddie-evolution) | 7.3K | 2.2M | — | — |
-| 19 | [Untitled Ragdoll Game](https://games.resuhive.com/untitled-ragdoll-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-ragdoll-game) | 6.8K | 1.4M | None yet | [Codes](https://games.resuhive.com/untitled-ragdoll-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 20 | [MALAM SAMA OPAH](https://games.resuhive.com/malam-sama-opah?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-sama-opah) | 6.7K | 7.3M | **1 working** | [Codes](https://games.resuhive.com/malam-sama-opah/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 21 | [Steal A Balut](https://games.resuhive.com/steal-a-balut?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-balut) | 6.1K | 1.3M | **3 working** | [Codes](https://games.resuhive.com/steal-a-balut/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 22 | [Decorate Me!](https://games.resuhive.com/decorate-me?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=decorate-me-) | 5.6K | 3.0M | — | — |
-| 23 | [Get Your Superpowers!](https://games.resuhive.com/get-your-superpowers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=get-your-superpowers-) | 5.0K | 945.4K | — | — |
-| 24 | [Impact Lab: Extreme Physics!](https://games.resuhive.com/impact-lab-extreme-physics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=impact-lab-extreme-physics-) | 4.9K | 467.8K | — | — |
-| 25 | [30 Floors Up](https://games.resuhive.com/30-floors-up?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=30-floors-up) | 4.8K | 2.2M | None yet | [Codes](https://games.resuhive.com/30-floors-up/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://games.resuhive.com/30-floors-up/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 26 | [Onthel Purwodadi](https://games.resuhive.com/onthel-purwodadi?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=onthel-purwodadi) | 4.7K | 3.8M | None yet | [Codes](https://games.resuhive.com/onthel-purwodadi/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 27 | [Impossible Hill Climb](https://games.resuhive.com/impossible-hill-climb?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=impossible-hill-climb) | 3.8K | 1.1M | — | — |
-| 28 | [Tesla Roadster Chase](https://games.resuhive.com/tesla-roadster-chase?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tesla-roadster-chase) | 3.7K | 3.3M | None yet | [Codes](https://games.resuhive.com/tesla-roadster-chase/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 29 | [MALAM SAMA ATOK](https://games.resuhive.com/malam-sama-atok?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-sama-atok) | 3.6K | 1.4M | — | — |
-| 30 | [Pocket Landlord](https://games.resuhive.com/pocket-landlord?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pocket-landlord) | 3.5K | 1.5M | None yet | [Codes](https://games.resuhive.com/pocket-landlord/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 31 | [Button Battles](https://games.resuhive.com/button-battles?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=button-battles) | 3.5K | 1.9M | — | — |
-| 32 | [Detect and Steal an Egg](https://games.resuhive.com/detect-and-steal-an-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=detect-and-steal-an-egg) | 3.0K | 1.2M | None yet | [Codes](https://games.resuhive.com/detect-and-steal-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 33 | [Malam Bersama Kaka](https://games.resuhive.com/malam-bersama-kaka?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-bersama-kaka) | 2.4K | 886.9K | — | — |
-| 34 | [Steal A Scooter](https://games.resuhive.com/steal-a-scooter?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-scooter) | 2.3K | 4.2M | — | — |
-| 35 | [Dont Swim](https://games.resuhive.com/dont-swim?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dont-swim) | 1.8K | 1.4M | None yet | [Codes](https://games.resuhive.com/dont-swim/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 36 | [Villain City: Destroy Everything](https://games.resuhive.com/villain-city-destroy-everything?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=villain-city-destroy-everything) | 1.2K | 354.0K | — | — |
+| 9 | [Ragdoll Soccer](https://games.resuhive.com/ragdoll-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-soccer) | 11.9K | 2.2M | **1 working** | [Codes](https://games.resuhive.com/ragdoll-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 10 | [WRECKED](https://games.resuhive.com/wrecked?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=wrecked) | 11.5K | 1.7M | — | — |
+| 11 | [Do Not Stop](https://games.resuhive.com/do-not-stop?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=do-not-stop) | 9.8K | 1.4M | **2 working** | [Codes](https://games.resuhive.com/do-not-stop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://games.resuhive.com/do-not-stop/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 12 | [Unstable SMP FFA](https://games.resuhive.com/unstable-smp-ffa?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=unstable-smp-ffa) | 9.7K | 1.1M | — | — |
+| 13 | [Raise The Biggest Family](https://games.resuhive.com/raise-the-biggest-family?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=raise-the-biggest-family) | 9.1K | 13.4M | None yet | [Codes](https://games.resuhive.com/raise-the-biggest-family/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://games.resuhive.com/raise-the-biggest-family/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 14 | [Ragdoll Realism](https://games.resuhive.com/ragdoll-realism?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-realism) | 8.6K | 1.3M | — | — |
+| 15 | [Low Range: Offroad 4x4](https://games.resuhive.com/low-range-offroad-4x4?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=low-range-offroad-4x4) | 8.3K | 1.2M | — | [Guide](https://games.resuhive.com/low-range-offroad-4x4/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 16 | [FERAL Animal Survival](https://games.resuhive.com/feral-animal-survival?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=feral-animal-survival) | 7.9K | 963.5K | — | — |
+| 17 | [Untitled Symbiote Suit Game](https://games.resuhive.com/untitled-symbiote-suit-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-symbiote-suit-game) | 7.5K | 1.7M | — | — |
+| 18 | [Cozy Lucky Scoop Order](https://games.resuhive.com/cozy-lucky-scoop-order?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cozy-lucky-scoop-order) | 7.5K | 8.3M | — | — |
+| 19 | [+1 Baddie Evolution](https://games.resuhive.com/1-baddie-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-baddie-evolution) | 7.3K | 2.2M | — | — |
+| 20 | [Project Web](https://games.resuhive.com/project-web?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=project-web) | 7.1K | 5.4M | — | — |
+| 21 | [Untitled Ragdoll Game](https://games.resuhive.com/untitled-ragdoll-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-ragdoll-game) | 6.8K | 1.4M | None yet | [Codes](https://games.resuhive.com/untitled-ragdoll-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 22 | [MALAM SAMA OPAH](https://games.resuhive.com/malam-sama-opah?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-sama-opah) | 6.7K | 7.3M | **1 working** | [Codes](https://games.resuhive.com/malam-sama-opah/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 23 | [Steal A Balut](https://games.resuhive.com/steal-a-balut?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-balut) | 6.1K | 1.3M | **3 working** | [Codes](https://games.resuhive.com/steal-a-balut/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 24 | [Decorate Me!](https://games.resuhive.com/decorate-me?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=decorate-me-) | 5.6K | 3.0M | — | — |
+| 25 | [Build a REAL House](https://games.resuhive.com/build-a-real-house?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=build-a-real-house) | 5.5K | 1.4M | — | — |
+| 26 | [Bad Physics](https://games.resuhive.com/bad-physics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bad-physics) | 5.4K | 1.3M | — | — |
+| 27 | [My Cookie Store](https://games.resuhive.com/my-cookie-store?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=my-cookie-store) | 5.4K | 805.3K | — | — |
+| 28 | [Get Your Superpowers!](https://games.resuhive.com/get-your-superpowers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=get-your-superpowers-) | 5.0K | 945.4K | — | — |
+| 29 | [Impact Lab: Extreme Physics!](https://games.resuhive.com/impact-lab-extreme-physics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=impact-lab-extreme-physics-) | 4.9K | 467.8K | — | — |
+| 30 | [30 Floors Up](https://games.resuhive.com/30-floors-up?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=30-floors-up) | 4.8K | 2.2M | **1 working** | [Codes](https://games.resuhive.com/30-floors-up/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://games.resuhive.com/30-floors-up/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 31 | [Onthel Purwodadi](https://games.resuhive.com/onthel-purwodadi?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=onthel-purwodadi) | 4.7K | 3.8M | None yet | [Codes](https://games.resuhive.com/onthel-purwodadi/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 32 | [Impossible Hill Climb](https://games.resuhive.com/impossible-hill-climb?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=impossible-hill-climb) | 3.8K | 1.1M | — | — |
+| 33 | [Tesla Roadster Chase](https://games.resuhive.com/tesla-roadster-chase?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tesla-roadster-chase) | 3.7K | 3.3M | None yet | [Codes](https://games.resuhive.com/tesla-roadster-chase/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 34 | [MALAM SAMA ATOK](https://games.resuhive.com/malam-sama-atok?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-sama-atok) | 3.6K | 1.4M | — | — |
+| 35 | [Pocket Landlord](https://games.resuhive.com/pocket-landlord?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pocket-landlord) | 3.5K | 1.5M | None yet | [Codes](https://games.resuhive.com/pocket-landlord/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 36 | [Button Battles](https://games.resuhive.com/button-battles?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=button-battles) | 3.5K | 1.9M | — | — |
+| 37 | [Shibuya](https://games.resuhive.com/shibuya?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=shibuya) | 3.0K | 3.3M | **2 working** | [Codes](https://games.resuhive.com/shibuya/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://games.resuhive.com/shibuya/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 38 | [Detect and Steal an Egg](https://games.resuhive.com/detect-and-steal-an-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=detect-and-steal-an-egg) | 3.0K | 1.2M | None yet | [Codes](https://games.resuhive.com/detect-and-steal-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 39 | [Malam Bersama Kaka](https://games.resuhive.com/malam-bersama-kaka?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-bersama-kaka) | 2.4K | 886.9K | — | — |
+| 40 | [Steal A Scooter](https://games.resuhive.com/steal-a-scooter?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-scooter) | 2.3K | 4.2M | — | — |
+| 41 | [Dont Swim](https://games.resuhive.com/dont-swim?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dont-swim) | 1.8K | 1.4M | None yet | [Codes](https://games.resuhive.com/dont-swim/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 42 | [Villain City: Destroy Everything](https://games.resuhive.com/villain-city-destroy-everything?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=villain-city-destroy-everything) | 1.2K | 354.0K | — | — |
 
 ## Working codes
 
@@ -62,7 +68,7 @@ Codes are case-sensitive. Copy them exactly, including spaces.
 
 ### 99 Nights in the Forest codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/99-nights-in-the-forest/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/99-nights-in-the-forest/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -73,7 +79,7 @@ Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive
 
 ### Survive Your Ideas codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/survive-your-ideas/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/survive-your-ideas/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -81,7 +87,7 @@ Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive
 
 ### +1 Spider Arm codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/plus-1-spider-arm/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/plus-1-spider-arm/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -90,13 +96,21 @@ Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive
 
 ### Make a Cartoon codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/make-a-cartoon/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/make-a-cartoon/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
 
+### Ragdoll Soccer codes
+
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/ragdoll-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `WELCOME` | Not stated (In the game description and newtoplay. Neither says what it gives.) |
+
 ### Do Not Stop codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/do-not-stop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/do-not-stop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -105,19 +119,19 @@ Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive
 
 ### Raise The Biggest Family codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/raise-the-biggest-family/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/raise-the-biggest-family/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
 
 ### Untitled Ragdoll Game codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/untitled-ragdoll-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/untitled-ragdoll-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
 
 ### MALAM SAMA OPAH codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/malam-sama-opah/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/malam-sama-opah/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -125,7 +139,7 @@ Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive
 
 ### Steal A Balut codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/steal-a-balut/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/steal-a-balut/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -135,37 +149,48 @@ Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive
 
 ### 30 Floors Up codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/30-floors-up/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/30-floors-up/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
-No working codes yet. The page above lists where we looked.
+| Code | Reward |
+| --- | --- |
+| `Update2` | 900 Cash and 30 Gems (Listed by Gamer Tweak, Progameguides and MrGuider. Join the Dateline NBC group first. We haven't redeemed it ourselves.) |
 
 ### Onthel Purwodadi codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/onthel-purwodadi/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/onthel-purwodadi/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
 
 ### Tesla Roadster Chase codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/tesla-roadster-chase/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/tesla-roadster-chase/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
 
 ### Pocket Landlord codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/pocket-landlord/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/pocket-landlord/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
 
+### Shibuya codes
+
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/shibuya/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `PUBLICTESTING` | Rerolls (10 Race + 10 Clan per GamesRadar; Locked Clan Rerolls per Beebom) (On every list we checked. The sources disagree on the exact reward.) |
+| `RANKEDFIXES` | 10 Clan Rerolls + 10 Cursed Technique Rerolls (GamesRadar and shibuya.wiki agree.) |
+
 ### Detect and Steal an Egg codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/detect-and-steal-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/detect-and-steal-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
 
 ### Dont Swim codes
 
-Checked Nov 10, 2026 · [How to redeem and expired codes](https://games.resuhive.com/dont-swim/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 11, 2026 · [How to redeem and expired codes](https://games.resuhive.com/dont-swim/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
 
@@ -189,7 +214,7 @@ No working codes yet. The page above lists where we looked.
 
 ### Do Not Stop
 
-[Beginner Guide](https://games.resuhive.com/do-not-stop/beginner-guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=beginner-guide) · [Controls](https://games.resuhive.com/do-not-stop/controls?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=controls) · [Credits](https://games.resuhive.com/do-not-stop/credits?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=credits) · [Best Cars](https://games.resuhive.com/do-not-stop/best-cars?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=best-cars) · [Steeple](https://games.resuhive.com/do-not-stop/steeple?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steeple) · [Signal Lost and Retries](https://games.resuhive.com/do-not-stop/caught-and-retries?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=signal-lost-and-retries) · [Medals and Records](https://games.resuhive.com/do-not-stop/medals-and-records?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=medals-and-records) · [Shop and Crates](https://games.resuhive.com/do-not-stop/shop-and-crates?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=shop-and-crates) · [Endless Mode](https://games.resuhive.com/do-not-stop/endless-mode?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=endless-mode) · [Update 2 and Tournament](https://games.resuhive.com/do-not-stop/update-2-tournament?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=update-2-and-tournament)
+[Beginner Guide](https://games.resuhive.com/do-not-stop/beginner-guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=beginner-guide) · [Controls](https://games.resuhive.com/do-not-stop/controls?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=controls) · [Credits](https://games.resuhive.com/do-not-stop/credits?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=credits) · [Best Cars](https://games.resuhive.com/do-not-stop/best-cars?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=best-cars) · [Steeple](https://games.resuhive.com/do-not-stop/steeple?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steeple) · [Signal Lost and Retries](https://games.resuhive.com/do-not-stop/caught-and-retries?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=signal-lost-and-retries) · [Medals and Records](https://games.resuhive.com/do-not-stop/medals-and-records?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=medals-and-records) · [Shop and Crates](https://games.resuhive.com/do-not-stop/shop-and-crates?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=shop-and-crates) · [Endless Mode](https://games.resuhive.com/do-not-stop/endless-mode?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=endless-mode) · [Update 2 and Tournament](https://games.resuhive.com/do-not-stop/update-2-tournament?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=update-2-and-tournament) · [Hardest Map](https://games.resuhive.com/do-not-stop/hardest-map?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=hardest-map) · [Passenger and Radar](https://games.resuhive.com/do-not-stop/passenger-and-radar?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=passenger-and-radar) · [Garage Tabs](https://games.resuhive.com/do-not-stop/garage-tabs?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=garage-tabs)
 
 ### Unstable SMP FFA
 
@@ -201,7 +226,7 @@ No working codes yet. The page above lists where we looked.
 
 ### MALAM SAMA OPAH
 
-[How to Escape](https://games.resuhive.com/malam-sama-opah/how-to-escape?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-escape) · [Death Screen](https://games.resuhive.com/malam-sama-opah/death-screen?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=death-screen) · [Classes](https://games.resuhive.com/malam-sama-opah/classes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=classes) · [Game Passes](https://games.resuhive.com/malam-sama-opah/game-passes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=game-passes)
+[How to Escape](https://games.resuhive.com/malam-sama-opah/how-to-escape?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-escape) · [Death Screen](https://games.resuhive.com/malam-sama-opah/death-screen?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=death-screen) · [Classes](https://games.resuhive.com/malam-sama-opah/classes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=classes) · [Game Passes](https://games.resuhive.com/malam-sama-opah/game-passes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=game-passes) · [Kode (Bahasa Indonesia)](https://games.resuhive.com/malam-sama-opah/kode?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=kode-bahasa-indonesia-)
 
 ### Steal A Balut
 
@@ -209,11 +234,15 @@ No working codes yet. The page above lists where we looked.
 
 ### 30 Floors Up
 
-[Game Passes](https://games.resuhive.com/30-floors-up/game-passes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=game-passes) · [Controls](https://games.resuhive.com/30-floors-up/controls?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=controls) · [Food and Water](https://games.resuhive.com/30-floors-up/food-and-water?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=food-and-water) · [Weapons](https://games.resuhive.com/30-floors-up/weapons?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=weapons) · [Neighbors](https://games.resuhive.com/30-floors-up/neighbors?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=neighbors) · [Items](https://games.resuhive.com/30-floors-up/items?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=items) · [Day by Day](https://games.resuhive.com/30-floors-up/day-by-day?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=day-by-day) · [Classes](https://games.resuhive.com/30-floors-up/classes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=classes) · [Floors](https://games.resuhive.com/30-floors-up/floors?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=floors) · [Roof and Escape](https://games.resuhive.com/30-floors-up/roof-and-escape?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=roof-and-escape) · [Day 9 to 38](https://games.resuhive.com/30-floors-up/later-days?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=day-9-to-38) · [Best Weapon](https://games.resuhive.com/30-floors-up/best-weapon?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=best-weapon) · [Difficulty and Lobbies](https://games.resuhive.com/30-floors-up/difficulty-and-lobbies?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=difficulty-and-lobbies) · [Treat Water](https://games.resuhive.com/30-floors-up/treat-water?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=treat-water)
+[Game Passes](https://games.resuhive.com/30-floors-up/game-passes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=game-passes) · [Controls](https://games.resuhive.com/30-floors-up/controls?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=controls) · [Food and Water](https://games.resuhive.com/30-floors-up/food-and-water?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=food-and-water) · [Weapons](https://games.resuhive.com/30-floors-up/weapons?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=weapons) · [Neighbors](https://games.resuhive.com/30-floors-up/neighbors?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=neighbors) · [Items](https://games.resuhive.com/30-floors-up/items?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=items) · [Day by Day](https://games.resuhive.com/30-floors-up/day-by-day?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=day-by-day) · [Classes](https://games.resuhive.com/30-floors-up/classes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=classes) · [Floors](https://games.resuhive.com/30-floors-up/floors?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=floors) · [Roof and Escape](https://games.resuhive.com/30-floors-up/roof-and-escape?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=roof-and-escape) · [Day 9 to 38](https://games.resuhive.com/30-floors-up/later-days?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=day-9-to-38) · [Best Weapon](https://games.resuhive.com/30-floors-up/best-weapon?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=best-weapon) · [Difficulty and Lobbies](https://games.resuhive.com/30-floors-up/difficulty-and-lobbies?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=difficulty-and-lobbies) · [Treat Water](https://games.resuhive.com/30-floors-up/treat-water?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=treat-water) · [Update 2.0](https://games.resuhive.com/30-floors-up/update-2?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=update-2-0) · [Dateline NBC Group](https://games.resuhive.com/30-floors-up/dateline-nbc-group?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dateline-nbc-group) · [Player Count and Visits](https://games.resuhive.com/30-floors-up/player-count-and-visits?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=player-count-and-visits) · [Baseball Bat vs Hammer](https://games.resuhive.com/30-floors-up/baseball-bat-vs-hammer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=baseball-bat-vs-hammer) · [Baseball Bat vs Frying Pan](https://games.resuhive.com/30-floors-up/baseball-bat-vs-frying-pan?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=baseball-bat-vs-frying-pan) · [Hammer vs Frying Pan](https://games.resuhive.com/30-floors-up/hammer-vs-frying-pan?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=hammer-vs-frying-pan) · [Kitchen Knife vs Rolling Pin](https://games.resuhive.com/30-floors-up/kitchen-knife-vs-rolling-pin?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=kitchen-knife-vs-rolling-pin) · [Baseball Bat vs Kitchen Knife](https://games.resuhive.com/30-floors-up/baseball-bat-vs-kitchen-knife?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=baseball-bat-vs-kitchen-knife)
 
 ### Pocket Landlord
 
 [Tenants](https://games.resuhive.com/pocket-landlord/tenants?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tenants) · [Prosperity Levels](https://games.resuhive.com/pocket-landlord/prosperity-levels?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=prosperity-levels) · [Shops and Upgrades](https://games.resuhive.com/pocket-landlord/shops-and-upgrades?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=shops-and-upgrades) · [Decorating](https://games.resuhive.com/pocket-landlord/decorating?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=decorating) · [Prestige](https://games.resuhive.com/pocket-landlord/prestige?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=prestige) · [Game Passes](https://games.resuhive.com/pocket-landlord/game-passes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=game-passes)
+
+### Shibuya
+
+[Beginner Guide](https://games.resuhive.com/shibuya/beginner-guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=beginner-guide) · [Controls](https://games.resuhive.com/shibuya/controls?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=controls) · [Combat Guide](https://games.resuhive.com/shibuya/combat-guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=combat-guide) · [Sorcerer Grades](https://games.resuhive.com/shibuya/sorcerer-grades?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sorcerer-grades) · [Cursed Techniques](https://games.resuhive.com/shibuya/cursed-techniques?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cursed-techniques) · [Curse Containment](https://games.resuhive.com/shibuya/curse-containment?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=curse-containment) · [Races and Clans](https://games.resuhive.com/shibuya/races-and-clans?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=races-and-clans) · [Yen and NPCs](https://games.resuhive.com/shibuya/yen-and-npcs?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=yen-and-npcs) · [Map and Locations](https://games.resuhive.com/shibuya/map-locations?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=map-and-locations) · [Tube Simulations](https://games.resuhive.com/shibuya/tube-simulations?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tube-simulations) · [Hardcore Death](https://games.resuhive.com/shibuya/hardcore-death?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=hardcore-death) · [How to Redeem Codes](https://games.resuhive.com/shibuya/codes-how-to-redeem?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-codes) · [Discord and Trello](https://games.resuhive.com/shibuya/discord-and-trello?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=discord-and-trello)
 
 ### Villain City: Destroy Everything
 
