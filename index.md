@@ -54,3 +54,10 @@ Two notes on the Roblox driving game Do Not Stop: [the two named Hard routes, Ea
 - [30 Floors Up Day 9 to Day 38: the objectives and the one deadline](30-floors-up-day-9-to-38-objectives-and-deadline.html)
 
 See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and the [30 Floors Up guide](https://games.resuhive.com/30-floors-up/guide).
+
+
+## New: 12 November 2026
+
+- [30 Floors Up Day 38: June's kitchen, two water containers and the Stair B barrier](30-floors-up-day-38-junes-kitchen-and-stair-b.html)
+- [Staying quiet in 30 Floors Up: every noise rule the game actually states](30-floors-up-every-noise-rule.html)
+- [Do Not Stop: seven routes, one pad menu and what to pick first](do-not-stop-routes-pad-menu-first-pick.html)
