@@ -62,3 +62,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Staying quiet in 30 Floors Up: every noise rule the game actually states](30-floors-up-every-noise-rule.html)
 - [Do Not Stop: seven routes, one pad menu and what to pick first](do-not-stop-routes-pad-menu-first-pick.html)
 - [Kitchen Knife, Rolling Pin or Baseball Bat: choosing a stopgap weapon in 30 Floors Up](30-floors-up-stopgap-weapons-knife-pin-bat.html)
+- [30 Floors Up Update 2.0 roof projects: shelter, garden, kite](30-floors-up-update-2-0-roof-projects-shelter-garden-kite.html)
+- [Shibuya Roblox: seven beginner mistakes and how to avoid them](shibuya-roblox-seven-beginner-mistakes-and-how-to-avoid-them.html)
