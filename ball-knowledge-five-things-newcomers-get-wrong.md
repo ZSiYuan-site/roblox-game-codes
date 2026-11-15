@@ -30,6 +30,10 @@ The like rate is 66.5 percent (1,477 likes against 745 dislikes), lower than the
 
 Developer: Gray Games Official. Released Oct 14, 2026. Last updated Nov 9, 2026. Genre: party and trivia. Questions: 135 or more, spanning animals, food, countries, sports, science, music and video games. Favorites: 8,353. The [stats page](https://newgamescout.com/ball-knowledge/stats) charts player counts.
 
+## A note on the numbers
+
+The figures above were pulled from Roblox's public data on Nov 15, 2026 and the description text, so they will drift. At that moment the game held 3,464 players, up to 30 can share a server, and the match format is always the same: 7 rounds, one answer each, with rarity deciding the score. If you only remember one thing, remember that Dog is 10 points and Fennec Fox is 90, because that gap is the whole game.
+
 ## A tiny plan
 
 - Pick a niche answer you are fairly sure about.
