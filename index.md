@@ -64,3 +64,10 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Kitchen Knife, Rolling Pin or Baseball Bat: choosing a stopgap weapon in 30 Floors Up](30-floors-up-stopgap-weapons-knife-pin-bat.html)
 - [30 Floors Up Update 2.0 roof projects: shelter, garden, kite](30-floors-up-update-2-0-roof-projects-shelter-garden-kite.html)
 - [Shibuya Roblox: seven beginner mistakes and how to avoid them](shibuya-roblox-seven-beginner-mistakes-and-how-to-avoid-them.html)
+
+## New: 16 November 2026
+
+- [30 Floors Up floors explained: what we know from floor 30 down to the roof](30-floors-up-floors-from-30-down-to-the-roof.html)
+- [30 Floors Up controls and lobby cheat sheet: keys, bars and the Create a Group window](30-floors-up-controls-and-lobby-cheat-sheet.html)
+- [Shibuya Roblox questions answered: races, clans, grades and the first technique](shibuya-roblox-races-clans-grades-questions.html)
+- [99 Nights in the Forest beginner log: campfire levels and the four missing kids](99-nights-in-the-forest-beginner-log-campfire-and-kids.html)
