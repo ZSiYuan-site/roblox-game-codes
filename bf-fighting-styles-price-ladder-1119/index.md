@@ -39,5 +39,5 @@ There is no Robux price shown for the fighting styles because the wiki does not 
 
 - [Blox Fruits trade check: how shop price values work](https://bloxfruitsvaluesnotes.blogspot.com/2026/11/blox-fruits-trade-check-how-shop-price.html)
 - [Mythical Blox Fruits values ranked](https://bf-mythical-ranked-1119.surge.sh/)
-- [Robux prices for every Blox Fruits fruit](https://bf-robux-prices-1119.a13715099660.workers.dev/)
+- [Robux prices for every Blox Fruits fruit](https://bf-robux-prices-1119.surge.sh/)
 
