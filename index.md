@@ -75,3 +75,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Fisch Ashen Fortune vs Hades Curse: What x5 and x11.1 Mean in C$](fisch-ashen-fortune-vs-hades-curse-1119/)
 
 - [Thanksgiving Trivia: Who Was at the 1621 Feast and How It Became a Holiday](tv-thanksgiving-trivia-notes-1119/)
+
+- [How Pro Rata Shrinks a Settlement Payment: Three Real Examples](settlement-pro-rata-examples-1119/)
