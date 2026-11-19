@@ -17,4 +17,10 @@ Once you own a class you keep it, and the perks come from levelling it up while 
 
 The full table, with one page per class, is on our wiki: [99 Nights in the Forest classes](https://games.resuhive.com/99-nights-in-the-forest/classes). If you are chasing achievements next, read [the easiest and rarest badges](https://robloxguidesdaily.blogspot.com/2026/11/99-nights-in-forest-badges-easiest-and.html), and for the mid-game threat see [cultists: when they raid and how to beat them](https://robloxguidesdaily.blogspot.com/2026/11/99-nights-in-forest-cultists-when-they.html).
 
+## Which class is worth the Diamonds
+
+Cost and usefulness are not the same thing, so here is how the starting items break down. The Camper (10) gives you a Flashlight and the Scavenger (25) gives you nothing, so both are really about saving Diamonds for later. The 40-Diamond group is the first real choice: Medic starts with 2 Bandages, Hunter with 2 Bear Traps, Base Defender with 2 Defense Blueprints, Cook with Seasoning and Decorator with a Hammer. The Ranger at 70 is the first class that starts with a weapon, a Revolver with 18 Revolver Ammo plus a Flashlight, while the Lumberjack at 70 starts with a Good Axe.
+
+Further up, the Chef (150) starts with a Chef's Station Blueprint and a Recipe Book, the Poison Master (200) with a Blowpipe and Poison Armor, and the Beastmaster (400) with a Good Taming Flute, which Beebom says needs 3 steaks to summon wolves. The five 600-Diamond classes each have a signature item, for example the Vampire Cloak and Vampire Scythe, or the Cyborg's Alien Armour and Laser Cannon. We rank them separately on the [99 Nights in the Forest best classes](https://newgamescout.com/99-nights-in-the-forest/best-classes) page, and the [Vampire class page](https://newgamescout.com/99-nights-in-the-forest/classes/vampire) covers the most expensive regular pick in detail.
+
 Back to the [Roblox game codes index](https://zsiyuan-site.github.io/roblox-game-codes/).
