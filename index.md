@@ -71,3 +71,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [30 Floors Up controls and lobby cheat sheet: keys, bars and the Create a Group window](30-floors-up-controls-and-lobby-cheat-sheet.html)
 - [Shibuya Roblox questions answered: races, clans, grades and the first technique](shibuya-roblox-races-clans-grades-questions.html)
 - [99 Nights in the Forest beginner log: campfire levels and the four missing kids](99-nights-in-the-forest-beginner-log-campfire-and-kids.html)
+
+- [Fisch Ashen Fortune vs Hades Curse: What x5 and x11.1 Mean in C$](fisch-ashen-fortune-vs-hades-curse-1119/)
