@@ -73,3 +73,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [99 Nights in the Forest beginner log: campfire levels and the four missing kids](99-nights-in-the-forest-beginner-log-campfire-and-kids.html)
 
 - [Fisch Ashen Fortune vs Hades Curse: What x5 and x11.1 Mean in C$](fisch-ashen-fortune-vs-hades-curse-1119/)
+
+- [Thanksgiving Trivia: Who Was at the 1621 Feast and How It Became a Holiday](tv-thanksgiving-trivia-notes-1119/)
