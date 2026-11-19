@@ -77,3 +77,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Thanksgiving Trivia: Who Was at the 1621 Feast and How It Became a Holiday](tv-thanksgiving-trivia-notes-1119/)
 
 - [How Pro Rata Shrinks a Settlement Payment: Three Real Examples](settlement-pro-rata-examples-1119/)
+
+- [Is the Cerulean Fang Rod Worth 800,000 C$ in Fisch?](fisch-cerulean-fang-rod-worth-it-1119/)
