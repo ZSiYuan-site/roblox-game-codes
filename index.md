@@ -79,3 +79,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [How Pro Rata Shrinks a Settlement Payment: Three Real Examples](settlement-pro-rata-examples-1119/)
 
 - [Is the Cerulean Fang Rod Worth 800,000 C$ in Fisch?](fisch-cerulean-fang-rod-worth-it-1119/)
+
+- [Blox Fruits Fighting Styles: The Price Ladder From Dark Step to Godhuman](bf-fighting-styles-price-ladder-1119/)
