@@ -83,3 +83,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Blox Fruits Fighting Styles: The Price Ladder From Dark Step to Godhuman](bf-fighting-styles-price-ladder-1119/)
 
 - [Pips Hard Boards Have Grown: From 10 Dominoes in August 2025 to 16 in November 2026](pips-hard-boards-grew-1119/)
+
+- [What the Blox Fruits Value Update Log Tells You (and What It Does Not)](bf-value-updates-log-1119/)
