@@ -87,3 +87,7 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [What the Blox Fruits Value Update Log Tells You (and What It Does Not)](bf-value-updates-log-1119/)
 
 - [Pips October 13, 2025: The Day the Hard Board Was the Smallest](pips-oct-13-2025-small-hard-board-1119/)
+
+## New: mobile reward pages
+
+- [Lost Sword and Zenless Zone Zero codes compared](https://zsiyuan-site.github.io/roblox-game-codes/rw-two-code-pages-compared-1119.html) — two code pages, two different routines.
