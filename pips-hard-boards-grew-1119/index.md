@@ -40,6 +40,6 @@ Each answer page names who built each board. Across the samples above, Ian Liven
 ## More notes
 
 - [NYT Pips: how to use daily hints without spoiling the puzzle](https://pipsanswersnotes.blogspot.com/2026/11/nyt-pips-how-to-use-daily-hints-without.html)
-- [How many dominoes each Pips board uses](https://pips-domino-counts-1119.a13715099660.workers.dev/)
+- [How many dominoes each Pips board uses](https://pips-domino-counts-1119.surge.sh/)
 - [Find an old Pips puzzle in the archive](https://pips-find-old-puzzle-1119.surge.sh/)
 
