@@ -97,3 +97,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Movie Trivia Questions and Answers: Start With the Kids Set](movie-trivia-questions-answers-1119c/)
 
 - [Genshin Impact Codes and Where the Other Working Ones Are](genshin-codes-and-other-games-1119c/)
+
+- [Genshin Impact Livestream Codes: How the Version Codes Work and What Is Still Working](redeem-code-trackers-1120/)
