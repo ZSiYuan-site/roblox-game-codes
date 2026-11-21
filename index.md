@@ -117,3 +117,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [ColorPageHub: A Guide For A First Visit](coloring-prints-1121-p2/)
 
 - [Daily Reward Links: A Guide For A First Visit](reward-codes-1121-p2/)
+
+- [New Game Scout: A Guide For A First Visit](ns-guides-1121-p2/)
