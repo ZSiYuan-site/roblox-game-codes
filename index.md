@@ -115,3 +115,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Recall Radar: A Guide For A First Visit](recalls-cpsc-1121-p2/)
 
 - [ColorPageHub: A Guide For A First Visit](coloring-prints-1121-p2/)
+
+- [Daily Reward Links: A Guide For A First Visit](reward-codes-1121-p2/)
