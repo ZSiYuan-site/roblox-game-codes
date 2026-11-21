@@ -109,3 +109,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Settlement Lookup: A Guide For A First Visit](settle-lookup-1121-p2/)
 
 - [Books in Order: A Guide For A First Visit](books-order-1121-p2/)
+
+- [Trivia Nook: A Guide For A First Visit](trivia-qa-1121-p2/)
