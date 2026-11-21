@@ -105,3 +105,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Black Friday 2026: How to tell a real discount from a label](bf-deals-2026-1121/)
 
 - [Pips Answers: A Guide For A First Visit](pips-answers-1121-p2/)
+
+- [Settlement Lookup: A Guide For A First Visit](settle-lookup-1121-p2/)
