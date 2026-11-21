@@ -101,3 +101,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Genshin Impact Livestream Codes: How the Version Codes Work and What Is Still Working](redeem-code-trackers-1120/)
 
 - [Blox Fruits Values: A Guide For A First Visit](bf-values-1121-p2/)
+
+- [Black Friday 2026: How to tell a real discount from a label](bf-deals-2026-1121/)
