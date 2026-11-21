@@ -111,3 +111,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Books in Order: A Guide For A First Visit](books-order-1121-p2/)
 
 - [Trivia Nook: A Guide For A First Visit](trivia-qa-1121-p2/)
+
+- [Recall Radar: A Guide For A First Visit](recalls-cpsc-1121-p2/)
