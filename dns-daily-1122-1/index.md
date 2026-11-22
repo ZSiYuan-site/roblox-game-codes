@@ -4,7 +4,7 @@
 
 ## Do Not Stop Roblox: the short version
 
-If you read the wiki, the fastest route is to open the pages that already keep this information up to date. This short guide collects the ones we use on donotstop.wiki and explains what each is for. We rebuild the do not stop roblox pages on a schedule, so the aim is to point at the current set rather than copy a list that will be stale next week. Open the links as you read and stop when you have the answer you wanted.
+If you read the wiki, the fastest route is to open the pages that keep this information up to date. This short guide collects the ones we use on donotstop.wiki and explains what each is for. We rebuild the do not stop roblox pages on a schedule, so the aim is to point at the current set rather than copy a list that will be stale next week. Open the links as you read and stop when you have the answer you wanted.
 
 ## Where to start
 
