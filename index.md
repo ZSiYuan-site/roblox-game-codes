@@ -121,3 +121,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [New Game Scout: A Guide For A First Visit](ns-guides-1121-p2/)
 
 - [Trivia Questions: Practice a topic](trivia-daily-1122-1/)
+
+- [Do Not Stop Roblox: Read the wiki](dns-daily-1122-1/)
