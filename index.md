@@ -119,3 +119,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Daily Reward Links: A Guide For A First Visit](reward-codes-1121-p2/)
 
 - [New Game Scout: A Guide For A First Visit](ns-guides-1121-p2/)
+
+- [Trivia Questions: Practice a topic](trivia-daily-1122-1/)
