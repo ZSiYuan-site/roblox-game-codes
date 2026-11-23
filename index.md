@@ -127,3 +127,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [A Field Guide to New Game Scout](ngsc-field-notes-1123-1/)
 
 - [A Field Guide to Pips Answers](pips-field-notes-1123-1/)
+
+- [A Field Guide to ColorPageHub](coloring-field-notes-1123-1/)
