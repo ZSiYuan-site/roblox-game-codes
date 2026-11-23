@@ -123,3 +123,5 @@ See also [30 Floors Up on Roblox](https://games.resuhive.com/30-floors-up) and t
 - [Trivia Questions: Practice a topic](trivia-daily-1122-1/)
 
 - [Do Not Stop Roblox: Read the wiki](dns-daily-1122-1/)
+
+- [A Field Guide to New Game Scout](ngsc-field-notes-1123-1/)
