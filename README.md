@@ -4,7 +4,7 @@ Working codes, endings and guides for new and trending Roblox games. Every code 
 
 Full guides with screenshots and videos: [games.resuhive.com](https://newgamescout.com?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=games-resuhive-com)
 
-**262 games** · player counts from Roblox on Nov 23, 2026
+**231 games** · player counts from Roblox on Nov 24, 2026
 
 ## Contents
 
@@ -23,264 +23,233 @@ Sorted by players online right now.
 | 2 | [Brookhaven RP](https://newgamescout.com/brookhaven?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=brookhaven-rp) | 591.6K | 89.5B | None yet | [Codes](https://newgamescout.com/brookhaven/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
 | 3 | [Throw Food For Animals](https://newgamescout.com/throw-food-for-animals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=throw-food-for-animals) | 415.8K | 260.7M | None yet | [Codes](https://newgamescout.com/throw-food-for-animals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
 | 4 | [Break and Steal an Egg](https://newgamescout.com/break-and-steal-an-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=break-and-steal-an-egg) | 335.5K | 438.6M | None yet | [Codes](https://newgamescout.com/break-and-steal-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 5 | [Blox Fruits](https://newgamescout.com/blox-fruits?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blox-fruits) | 278.4K | 65.6B | **18 working** | [Codes](https://newgamescout.com/blox-fruits/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 6 | [Blox Fruits](https://newgamescout.com/blox-fruits?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blox-fruits) | 278.4K | 65.6B | **24 working** | [Codes](https://newgamescout.com/blox-fruits/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 7 | [RIVALS](https://newgamescout.com/rivals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rivals) | 276.4K | 19.3B | **7 working** | [Codes](https://newgamescout.com/rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/rivals/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 8 | [Adopt Me!](https://newgamescout.com/adopt-me?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=adopt-me-) | 240.5K | 45.4B | None yet | [Codes](https://newgamescout.com/adopt-me/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 9 | [Murder Mystery 2](https://newgamescout.com/murder-mystery-2?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=murder-mystery-2) | 197.8K | 32.3B | None yet | [Codes](https://newgamescout.com/murder-mystery-2/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 10 | [Jujutsu Shenanigans](https://newgamescout.com/jujutsu-shenanigans?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jujutsu-shenanigans) | 129.2K | 8.0B | **2 working** | [Codes](https://newgamescout.com/jujutsu-shenanigans/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/jujutsu-shenanigans/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 11 | [Volleyball Legends](https://newgamescout.com/volleyball-legends?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=volleyball-legends) | 124.3K | 4.1B | **3 working** | [Codes](https://newgamescout.com/volleyball-legends/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/volleyball-legends/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 12 | [Dandy's World](https://newgamescout.com/dandys-world?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dandy-s-world) | 120.1K | 8.0B | **3 working** | [Codes](https://newgamescout.com/dandys-world/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/dandys-world/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 13 | [99 Nights in the Forest](https://newgamescout.com/99-nights-in-the-forest?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=99-nights-in-the-forest) | 119.5K | 30.4B | **4 working** | [Codes](https://newgamescout.com/99-nights-in-the-forest/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/99-nights-in-the-forest/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) · [Badges](https://newgamescout.com/99-nights-in-the-forest/badges?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=badges) |
-| 14 | [Anime Adventures](https://newgamescout.com/anime-adventures?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-adventures) | 95.5K | 2.6B | **5 working** | [Codes](https://newgamescout.com/anime-adventures/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/anime-adventures/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 15 | [Fisch](https://newgamescout.com/fisch?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fisch) | 88.0K | 5.1B | **3 working** | [Codes](https://newgamescout.com/fisch/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/fisch/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 16 | [Forsaken](https://newgamescout.com/forsaken?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=forsaken) | 82.3K | 6.0B | None yet | [Codes](https://newgamescout.com/forsaken/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 17 | [Dress To Impress](https://newgamescout.com/dress-to-impress?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dress-to-impress) | 73.5K | 11.3B | **27 working** | [Codes](https://newgamescout.com/dress-to-impress/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/dress-to-impress/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 18 | [Fish It!](https://newgamescout.com/fish-it?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fish-it-) | 71.9K | 4.8B | **3 working** | [Codes](https://newgamescout.com/fish-it/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/fish-it/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 19 | [Practical Basketball](https://newgamescout.com/practical-basketball?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=practical-basketball) | 69.1K | 157.2M | **3 working** | [Codes](https://newgamescout.com/practical-basketball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 20 | [Practical Basketball](https://newgamescout.com/practical-basketball?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=practical-basketball) | 69.1K | 157.2M | **4 working** | [Codes](https://newgamescout.com/practical-basketball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 21 | [Practical Basketball](https://newgamescout.com/practical-basketball?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=practical-basketball) | 69.1K | 157.2M | **5 working** | [Codes](https://newgamescout.com/practical-basketball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 22 | [Hyper Realistic Ragdoll](https://newgamescout.com/hyper-realistic-ragdoll?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=hyper-realistic-ragdoll) | 65.1K | 24.4M | None yet | [Codes](https://newgamescout.com/hyper-realistic-ragdoll/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 23 | [Violence District](https://newgamescout.com/violence-district?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=violence-district) | 62.8K | 1.7B | None yet | [Codes](https://newgamescout.com/violence-district/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 24 | [Bloody Ragdoll Physics](https://newgamescout.com/bloody-ragdoll-physics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bloody-ragdoll-physics) | 59.1K | 22.3M | None yet | [Codes](https://newgamescout.com/bloody-ragdoll-physics/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 25 | [The Strongest Battlegrounds](https://newgamescout.com/the-strongest-battlegrounds?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-strongest-battlegrounds) | 58.6K | 19.7B | None yet | [Codes](https://newgamescout.com/the-strongest-battlegrounds/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 26 | [Attack on Titan Revolution](https://newgamescout.com/attack-on-titan-revolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=attack-on-titan-revolution) | 55.0K | 1.2B | **6 working** | [Codes](https://newgamescout.com/attack-on-titan-revolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/attack-on-titan-revolution/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 27 | [Cameraman Tower Defense](https://newgamescout.com/cameraman-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cameraman-tower-defense) | 54.3K | 134.6M | **5 working** | [Codes](https://newgamescout.com/cameraman-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 28 | [Cameraman Tower Defense](https://newgamescout.com/cameraman-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cameraman-tower-defense) | 54.3K | 134.6M | **7 working** | [Codes](https://newgamescout.com/cameraman-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 29 | [Pet Simulator 99](https://newgamescout.com/pet-simulator-99?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pet-simulator-99) | 53.6K | 2.7B | None yet | [Codes](https://newgamescout.com/pet-simulator-99/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 30 | [Murderers VS Sheriffs Duels](https://newgamescout.com/murderers-vs-sheriffs?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=murderers-vs-sheriffs-duels) | 53.0K | 2.1B | None yet | [Codes](https://newgamescout.com/murderers-vs-sheriffs/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 31 | [Murderers VS Sheriffs](https://newgamescout.com/murderers-vs-sheriffs?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=murderers-vs-sheriffs) | 53.0K | 2.1B | **4 working** | [Codes](https://newgamescout.com/murderers-vs-sheriffs/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 32 | [Murderers VS Sheriffs](https://newgamescout.com/murderers-vs-sheriffs?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=murderers-vs-sheriffs) | 53.0K | 2.1B | **2 working** | [Codes](https://newgamescout.com/murderers-vs-sheriffs/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 33 | [Sandworm Playground](https://newgamescout.com/sandworm-playground?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sandworm-playground) | 52.6K | 5.6M | None yet | [Codes](https://newgamescout.com/sandworm-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sandworm-playground/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) · [Badges](https://newgamescout.com/sandworm-playground/badges?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=badges) |
-| 34 | [King Legacy](https://newgamescout.com/king-legacy?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=king-legacy) | 52.3K | 4.1B | **8 working** | [Codes](https://newgamescout.com/king-legacy/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/king-legacy/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 35 | [King Legacy](https://newgamescout.com/king-legacy?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=king-legacy) | 52.3K | 4.1B | **14 working** | [Codes](https://newgamescout.com/king-legacy/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 36 | [Tap Simulator REBORN](https://newgamescout.com/tap-simulator-reborn?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tap-simulator-reborn) | 47.8K | 56.7M | None yet | [Codes](https://newgamescout.com/tap-simulator-reborn/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 37 | [Tap Simulator REBORN](https://newgamescout.com/tap-simulator-reborn?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tap-simulator-reborn) | 47.8K | 56.7M | **5 working** | [Codes](https://newgamescout.com/tap-simulator-reborn/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 38 | [DONT SPLASH](https://newgamescout.com/dont-splash?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dont-splash) | 46.5K | 284.7M | None yet | [Codes](https://newgamescout.com/dont-splash/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/dont-splash/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 39 | [100 Miles Down the River](https://newgamescout.com/100-miles-down-the-river?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=100-miles-down-the-river) | 45.2K | 8.0M | None yet | [Codes](https://newgamescout.com/100-miles-down-the-river/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/100-miles-down-the-river/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) · [Badges](https://newgamescout.com/100-miles-down-the-river/badges?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=badges) |
-| 40 | [Steal a Brainrot](https://newgamescout.com/steal-a-brainrot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-brainrot) | 44.8K | 74.5B | None yet | [Codes](https://newgamescout.com/steal-a-brainrot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 41 | [Steal a Brainrot](https://newgamescout.com/steal-a-brainrot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-brainrot) | 44.8K | 74.5B | **1 working** | [Codes](https://newgamescout.com/steal-a-brainrot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 42 | [Driving Empire](https://newgamescout.com/driving-empire?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=driving-empire) | 44.3K | 3.4B | **3 working** | [Codes](https://newgamescout.com/driving-empire/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 43 | [Driving Empire](https://newgamescout.com/driving-empire?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=driving-empire) | 44.3K | 3.4B | **3 working** | [Codes](https://newgamescout.com/driving-empire/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 44 | [Driving Empire](https://newgamescout.com/driving-empire?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=driving-empire) | 44.3K | 3.4B | **3 working** | [Codes](https://newgamescout.com/driving-empire/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 45 | [13 Days to Escape](https://newgamescout.com/13-days-to-escape?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=13-days-to-escape) | 44.1K | 23.0M | None yet | [Codes](https://newgamescout.com/13-days-to-escape/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 46 | [Evade](https://newgamescout.com/evade?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evade) | 41.3K | 9.5B | **2 working** | [Codes](https://newgamescout.com/evade/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 47 | [Evade](https://newgamescout.com/evade?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evade) | 41.3K | 9.5B | **1 working** | [Codes](https://newgamescout.com/evade/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 48 | [Evade](https://newgamescout.com/evade?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evade) | 41.3K | 9.5B | **1 working** | [Codes](https://newgamescout.com/evade/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 49 | [Sweep The Moon](https://newgamescout.com/sweep-the-moon?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sweep-the-moon) | 40.2K | 13.4M | None yet | [Codes](https://newgamescout.com/sweep-the-moon/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 50 | [Fling Things and People](https://newgamescout.com/fling-things-and-people?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fling-things-and-people) | 39.0K | 3.7B | None yet | [Codes](https://newgamescout.com/fling-things-and-people/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 51 | [Bee Swarm Simulator](https://newgamescout.com/bee-swarm-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bee-swarm-simulator) | 38.7K | 4.7B | **11 working** | [Codes](https://newgamescout.com/bee-swarm-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 52 | [Bee Swarm Simulator](https://newgamescout.com/bee-swarm-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bee-swarm-simulator) | 38.7K | 4.7B | **10 working** | [Codes](https://newgamescout.com/bee-swarm-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 53 | [Bee Swarm Simulator](https://newgamescout.com/bee-swarm-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bee-swarm-simulator) | 38.7K | 4.7B | **12 working** | [Codes](https://newgamescout.com/bee-swarm-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 54 | [+1 Speed Keyboard Escape](https://newgamescout.com/plus-1-speed-keyboard-escape?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-speed-keyboard-escape) | 38.6K | 6.7B | **1 working** | [Codes](https://newgamescout.com/plus-1-speed-keyboard-escape/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 55 | [Tower of Hell](https://newgamescout.com/tower-of-hell?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tower-of-hell) | 37.9K | 29.4B | **7 working** | [Codes](https://newgamescout.com/tower-of-hell/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 56 | [Sol's RNG](https://newgamescout.com/sols-rng?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sol-s-rng) | 36.2K | 2.3B | **1 working** | [Codes](https://newgamescout.com/sols-rng/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sols-rng/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 57 | [Sol's RNG](https://newgamescout.com/sols-rng?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sol-s-rng) | 36.2K | 2.3B | **3 working** | [Codes](https://newgamescout.com/sols-rng/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 58 | [LifeTogether RP](https://newgamescout.com/lifetogether-rp?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=lifetogether-rp) | 34.9K | 4.1B | **10 working** | [Codes](https://newgamescout.com/lifetogether-rp/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/lifetogether-rp/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 59 | [LifeTogether RP](https://newgamescout.com/lifetogether-rp?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=lifetogether-rp) | 34.9K | 4.1B | **9 working** | [Codes](https://newgamescout.com/lifetogether-rp/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 60 | [DOORS](https://newgamescout.com/doors?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=doors) | 33.1K | 8.0B | **20 working** | [Codes](https://newgamescout.com/doors/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 61 | [Creatures of Sonaria](https://newgamescout.com/creatures-of-sonaria?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=creatures-of-sonaria) | 32.9K | 2.3B | None yet | [Codes](https://newgamescout.com/creatures-of-sonaria/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 62 | [STAND OUT](https://newgamescout.com/stand-out?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=stand-out) | 32.9K | 18.7M | None yet | [Codes](https://newgamescout.com/stand-out/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 63 | [STAND OUT](https://newgamescout.com/stand-out?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=stand-out) | 32.9K | 18.7M | **4 working** | [Codes](https://newgamescout.com/stand-out/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 64 | [STAND OUT](https://newgamescout.com/stand-out?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=stand-out) | 32.9K | 18.7M | **6 working** | [Codes](https://newgamescout.com/stand-out/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 65 | [Anime Crusaders X](https://newgamescout.com/anime-crusaders-x?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-crusaders-x) | 32.4K | 119.6M | **13 working** | [Codes](https://newgamescout.com/anime-crusaders-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/anime-crusaders-x/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 66 | [Anime Crusaders X](https://newgamescout.com/anime-crusaders-x?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-crusaders-x) | 32.4K | 119.6M | **9 working** | [Codes](https://newgamescout.com/anime-crusaders-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 67 | [Anime Crusaders X](https://newgamescout.com/anime-crusaders-x?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-crusaders-x) | 32.4K | 119.6M | **11 working** | [Codes](https://newgamescout.com/anime-crusaders-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 68 | [Huss Valley](https://newgamescout.com/huss-valley?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=huss-valley) | 32.2K | 276.2M | **13 working** | [Codes](https://newgamescout.com/huss-valley/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/huss-valley/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 69 | [Illegal Soccer](https://newgamescout.com/illegal-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=illegal-soccer) | 32.1K | 354.4M | None yet | [Codes](https://newgamescout.com/illegal-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 70 | [Illegal Soccer](https://newgamescout.com/illegal-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=illegal-soccer) | 32.1K | 354.4M | **1 working** | [Codes](https://newgamescout.com/illegal-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 71 | [Sell Fries!](https://newgamescout.com/sell-fries?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sell-fries-) | 32.0K | 120.1M | **2 working** | [Codes](https://newgamescout.com/sell-fries/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 72 | [Throw a Seed](https://newgamescout.com/throw-a-seed?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=throw-a-seed) | 31.6K | 14.3M | **7 working** | [Codes](https://newgamescout.com/throw-a-seed/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 73 | [Throw a Seed](https://newgamescout.com/throw-a-seed?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=throw-a-seed) | 31.6K | 14.3M | **7 working** | [Codes](https://newgamescout.com/throw-a-seed/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 74 | [Drag Drive Simulator](https://newgamescout.com/drag-drive-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=drag-drive-simulator) | 30.4K | 699.2M | **5 working** | [Codes](https://newgamescout.com/drag-drive-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/drag-drive-simulator/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 75 | [Ragdoll Research](https://newgamescout.com/ragdoll-research?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-research) | 30.4K | 2.1M | None yet | [Codes](https://newgamescout.com/ragdoll-research/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ragdoll-research/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 76 | [Survive Your Ideas](https://newgamescout.com/survive-your-ideas?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=survive-your-ideas) | 30.3K | 3.6M | **7 working** | [Codes](https://newgamescout.com/survive-your-ideas/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/survive-your-ideas/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 77 | [Dead Rails](https://newgamescout.com/dead-rails?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dead-rails) | 30.0K | 6.7B | None yet | [Codes](https://newgamescout.com/dead-rails/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 78 | [100 Days at Sea](https://newgamescout.com/100-days-at-sea?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=100-days-at-sea) | 29.5K | 446.1M | **1 working** | [Codes](https://newgamescout.com/100-days-at-sea/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 79 | [100 Days at Sea](https://newgamescout.com/100-days-at-sea?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=100-days-at-sea) | 29.5K | 446.1M | **3 working** | [Codes](https://newgamescout.com/100-days-at-sea/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 80 | [Depth Incremental](https://newgamescout.com/depth-incremental?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=depth-incremental) | 29.5K | 14.5M | **1 working** | [Codes](https://newgamescout.com/depth-incremental/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 81 | [Hypershot](https://newgamescout.com/hypershot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=hypershot) | 28.3K | 1.4B | **1 working** | [Codes](https://newgamescout.com/hypershot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 82 | [BedWars](https://newgamescout.com/bedwars?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bedwars) | 27.7K | 11.8B | None yet | [Codes](https://newgamescout.com/bedwars/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 83 | [Project Slayers 2](https://newgamescout.com/project-slayers-2?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=project-slayers-2) | 27.5K | 155.5M | **8 working** | [Codes](https://newgamescout.com/project-slayers-2/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 84 | [Project Slayers 2](https://newgamescout.com/project-slayers-2?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=project-slayers-2) | 27.5K | 155.5M | **12 working** | [Codes](https://newgamescout.com/project-slayers-2/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 85 | [Toilet Tower Defense](https://newgamescout.com/toilet-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=toilet-tower-defense) | 26.2K | 6.2B | **1 working** | [Codes](https://newgamescout.com/toilet-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 86 | [Toilet Tower Defense](https://newgamescout.com/toilet-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=toilet-tower-defense) | 26.2K | 6.2B | **1 working** | [Codes](https://newgamescout.com/toilet-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 87 | [Vanguards: Trail of the Saint](https://newgamescout.com/vanguards?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=vanguards-trail-of-the-saint) | 25.0K | 2.1B | **22 working** | [Codes](https://newgamescout.com/vanguards/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 88 | [Vanguards](https://newgamescout.com/vanguards?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=vanguards) | 25.0K | 2.1B | **4 working** | [Codes](https://newgamescout.com/vanguards/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 89 | [Shoot Arrows For Animals!](https://newgamescout.com/shoot-arrows-for-animals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=shoot-arrows-for-animals-) | 25.0K | 4.1M | None yet | [Codes](https://newgamescout.com/shoot-arrows-for-animals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/shoot-arrows-for-animals/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 90 | [Realistic Ragdoll MMA](https://newgamescout.com/realistic-ragdoll-mma?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=realistic-ragdoll-mma) | 24.6K | 5.4M | **1 working** | [Codes](https://newgamescout.com/realistic-ragdoll-mma/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 91 | [A Dusty Trip](https://newgamescout.com/a-dusty-trip?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=a-dusty-trip) | 24.4K | 2.6B | **3 working** | [Codes](https://newgamescout.com/a-dusty-trip/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 92 | [Anime Dice](https://newgamescout.com/anime-dice?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-dice) | 23.8K | 176.5M | **24 working** | [Codes](https://newgamescout.com/anime-dice/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/anime-dice/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 93 | [Anime Dice](https://newgamescout.com/anime-dice?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-dice) | 23.8K | 176.5M | **26 working** | [Codes](https://newgamescout.com/anime-dice/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 94 | [Blade Ball](https://newgamescout.com/blade-ball?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blade-ball) | 23.7K | 6.5B | **15 working** | [Codes](https://newgamescout.com/blade-ball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 95 | [Blade Ball](https://newgamescout.com/blade-ball?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blade-ball) | 23.7K | 6.5B | **16 working** | [Codes](https://newgamescout.com/blade-ball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 96 | [+1 Spider Arm](https://newgamescout.com/plus-1-spider-arm?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-spider-arm) | 23.5K | 24.6M | **2 working** | [Codes](https://newgamescout.com/plus-1-spider-arm/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/plus-1-spider-arm/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 97 | [Command An Army](https://newgamescout.com/command-an-army?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=command-an-army) | 23.5K | 94.7M | **7 working** | [Codes](https://newgamescout.com/command-an-army/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/command-an-army/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 98 | [The Forge](https://newgamescout.com/the-forge?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-forge) | 23.3K | 1.1B | **2 working** | [Codes](https://newgamescout.com/the-forge/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 99 | [The Forge](https://newgamescout.com/the-forge?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-forge) | 23.3K | 1.1B | **2 working** | [Codes](https://newgamescout.com/the-forge/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 100 | [Voxel Wars](https://newgamescout.com/voxel-wars?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=voxel-wars) | 23.2K | 3.3M | None yet | [Codes](https://newgamescout.com/voxel-wars/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/voxel-wars/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 101 | [Vox Seas](https://newgamescout.com/vox-seas?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=vox-seas) | 23.1K | 36.7M | None yet | [Codes](https://newgamescout.com/vox-seas/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 102 | [Vox Seas](https://newgamescout.com/vox-seas?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=vox-seas) | 23.1K | 36.7M | **5 working** | [Codes](https://newgamescout.com/vox-seas/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 103 | [Steal an Anime Pack](https://newgamescout.com/steal-an-anime-pack?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-an-anime-pack) | 22.4K | 17.3M | **4 working** | [Codes](https://newgamescout.com/steal-an-anime-pack/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 104 | [Steal an Anime Pack](https://newgamescout.com/steal-an-anime-pack?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-an-anime-pack) | 22.4K | 17.3M | **11 working** | [Codes](https://newgamescout.com/steal-an-anime-pack/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 105 | [Ant Evolution](https://newgamescout.com/ant-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ant-evolution) | 22.2K | 5.1M | **1 working** | [Codes](https://newgamescout.com/ant-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 106 | [Ant Evolution](https://newgamescout.com/ant-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ant-evolution) | 22.2K | 5.1M | **4 working** | [Codes](https://newgamescout.com/ant-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 107 | [Criminal Simulator](https://newgamescout.com/criminal-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=criminal-simulator) | 21.5K | 36.4M | **2 working** | [Codes](https://newgamescout.com/criminal-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 108 | [Criminal Simulator](https://newgamescout.com/criminal-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=criminal-simulator) | 21.5K | 36.4M | **4 working** | [Codes](https://newgamescout.com/criminal-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 109 | [Half Punch](https://newgamescout.com/half-punch?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=half-punch) | 21.3K | 4.7M | None yet | [Codes](https://newgamescout.com/half-punch/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/half-punch/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 110 | [Turbo Soccer](https://newgamescout.com/turbo-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=turbo-soccer) | 19.8K | 208.8M | **2 working** | [Codes](https://newgamescout.com/turbo-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 111 | [Kit PVP FFA](https://newgamescout.com/kit-pvp-ffa?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=kit-pvp-ffa) | 19.7K | 2.3M | — | — |
-| 112 | [My Avatar!](https://newgamescout.com/my-avatar?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=my-avatar-) | 19.2K | 527.3M | **1 working** | [Codes](https://newgamescout.com/my-avatar/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 113 | [My Avatar!](https://newgamescout.com/my-avatar?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=my-avatar-) | 19.2K | 527.3M | **1 working** | [Codes](https://newgamescout.com/my-avatar/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 114 | [Squid Game X](https://newgamescout.com/squid-game-x?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=squid-game-x) | 19.0K | 2.4B | **54 working** | [Codes](https://newgamescout.com/squid-game-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 115 | [Squid Game X](https://newgamescout.com/squid-game-x?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=squid-game-x) | 19.0K | 2.4B | **14 working** | [Codes](https://newgamescout.com/squid-game-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 116 | [NFL Universe Football](https://newgamescout.com/nfl-universe-football?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=nfl-universe-football) | 19.0K | 1.0B | **4 working** | [Codes](https://newgamescout.com/nfl-universe-football/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 117 | [NFL Universe Football](https://newgamescout.com/nfl-universe-football?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=nfl-universe-football) | 19.0K | 1.0B | **6 working** | [Codes](https://newgamescout.com/nfl-universe-football/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 118 | [Cast a Magnet](https://newgamescout.com/cast-a-magnet?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cast-a-magnet) | 18.6K | 1.1M | **8 working** | [Codes](https://newgamescout.com/cast-a-magnet/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/cast-a-magnet/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 119 | [Evermore High](https://newgamescout.com/evermore-high?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evermore-high) | 18.3K | 21.8M | **3 working** | [Codes](https://newgamescout.com/evermore-high/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/evermore-high/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 120 | [Realistic Street Soccer](https://newgamescout.com/realistic-street-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=realistic-street-soccer) | 17.5K | 1.8B | **1 working** | [Codes](https://newgamescout.com/realistic-street-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 121 | [+1 Venom Evolution](https://newgamescout.com/plus-1-venom-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-venom-evolution) | 16.6K | 74.3M | **6 working** | [Codes](https://newgamescout.com/plus-1-venom-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 122 | [+1 Venom Evolution](https://newgamescout.com/plus-1-venom-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-venom-evolution) | 16.6K | 74.3M | **5 working** | [Codes](https://newgamescout.com/plus-1-venom-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 123 | [PINKIE PROMISE](https://newgamescout.com/pinkie-promise?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pinkie-promise) | 16.5K | 42.0M | **2 working** | [Codes](https://newgamescout.com/pinkie-promise/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 124 | [Jailbreak](https://newgamescout.com/jailbreak?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jailbreak) | 16.2K | 8.1B | **4 working** | [Codes](https://newgamescout.com/jailbreak/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 125 | [Stack A Butter Squishy](https://newgamescout.com/stack-a-butter-squishy?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=stack-a-butter-squishy) | 15.2K | 57.7M | **5 working** | [Codes](https://newgamescout.com/stack-a-butter-squishy/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 126 | [Stack A Butter Squishy](https://newgamescout.com/stack-a-butter-squishy?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=stack-a-butter-squishy) | 15.2K | 57.7M | **6 working** | [Codes](https://newgamescout.com/stack-a-butter-squishy/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 127 | [Grow a Garden](https://newgamescout.com/grow-a-garden?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=grow-a-garden) | 14.8K | 36.0B | **2 working** | [Codes](https://newgamescout.com/grow-a-garden/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/grow-a-garden/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 128 | [Grow a Garden](https://newgamescout.com/grow-a-garden?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=grow-a-garden) | 14.8K | 36.0B | **3 working** | [Codes](https://newgamescout.com/grow-a-garden/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 129 | [Net a Fish!](https://newgamescout.com/net-a-fish?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=net-a-fish-) | 14.7K | 22.9M | **16 working** | [Codes](https://newgamescout.com/net-a-fish/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 130 | [Net a Fish!](https://newgamescout.com/net-a-fish?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=net-a-fish-) | 14.7K | 22.9M | **10 working** | [Codes](https://newgamescout.com/net-a-fish/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 131 | [Dubai RP](https://newgamescout.com/dubai-rp?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dubai-rp) | 14.5K | 339.0M | **3 working** | [Codes](https://newgamescout.com/dubai-rp/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 132 | [Say Cheese!](https://newgamescout.com/say-cheese?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=say-cheese-) | 14.5K | 8.1M | None yet | [Codes](https://newgamescout.com/say-cheese/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [All endings](https://newgamescout.com/say-cheese/endings?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=all-endings) · [Guide](https://newgamescout.com/say-cheese/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 133 | [My Anime Mine](https://newgamescout.com/my-anime-mine?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=my-anime-mine) | 14.3K | 35.8M | **8 working** | [Codes](https://newgamescout.com/my-anime-mine/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 134 | [Build A Racetrack](https://newgamescout.com/build-a-racetrack?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=build-a-racetrack) | 12.6K | 7.7M | **3 working** | [Codes](https://newgamescout.com/build-a-racetrack/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 135 | [Make a Cartoon](https://newgamescout.com/make-a-cartoon?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=make-a-cartoon) | 12.3K | 5.9M | None yet | [Codes](https://newgamescout.com/make-a-cartoon/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/make-a-cartoon/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 136 | [Blue Lock: Rivals](https://newgamescout.com/blue-lock-rivals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blue-lock-rivals) | 12.2K | 5.0B | **3 working** | [Codes](https://newgamescout.com/blue-lock-rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 137 | [Blue Lock: Rivals](https://newgamescout.com/blue-lock-rivals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blue-lock-rivals) | 12.2K | 5.0B | **6 working** | [Codes](https://newgamescout.com/blue-lock-rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 138 | [Ragdoll Soccer](https://newgamescout.com/ragdoll-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-soccer) | 11.9K | 2.2M | **2 working** | [Codes](https://newgamescout.com/ragdoll-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ragdoll-soccer/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 139 | [Be a Soccer Legend](https://newgamescout.com/be-a-soccer-legend?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=be-a-soccer-legend) | 11.8K | 18.7M | **4 working** | [Codes](https://newgamescout.com/be-a-soccer-legend/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 140 | [WRECKED](https://newgamescout.com/wrecked?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=wrecked) | 11.5K | 1.7M | None yet | [Codes](https://newgamescout.com/wrecked/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/wrecked/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 141 | [Azure Latch](https://newgamescout.com/azure-latch?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=azure-latch) | 11.0K | 619.7M | **6 working** | [Codes](https://newgamescout.com/azure-latch/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 142 | [Azure Latch](https://newgamescout.com/azure-latch?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=azure-latch) | 11.0K | 619.7M | **10 working** | [Codes](https://newgamescout.com/azure-latch/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 143 | [Tower Defense Simulator](https://newgamescout.com/tower-defense-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tower-defense-simulator) | 10.8K | 5.1B | **2 working** | [Codes](https://newgamescout.com/tower-defense-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 144 | [Tower Defense Simulator](https://newgamescout.com/tower-defense-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tower-defense-simulator) | 10.8K | 5.1B | **2 working** | [Codes](https://newgamescout.com/tower-defense-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 145 | [Run a Christmas Tree Lot](https://newgamescout.com/run-a-christmas-tree-lot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=run-a-christmas-tree-lot) | 10.6K | 10.2M | **8 working** | [Codes](https://newgamescout.com/run-a-christmas-tree-lot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/run-a-christmas-tree-lot/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 146 | [Run a Christmas Tree Lot](https://newgamescout.com/run-a-christmas-tree-lot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=run-a-christmas-tree-lot) | 10.6K | 10.2M | **10 working** | [Codes](https://newgamescout.com/run-a-christmas-tree-lot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 147 | [Build A Boat For Treasure](https://newgamescout.com/build-a-boat-for-treasure?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=build-a-boat-for-treasure) | 10.6K | 5.3B | **4 working** | [Codes](https://newgamescout.com/build-a-boat-for-treasure/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 148 | [Build A Boat For Treasure](https://newgamescout.com/build-a-boat-for-treasure?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=build-a-boat-for-treasure) | 10.6K | 5.3B | **3 working** | [Codes](https://newgamescout.com/build-a-boat-for-treasure/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 149 | [Baddies](https://newgamescout.com/baddies?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=baddies) | 10.4K | 1.9B | **2 working** | [Codes](https://newgamescout.com/baddies/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 150 | [Baddies](https://newgamescout.com/baddies?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=baddies) | 10.4K | 1.9B | **2 working** | [Codes](https://newgamescout.com/baddies/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 151 | [A Bizarre Run](https://newgamescout.com/a-bizarre-run?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=a-bizarre-run) | 10.3K | 52.8M | **7 working** | [Codes](https://newgamescout.com/a-bizarre-run/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 152 | [Kaiju Alpha](https://newgamescout.com/kaiju-alpha?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=kaiju-alpha) | 10.1K | 69.1M | **2 working** | [Codes](https://newgamescout.com/kaiju-alpha/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 153 | [Do Not Stop](https://newgamescout.com/do-not-stop?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=do-not-stop) | 9.8K | 1.4M | **6 working** | [Codes](https://newgamescout.com/do-not-stop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/do-not-stop/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 154 | [Unstable SMP FFA](https://newgamescout.com/unstable-smp-ffa?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=unstable-smp-ffa) | 9.7K | 1.1M | None yet | [Codes](https://newgamescout.com/unstable-smp-ffa/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/unstable-smp-ffa/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 155 | [Paper To Plane](https://newgamescout.com/paper-to-plane?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=paper-to-plane) | 9.6K | 543.8K | **4 working** | [Codes](https://newgamescout.com/paper-to-plane/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/paper-to-plane/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 156 | [Pumpkin Playground](https://newgamescout.com/pumpkin-playground?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pumpkin-playground) | 9.6K | 8.9M | **2 working** | [Codes](https://newgamescout.com/pumpkin-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 157 | [BlockSpin](https://newgamescout.com/blockspin?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blockspin) | 9.4K | 1.4B | **1 working** | [Codes](https://newgamescout.com/blockspin/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/blockspin/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 158 | [BlockSpin](https://newgamescout.com/blockspin?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blockspin) | 9.4K | 1.4B | **1 working** | [Codes](https://newgamescout.com/blockspin/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 159 | [Revolver Arena](https://newgamescout.com/revolver-arena?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=revolver-arena) | 9.3K | 3.6M | None yet | [Codes](https://newgamescout.com/revolver-arena/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/revolver-arena/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 160 | [Raise The Biggest Family](https://newgamescout.com/raise-the-biggest-family?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=raise-the-biggest-family) | 9.1K | 13.4M | None yet | [Codes](https://newgamescout.com/raise-the-biggest-family/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/raise-the-biggest-family/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 161 | [Steal a Superpower](https://newgamescout.com/steal-a-superpower?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-superpower) | 9.1K | 12.6M | **9 working** | [Codes](https://newgamescout.com/steal-a-superpower/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/steal-a-superpower/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 162 | [Ragdoll Experiment](https://newgamescout.com/ragdoll-experiment?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-experiment) | 9.1K | 1.6M | — | — |
-| 163 | [Beyond Nen](https://newgamescout.com/beyond-nen?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=beyond-nen) | 8.8K | 3.9M | **7 working** | [Codes](https://newgamescout.com/beyond-nen/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 164 | [Technical Ragdoll MMA](https://newgamescout.com/technical-ragdoll-mma?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=technical-ragdoll-mma) | 8.6K | 9.9M | **1 working** | [Codes](https://newgamescout.com/technical-ragdoll-mma/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 165 | [Ragdoll Realism](https://newgamescout.com/ragdoll-realism?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-realism) | 8.6K | 1.3M | None yet | [Codes](https://newgamescout.com/ragdoll-realism/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ragdoll-realism/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 166 | [Deagle Arena](https://newgamescout.com/deagle-arena?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=deagle-arena) | 8.5K | 324.9M | **2 working** | [Codes](https://newgamescout.com/deagle-arena/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/deagle-arena/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 167 | [Low Range: Offroad 4x4](https://newgamescout.com/low-range-offroad-4x4?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=low-range-offroad-4x4) | 8.3K | 1.2M | None yet | [Codes](https://newgamescout.com/low-range-offroad-4x4/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/low-range-offroad-4x4/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 168 | [BoneBox Engine](https://newgamescout.com/bonebox-engine?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bonebox-engine) | 8.1K | 4.2M | **5 working** | [Codes](https://newgamescout.com/bonebox-engine/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 169 | [FERAL Animal Survival](https://newgamescout.com/feral-animal-survival?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=feral-animal-survival) | 7.9K | 963.5K | None yet | [Codes](https://newgamescout.com/feral-animal-survival/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/feral-animal-survival/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 170 | [My Cookie Store](https://newgamescout.com/my-cookie-store?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=my-cookie-store) | 7.9K | 2.6M | None yet | [Codes](https://newgamescout.com/my-cookie-store/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/my-cookie-store/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 171 | [Barber Simulator](https://newgamescout.com/barber-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=barber-simulator) | 7.8K | 1.9M | **1 working** | [Codes](https://newgamescout.com/barber-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/barber-simulator/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 172 | [untitled boxing game](https://newgamescout.com/untitled-boxing-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-boxing-game) | 7.7K | 1.5B | **8 working** | [Codes](https://newgamescout.com/untitled-boxing-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 173 | [Ghost Driver](https://newgamescout.com/ghost-driver?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ghost-driver) | 7.6K | 133.3M | **4 working** | [Codes](https://newgamescout.com/ghost-driver/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ghost-driver/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 174 | [+1 Ghoul Evolution](https://newgamescout.com/1-ghoul-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-ghoul-evolution) | 7.6K | 2.1M | **5 working** | [Codes](https://newgamescout.com/1-ghoul-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/1-ghoul-evolution/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 175 | [Untitled Symbiote Suit Game](https://newgamescout.com/untitled-symbiote-suit-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-symbiote-suit-game) | 7.5K | 1.7M | None yet | [Codes](https://newgamescout.com/untitled-symbiote-suit-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/untitled-symbiote-suit-game/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 176 | [Cozy Lucky Scoop Order](https://newgamescout.com/cozy-lucky-scoop-order?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cozy-lucky-scoop-order) | 7.5K | 8.3M | None yet | [Codes](https://newgamescout.com/cozy-lucky-scoop-order/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/cozy-lucky-scoop-order/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 177 | [Rooster Rivals](https://newgamescout.com/rooster-rivals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rooster-rivals) | 7.5K | 3.9M | **6 working** | [Codes](https://newgamescout.com/rooster-rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/rooster-rivals/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 178 | [Throw Food For Clowns](https://newgamescout.com/throw-food-for-clowns?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=throw-food-for-clowns) | 7.5K | 1.6M | None yet | [Codes](https://newgamescout.com/throw-food-for-clowns/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 179 | [+1 Baddie Evolution](https://newgamescout.com/1-baddie-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-baddie-evolution) | 7.3K | 2.2M | None yet | [Codes](https://newgamescout.com/1-baddie-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/1-baddie-evolution/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 180 | [Jump for Cases](https://newgamescout.com/jump-for-cases?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jump-for-cases) | 7.1K | 7.6M | **4 working** | [Codes](https://newgamescout.com/jump-for-cases/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 181 | [Bubble Gum Simulator INFINITY](https://newgamescout.com/bubble-gum-simulator-infinity?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bubble-gum-simulator-infinity) | 7.1K | 627.9M | **53 working** | [Codes](https://newgamescout.com/bubble-gum-simulator-infinity/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 182 | [Project Web](https://newgamescout.com/project-web?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=project-web) | 7.1K | 5.4M | None yet | [Codes](https://newgamescout.com/project-web/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/project-web/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 183 | [Fish for Secret Animals](https://newgamescout.com/fish-for-secret-animals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fish-for-secret-animals) | 7.1K | 707.2K | None yet | [Codes](https://newgamescout.com/fish-for-secret-animals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 184 | [Untitled Ragdoll Game](https://newgamescout.com/untitled-ragdoll-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-ragdoll-game) | 6.8K | 1.4M | None yet | [Codes](https://newgamescout.com/untitled-ragdoll-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/untitled-ragdoll-game/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 185 | [Heavyweight Fishing](https://newgamescout.com/heavyweight-fishing?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=heavyweight-fishing) | 6.7K | 83.7M | **15 working** | [Codes](https://newgamescout.com/heavyweight-fishing/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 186 | [MALAM SAMA OPAH](https://newgamescout.com/malam-sama-opah?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-sama-opah) | 6.7K | 7.3M | **2 working** | [Codes](https://newgamescout.com/malam-sama-opah/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/malam-sama-opah/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 187 | [Harpoon a Fish](https://newgamescout.com/harpoon-a-fish?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=harpoon-a-fish) | 6.5K | 24.0M | **3 working** | [Codes](https://newgamescout.com/harpoon-a-fish/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 188 | [Dragon Adventures](https://newgamescout.com/dragon-adventures?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dragon-adventures) | 6.5K | 1.8B | **5 working** | [Codes](https://newgamescout.com/dragon-adventures/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 189 | [The Ditch Hotel](https://newgamescout.com/the-ditch-hotel?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-ditch-hotel) | 6.3K | 6.4M | **7 working** | [Codes](https://newgamescout.com/the-ditch-hotel/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/the-ditch-hotel/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 190 | [Cambria](https://newgamescout.com/cambria?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cambria) | 6.2K | 1.1M | — | — |
-| 191 | [Steal A Balut](https://newgamescout.com/steal-a-balut?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-balut) | 6.1K | 1.3M | **9 working** | [Codes](https://newgamescout.com/steal-a-balut/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/steal-a-balut/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 192 | [SF BIKE](https://newgamescout.com/sf-bike?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sf-bike) | 6.0K | 3.8M | **3 working** | [Codes](https://newgamescout.com/sf-bike/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sf-bike/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 193 | [BloxNG](https://newgamescout.com/bloxng?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bloxng) | 5.9K | 580.2K | None yet | [Codes](https://newgamescout.com/bloxng/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/bloxng/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 194 | [Bloodlines](https://newgamescout.com/bloodlines?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bloodlines) | 5.9K | 73.4M | **6 working** | [Codes](https://newgamescout.com/bloodlines/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/bloodlines/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 195 | [Pull a Dino](https://newgamescout.com/pull-a-dino?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pull-a-dino) | 5.9K | 2.0M | **9 working** | [Codes](https://newgamescout.com/pull-a-dino/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 196 | [Sorcerer Tower Defense](https://newgamescout.com/sorcerer-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sorcerer-tower-defense) | 5.9K | 204.6M | **4 working** | [Codes](https://newgamescout.com/sorcerer-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 197 | [RoChess](https://newgamescout.com/rochess?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rochess) | 5.8K | 11.7M | **3 working** | [Codes](https://newgamescout.com/rochess/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 198 | [Break To Steal A Chicken](https://newgamescout.com/break-to-steal-a-chicken?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=break-to-steal-a-chicken) | 5.7K | 2.1M | **19 working** | [Codes](https://newgamescout.com/break-to-steal-a-chicken/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/break-to-steal-a-chicken/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 199 | [Decorate Me!](https://newgamescout.com/decorate-me?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=decorate-me-) | 5.6K | 3.0M | None yet | [Codes](https://newgamescout.com/decorate-me/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/decorate-me/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 200 | [Mini War](https://newgamescout.com/mini-war?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=mini-war) | 5.5K | 373.7M | **1 working** | [Codes](https://newgamescout.com/mini-war/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 201 | [Build a REAL House](https://newgamescout.com/build-a-real-house?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=build-a-real-house) | 5.5K | 1.4M | None yet | [Codes](https://newgamescout.com/build-a-real-house/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/build-a-real-house/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 202 | [Bad Physics](https://newgamescout.com/bad-physics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bad-physics) | 5.4K | 1.3M | None yet | [Codes](https://newgamescout.com/bad-physics/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/bad-physics/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 203 | [Rebirth Champions: Ultimate](https://newgamescout.com/rebirth-champions-ultimate?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rebirth-champions-ultimate) | 5.3K | 254.8M | **40 working** | [Codes](https://newgamescout.com/rebirth-champions-ultimate/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 204 | [Catch A Pet And Ride It](https://newgamescout.com/catch-a-pet-and-ride-it?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=catch-a-pet-and-ride-it) | 5.3K | 1.4M | None yet | [Codes](https://newgamescout.com/catch-a-pet-and-ride-it/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 205 | [Deep Fishing](https://newgamescout.com/deep-fishing?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=deep-fishing) | 5.3K | 30.0M | **20 working** | [Codes](https://newgamescout.com/deep-fishing/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 206 | [Murder Duels](https://newgamescout.com/murder-duels?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=murder-duels) | 5.1K | 336.2M | **1 working** | [Codes](https://newgamescout.com/murder-duels/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 207 | [Jujutsu Farm](https://newgamescout.com/jujutsu-farm?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jujutsu-farm) | 5.1K | 3.7M | **4 working** | [Codes](https://newgamescout.com/jujutsu-farm/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 208 | [Wanted](https://newgamescout.com/wanted?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=wanted) | 5.1K | 153.6M | **6 working** | [Codes](https://newgamescout.com/wanted/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 209 | [Impact Lab: Extreme Physics!](https://newgamescout.com/impact-lab-extreme-physics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=impact-lab-extreme-physics-) | 4.9K | 467.8K | None yet | [Codes](https://newgamescout.com/impact-lab-extreme-physics/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/impact-lab-extreme-physics/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 210 | [Anime Card Clash](https://newgamescout.com/anime-card-clash?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-card-clash) | 4.8K | 542.5M | **11 working** | [Codes](https://newgamescout.com/anime-card-clash/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 211 | [30 Floors Up](https://newgamescout.com/30-floors-up?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=30-floors-up) | 4.8K | 2.2M | **2 working** | [Codes](https://newgamescout.com/30-floors-up/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/30-floors-up/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 212 | [Onthel Purwodadi](https://newgamescout.com/onthel-purwodadi?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=onthel-purwodadi) | 4.7K | 3.8M | **4 working** | [Codes](https://newgamescout.com/onthel-purwodadi/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/onthel-purwodadi/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 213 | [Defeat Ragdolls for Powers!](https://newgamescout.com/defeat-ragdolls-for-powers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=defeat-ragdolls-for-powers-) | 4.5K | 463.2K | **1 working** | [Codes](https://newgamescout.com/defeat-ragdolls-for-powers/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/defeat-ragdolls-for-powers/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 214 | [Teleport Duels](https://newgamescout.com/teleport-duels?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=teleport-duels) | 4.4K | 1.6M | None yet | [Codes](https://newgamescout.com/teleport-duels/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/teleport-duels/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 215 | [Pixel Z](https://newgamescout.com/pixel-z?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pixel-z) | 4.4K | 525.7K | **1 working** | [Codes](https://newgamescout.com/pixel-z/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/pixel-z/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 216 | [Tiny Snipers](https://newgamescout.com/tiny-snipers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tiny-snipers) | 4.4K | 3.9M | **2 working** | [Codes](https://newgamescout.com/tiny-snipers/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 217 | [Steal an Nightmare Egg](https://newgamescout.com/steal-an-nightmare-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-an-nightmare-egg) | 4.3K | 3.3M | None yet | [Codes](https://newgamescout.com/steal-an-nightmare-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/steal-an-nightmare-egg/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 218 | [War Tycoon](https://newgamescout.com/war-tycoon?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=war-tycoon) | 4.3K | 1.1B | **3 working** | [Codes](https://newgamescout.com/war-tycoon/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 219 | [Ragdoll Destruction Playground](https://newgamescout.com/ragdoll-destruction-playground?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-destruction-playground) | 4.3K | 543.3K | None yet | [Codes](https://newgamescout.com/ragdoll-destruction-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ragdoll-destruction-playground/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 220 | [+1 Loot To Forge](https://newgamescout.com/loot-to-forge?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-loot-to-forge) | 4.1K | 98.3M | **3 working** | [Codes](https://newgamescout.com/loot-to-forge/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/loot-to-forge/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 221 | [Anime Astral Simulator](https://newgamescout.com/anime-astral-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-astral-simulator) | 4.0K | 127.6M | **40 working** | [Codes](https://newgamescout.com/anime-astral-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 222 | [Moto Empire](https://newgamescout.com/moto-empire?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=moto-empire) | 3.9K | 12.1M | **7 working** | [Codes](https://newgamescout.com/moto-empire/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 223 | [Sleepover (Story)](https://newgamescout.com/sleepover?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sleepover-story-) | 3.8K | 4.5M | None yet | [Codes](https://newgamescout.com/sleepover/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sleepover/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 224 | [Asylum Life](https://newgamescout.com/asylum-life?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=asylum-life) | 3.8K | 312.9M | **3 working** | [Codes](https://newgamescout.com/asylum-life/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 225 | [Escooter World](https://newgamescout.com/escooter-world?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=escooter-world) | 3.8K | 3.1M | None yet | [Codes](https://newgamescout.com/escooter-world/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 226 | [Impossible Hill Climb](https://newgamescout.com/impossible-hill-climb?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=impossible-hill-climb) | 3.8K | 1.1M | None yet | [Codes](https://newgamescout.com/impossible-hill-climb/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/impossible-hill-climb/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 227 | [Tesla Roadster Chase](https://newgamescout.com/tesla-roadster-chase?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tesla-roadster-chase) | 3.7K | 3.3M | **3 working** | [Codes](https://newgamescout.com/tesla-roadster-chase/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/tesla-roadster-chase/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 228 | [MALAM SAMA ATOK](https://newgamescout.com/malam-sama-atok?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-sama-atok) | 3.6K | 1.4M | None yet | [Codes](https://newgamescout.com/malam-sama-atok/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/malam-sama-atok/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 229 | [Ragdoll Awakening](https://newgamescout.com/ragdoll-awakening?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-awakening) | 3.6K | 912.5K | None yet | [Codes](https://newgamescout.com/ragdoll-awakening/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 230 | [Pocket Landlord](https://newgamescout.com/pocket-landlord?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pocket-landlord) | 3.5K | 1.5M | None yet | [Codes](https://newgamescout.com/pocket-landlord/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/pocket-landlord/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 231 | [Button Battles](https://newgamescout.com/button-battles?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=button-battles) | 3.5K | 1.9M | None yet | [Codes](https://newgamescout.com/button-battles/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/button-battles/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 232 | [Ball Knowledge](https://newgamescout.com/ball-knowledge?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ball-knowledge) | 3.5K | 1.9M | None yet | [Codes](https://newgamescout.com/ball-knowledge/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ball-knowledge/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 233 | [Cave Casualties](https://newgamescout.com/cave-casualties?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cave-casualties) | 3.4K | 885.8K | None yet | [Codes](https://newgamescout.com/cave-casualties/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/cave-casualties/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 234 | [Garden Tower Defense](https://newgamescout.com/garden-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=garden-tower-defense) | 3.3K | 832.8M | **11 working** | [Codes](https://newgamescout.com/garden-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 235 | [Ishin](https://newgamescout.com/ishin?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ishin) | 3.3K | 4.8M | **6 working** | [Codes](https://newgamescout.com/ishin/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 236 | [Your Bizarre Adventure](https://newgamescout.com/your-bizarre-adventure?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=your-bizarre-adventure) | 3.2K | 2.3B | **1 working** | [Codes](https://newgamescout.com/your-bizarre-adventure/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 237 | [Drink the Ocean](https://newgamescout.com/drink-the-ocean?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=drink-the-ocean) | 3.2K | 603.5K | **1 working** | [Codes](https://newgamescout.com/drink-the-ocean/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [All endings](https://newgamescout.com/drink-the-ocean/endings?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=all-endings) · [Guide](https://newgamescout.com/drink-the-ocean/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) · [Badges](https://newgamescout.com/drink-the-ocean/badges?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=badges) |
-| 238 | [Shibuya](https://newgamescout.com/shibuya?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=shibuya) | 3.0K | 3.3M | **3 working** | [Codes](https://newgamescout.com/shibuya/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/shibuya/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 239 | [Detect and Steal an Egg](https://newgamescout.com/detect-and-steal-an-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=detect-and-steal-an-egg) | 3.0K | 1.2M | None yet | [Codes](https://newgamescout.com/detect-and-steal-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/detect-and-steal-an-egg/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 240 | [Be a Cleaning Robot](https://newgamescout.com/be-a-cleaning-robot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=be-a-cleaning-robot) | 3.0K | 917.4K | None yet | [Codes](https://newgamescout.com/be-a-cleaning-robot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/be-a-cleaning-robot/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 241 | [That Is NOT My Mom](https://newgamescout.com/that-is-not-my-mom?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=that-is-not-my-mom) | 3.0K | 7.7M | None yet | [Codes](https://newgamescout.com/that-is-not-my-mom/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/that-is-not-my-mom/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 242 | [The Glitched Attraction](https://newgamescout.com/glitched-attraction?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-glitched-attraction) | 2.8K | 737.2K | None yet | [Codes](https://newgamescout.com/glitched-attraction/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/glitched-attraction/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 243 | [The Phone](https://newgamescout.com/the-phone?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-phone) | 2.7K | 944.5K | — | — |
-| 244 | [Gecko Duo](https://newgamescout.com/gecko-duo?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=gecko-duo) | 2.5K | 782.8K | None yet | [Codes](https://newgamescout.com/gecko-duo/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/gecko-duo/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 245 | [evil crawling things](https://newgamescout.com/evil-crawling-things?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evil-crawling-things) | 2.4K | 693.6K | — | — |
-| 246 | [Malam Bersama Kaka](https://newgamescout.com/malam-bersama-kaka?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-bersama-kaka) | 2.4K | 886.9K | None yet | [Codes](https://newgamescout.com/malam-bersama-kaka/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/malam-bersama-kaka/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 247 | [Steal A Scooter](https://newgamescout.com/steal-a-scooter?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-scooter) | 2.3K | 4.2M | None yet | [Codes](https://newgamescout.com/steal-a-scooter/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/steal-a-scooter/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 248 | [Jujutsu: Zero](https://newgamescout.com/jujutsu-zero?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jujutsu-zero) | 2.3K | 135.5M | **6 working** | [Codes](https://newgamescout.com/jujutsu-zero/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 249 | [Evolve an Egg!](https://newgamescout.com/evolve-an-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evolve-an-egg-) | 2.3K | 653.3K | None yet | [Codes](https://newgamescout.com/evolve-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 250 | [Golf a Lucky Egg](https://newgamescout.com/golf-a-lucky-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=golf-a-lucky-egg) | 2.2K | 780.8K | None yet | [Codes](https://newgamescout.com/golf-a-lucky-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/golf-a-lucky-egg/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 251 | [Archived](https://newgamescout.com/archived?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=archived) | 2.0K | 148.5M | **3 working** | [Codes](https://newgamescout.com/archived/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 252 | [PokeIdle](https://newgamescout.com/pokeidle?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pokeidle) | 1.9K | 249.9K | **2 working** | [Codes](https://newgamescout.com/pokeidle/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/pokeidle/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 253 | [Sell Pearls](https://newgamescout.com/sell-pearls?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sell-pearls) | 1.9K | 1.9M | None yet | [Codes](https://newgamescout.com/sell-pearls/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sell-pearls/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 254 | [Dont Swim](https://newgamescout.com/dont-swim?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dont-swim) | 1.8K | 1.4M | None yet | [Codes](https://newgamescout.com/dont-swim/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/dont-swim/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 255 | [Patrol Compton](https://newgamescout.com/patrol-compton?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=patrol-compton) | 1.7K | 388.3K | None yet | [Codes](https://newgamescout.com/patrol-compton/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/patrol-compton/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 256 | [Destroy a Tank](https://newgamescout.com/destroy-a-tank?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=destroy-a-tank) | 1.6K | 817.1K | None yet | [Codes](https://newgamescout.com/destroy-a-tank/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/destroy-a-tank/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 257 | [Peroxide](https://newgamescout.com/peroxide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=peroxide) | 1.4K | 427.0M | **4 working** | [Codes](https://newgamescout.com/peroxide/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
-| 258 | [Villain City: Destroy Everything](https://newgamescout.com/villain-city-destroy-everything?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=villain-city-destroy-everything) | 1.2K | 354.0K | None yet | [Codes](https://newgamescout.com/villain-city-destroy-everything/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/villain-city-destroy-everything/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 259 | [Get Your Superpowers!](https://newgamescout.com/get-your-superpowers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=get-your-superpowers-) | 1.2K | 2.4M | None yet | [Codes](https://newgamescout.com/get-your-superpowers/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/get-your-superpowers/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 260 | [Fix PCs!](https://newgamescout.com/fix-pcs?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fix-pcs-) | 1.1K | 661.0K | None yet | [Codes](https://newgamescout.com/fix-pcs/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/fix-pcs/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 261 | [Anime Zero](https://newgamescout.com/anime-zero?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-zero) | 559 | 60.9M | **38 working** | [Codes](https://newgamescout.com/anime-zero/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/anime-zero/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
-| 262 | [Last Call](https://newgamescout.com/last-call?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=last-call) | 71 | 1.6M | None yet | [Codes](https://newgamescout.com/last-call/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/last-call/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 5 | [Blox Fruits](https://newgamescout.com/blox-fruits?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blox-fruits) | 278.4K | 65.6B | **24 working** | [Codes](https://newgamescout.com/blox-fruits/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 6 | [RIVALS](https://newgamescout.com/rivals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rivals) | 276.4K | 19.3B | **7 working** | [Codes](https://newgamescout.com/rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/rivals/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 7 | [Adopt Me!](https://newgamescout.com/adopt-me?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=adopt-me-) | 240.5K | 45.4B | None yet | [Codes](https://newgamescout.com/adopt-me/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 8 | [Murder Mystery 2](https://newgamescout.com/murder-mystery-2?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=murder-mystery-2) | 197.8K | 32.3B | None yet | [Codes](https://newgamescout.com/murder-mystery-2/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 9 | [Jujutsu Shenanigans](https://newgamescout.com/jujutsu-shenanigans?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jujutsu-shenanigans) | 129.2K | 8.0B | **2 working** | [Codes](https://newgamescout.com/jujutsu-shenanigans/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/jujutsu-shenanigans/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 10 | [Volleyball Legends](https://newgamescout.com/volleyball-legends?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=volleyball-legends) | 124.3K | 4.1B | **3 working** | [Codes](https://newgamescout.com/volleyball-legends/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/volleyball-legends/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 11 | [Dandy's World](https://newgamescout.com/dandys-world?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dandy-s-world) | 120.1K | 8.0B | **3 working** | [Codes](https://newgamescout.com/dandys-world/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/dandys-world/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 12 | [99 Nights in the Forest](https://newgamescout.com/99-nights-in-the-forest?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=99-nights-in-the-forest) | 119.5K | 30.4B | **4 working** | [Codes](https://newgamescout.com/99-nights-in-the-forest/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/99-nights-in-the-forest/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) · [Badges](https://newgamescout.com/99-nights-in-the-forest/badges?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=badges) |
+| 13 | [Anime Adventures](https://newgamescout.com/anime-adventures?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-adventures) | 95.5K | 2.6B | **5 working** | [Codes](https://newgamescout.com/anime-adventures/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/anime-adventures/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 14 | [Fisch](https://newgamescout.com/fisch?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fisch) | 88.0K | 5.1B | **3 working** | [Codes](https://newgamescout.com/fisch/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/fisch/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 15 | [Forsaken](https://newgamescout.com/forsaken?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=forsaken) | 82.3K | 6.0B | None yet | [Codes](https://newgamescout.com/forsaken/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 16 | [Dress To Impress](https://newgamescout.com/dress-to-impress?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dress-to-impress) | 73.5K | 11.3B | **27 working** | [Codes](https://newgamescout.com/dress-to-impress/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/dress-to-impress/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 17 | [Fish It!](https://newgamescout.com/fish-it?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fish-it-) | 71.9K | 4.8B | **3 working** | [Codes](https://newgamescout.com/fish-it/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/fish-it/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 18 | [Practical Basketball](https://newgamescout.com/practical-basketball?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=practical-basketball) | 69.1K | 157.2M | **5 working** | [Codes](https://newgamescout.com/practical-basketball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 19 | [Hyper Realistic Ragdoll](https://newgamescout.com/hyper-realistic-ragdoll?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=hyper-realistic-ragdoll) | 65.1K | 24.4M | None yet | [Codes](https://newgamescout.com/hyper-realistic-ragdoll/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 20 | [Violence District](https://newgamescout.com/violence-district?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=violence-district) | 62.8K | 1.7B | None yet | [Codes](https://newgamescout.com/violence-district/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 21 | [Bloody Ragdoll Physics](https://newgamescout.com/bloody-ragdoll-physics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bloody-ragdoll-physics) | 59.1K | 22.3M | None yet | [Codes](https://newgamescout.com/bloody-ragdoll-physics/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 22 | [The Strongest Battlegrounds](https://newgamescout.com/the-strongest-battlegrounds?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-strongest-battlegrounds) | 58.6K | 19.7B | None yet | [Codes](https://newgamescout.com/the-strongest-battlegrounds/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 23 | [Attack on Titan Revolution](https://newgamescout.com/attack-on-titan-revolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=attack-on-titan-revolution) | 55.0K | 1.2B | **6 working** | [Codes](https://newgamescout.com/attack-on-titan-revolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/attack-on-titan-revolution/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 24 | [Cameraman Tower Defense](https://newgamescout.com/cameraman-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cameraman-tower-defense) | 54.3K | 134.6M | **7 working** | [Codes](https://newgamescout.com/cameraman-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 25 | [Pet Simulator 99](https://newgamescout.com/pet-simulator-99?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pet-simulator-99) | 53.6K | 2.7B | None yet | [Codes](https://newgamescout.com/pet-simulator-99/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 26 | [Murderers VS Sheriffs](https://newgamescout.com/murderers-vs-sheriffs?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=murderers-vs-sheriffs) | 53.0K | 2.1B | **2 working** | [Codes](https://newgamescout.com/murderers-vs-sheriffs/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 27 | [Sandworm Playground](https://newgamescout.com/sandworm-playground?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sandworm-playground) | 52.6K | 5.6M | None yet | [Codes](https://newgamescout.com/sandworm-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sandworm-playground/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) · [Badges](https://newgamescout.com/sandworm-playground/badges?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=badges) |
+| 28 | [King Legacy](https://newgamescout.com/king-legacy?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=king-legacy) | 52.3K | 4.1B | **14 working** | [Codes](https://newgamescout.com/king-legacy/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/king-legacy/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 29 | [Tap Simulator REBORN](https://newgamescout.com/tap-simulator-reborn?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tap-simulator-reborn) | 47.8K | 56.7M | **5 working** | [Codes](https://newgamescout.com/tap-simulator-reborn/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 30 | [DONT SPLASH](https://newgamescout.com/dont-splash?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dont-splash) | 46.5K | 284.7M | None yet | [Codes](https://newgamescout.com/dont-splash/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/dont-splash/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 31 | [100 Miles Down the River](https://newgamescout.com/100-miles-down-the-river?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=100-miles-down-the-river) | 45.2K | 8.0M | None yet | [Codes](https://newgamescout.com/100-miles-down-the-river/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/100-miles-down-the-river/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) · [Badges](https://newgamescout.com/100-miles-down-the-river/badges?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=badges) |
+| 32 | [Steal a Brainrot](https://newgamescout.com/steal-a-brainrot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-brainrot) | 44.8K | 74.5B | **1 working** | [Codes](https://newgamescout.com/steal-a-brainrot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 33 | [Driving Empire](https://newgamescout.com/driving-empire?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=driving-empire) | 44.3K | 3.4B | **3 working** | [Codes](https://newgamescout.com/driving-empire/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 34 | [13 Days to Escape](https://newgamescout.com/13-days-to-escape?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=13-days-to-escape) | 44.1K | 23.0M | None yet | [Codes](https://newgamescout.com/13-days-to-escape/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 35 | [Evade](https://newgamescout.com/evade?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evade) | 41.3K | 9.5B | **1 working** | [Codes](https://newgamescout.com/evade/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 36 | [Sweep The Moon](https://newgamescout.com/sweep-the-moon?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sweep-the-moon) | 40.2K | 13.4M | None yet | [Codes](https://newgamescout.com/sweep-the-moon/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 37 | [Fling Things and People](https://newgamescout.com/fling-things-and-people?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fling-things-and-people) | 39.0K | 3.7B | None yet | [Codes](https://newgamescout.com/fling-things-and-people/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 38 | [Bee Swarm Simulator](https://newgamescout.com/bee-swarm-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bee-swarm-simulator) | 38.7K | 4.7B | **12 working** | [Codes](https://newgamescout.com/bee-swarm-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 39 | [+1 Speed Keyboard Escape](https://newgamescout.com/plus-1-speed-keyboard-escape?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-speed-keyboard-escape) | 38.6K | 6.7B | **1 working** | [Codes](https://newgamescout.com/plus-1-speed-keyboard-escape/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 40 | [Sol's RNG](https://newgamescout.com/sols-rng?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sol-s-rng) | 36.2K | 2.3B | **3 working** | [Codes](https://newgamescout.com/sols-rng/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sols-rng/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 41 | [LifeTogether RP](https://newgamescout.com/lifetogether-rp?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=lifetogether-rp) | 34.9K | 4.1B | **9 working** | [Codes](https://newgamescout.com/lifetogether-rp/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/lifetogether-rp/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 42 | [STAND OUT](https://newgamescout.com/stand-out?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=stand-out) | 32.9K | 18.7M | **6 working** | [Codes](https://newgamescout.com/stand-out/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 43 | [Anime Crusaders X](https://newgamescout.com/anime-crusaders-x?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-crusaders-x) | 32.4K | 119.6M | **11 working** | [Codes](https://newgamescout.com/anime-crusaders-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/anime-crusaders-x/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 44 | [Huss Valley](https://newgamescout.com/huss-valley?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=huss-valley) | 32.2K | 276.2M | **13 working** | [Codes](https://newgamescout.com/huss-valley/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/huss-valley/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 45 | [Illegal Soccer](https://newgamescout.com/illegal-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=illegal-soccer) | 32.1K | 354.4M | **1 working** | [Codes](https://newgamescout.com/illegal-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 46 | [Sell Fries!](https://newgamescout.com/sell-fries?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sell-fries-) | 32.0K | 120.1M | **2 working** | [Codes](https://newgamescout.com/sell-fries/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 47 | [Throw a Seed](https://newgamescout.com/throw-a-seed?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=throw-a-seed) | 31.6K | 14.3M | **7 working** | [Codes](https://newgamescout.com/throw-a-seed/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 48 | [Drag Drive Simulator](https://newgamescout.com/drag-drive-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=drag-drive-simulator) | 30.4K | 699.2M | **5 working** | [Codes](https://newgamescout.com/drag-drive-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/drag-drive-simulator/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 49 | [Ragdoll Research](https://newgamescout.com/ragdoll-research?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-research) | 30.4K | 2.1M | None yet | [Codes](https://newgamescout.com/ragdoll-research/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ragdoll-research/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 50 | [Survive Your Ideas](https://newgamescout.com/survive-your-ideas?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=survive-your-ideas) | 30.3K | 3.6M | **7 working** | [Codes](https://newgamescout.com/survive-your-ideas/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/survive-your-ideas/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 51 | [Dead Rails](https://newgamescout.com/dead-rails?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dead-rails) | 30.0K | 6.7B | None yet | [Codes](https://newgamescout.com/dead-rails/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 52 | [100 Days at Sea](https://newgamescout.com/100-days-at-sea?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=100-days-at-sea) | 29.5K | 446.1M | **3 working** | [Codes](https://newgamescout.com/100-days-at-sea/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 53 | [Depth Incremental](https://newgamescout.com/depth-incremental?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=depth-incremental) | 29.5K | 14.5M | **1 working** | [Codes](https://newgamescout.com/depth-incremental/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 54 | [Hypershot](https://newgamescout.com/hypershot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=hypershot) | 28.3K | 1.4B | **1 working** | [Codes](https://newgamescout.com/hypershot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 55 | [BedWars](https://newgamescout.com/bedwars?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bedwars) | 27.7K | 11.8B | None yet | [Codes](https://newgamescout.com/bedwars/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 56 | [Project Slayers 2](https://newgamescout.com/project-slayers-2?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=project-slayers-2) | 27.5K | 155.5M | **12 working** | [Codes](https://newgamescout.com/project-slayers-2/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 57 | [Toilet Tower Defense](https://newgamescout.com/toilet-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=toilet-tower-defense) | 26.2K | 6.2B | **1 working** | [Codes](https://newgamescout.com/toilet-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 58 | [Vanguards](https://newgamescout.com/vanguards?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=vanguards) | 25.0K | 2.1B | **4 working** | [Codes](https://newgamescout.com/vanguards/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 59 | [Shoot Arrows For Animals!](https://newgamescout.com/shoot-arrows-for-animals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=shoot-arrows-for-animals-) | 25.0K | 4.1M | None yet | [Codes](https://newgamescout.com/shoot-arrows-for-animals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/shoot-arrows-for-animals/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 60 | [Realistic Ragdoll MMA](https://newgamescout.com/realistic-ragdoll-mma?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=realistic-ragdoll-mma) | 24.6K | 5.4M | **1 working** | [Codes](https://newgamescout.com/realistic-ragdoll-mma/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 61 | [A Dusty Trip](https://newgamescout.com/a-dusty-trip?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=a-dusty-trip) | 24.4K | 2.6B | **3 working** | [Codes](https://newgamescout.com/a-dusty-trip/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 62 | [Anime Dice](https://newgamescout.com/anime-dice?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-dice) | 23.8K | 176.5M | **26 working** | [Codes](https://newgamescout.com/anime-dice/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/anime-dice/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 63 | [Blade Ball](https://newgamescout.com/blade-ball?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blade-ball) | 23.7K | 6.5B | **16 working** | [Codes](https://newgamescout.com/blade-ball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 64 | [+1 Spider Arm](https://newgamescout.com/plus-1-spider-arm?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-spider-arm) | 23.5K | 24.6M | **2 working** | [Codes](https://newgamescout.com/plus-1-spider-arm/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/plus-1-spider-arm/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 65 | [Command An Army](https://newgamescout.com/command-an-army?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=command-an-army) | 23.5K | 94.7M | **7 working** | [Codes](https://newgamescout.com/command-an-army/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/command-an-army/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 66 | [The Forge](https://newgamescout.com/the-forge?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-forge) | 23.3K | 1.1B | **2 working** | [Codes](https://newgamescout.com/the-forge/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 67 | [Voxel Wars](https://newgamescout.com/voxel-wars?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=voxel-wars) | 23.2K | 3.3M | None yet | [Codes](https://newgamescout.com/voxel-wars/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/voxel-wars/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 68 | [Vox Seas](https://newgamescout.com/vox-seas?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=vox-seas) | 23.1K | 36.7M | **5 working** | [Codes](https://newgamescout.com/vox-seas/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 69 | [Steal an Anime Pack](https://newgamescout.com/steal-an-anime-pack?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-an-anime-pack) | 22.4K | 17.3M | **11 working** | [Codes](https://newgamescout.com/steal-an-anime-pack/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 70 | [Ant Evolution](https://newgamescout.com/ant-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ant-evolution) | 22.2K | 5.1M | **4 working** | [Codes](https://newgamescout.com/ant-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 71 | [Criminal Simulator](https://newgamescout.com/criminal-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=criminal-simulator) | 21.5K | 36.4M | **4 working** | [Codes](https://newgamescout.com/criminal-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 72 | [Half Punch](https://newgamescout.com/half-punch?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=half-punch) | 21.3K | 4.7M | None yet | [Codes](https://newgamescout.com/half-punch/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/half-punch/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 73 | [Turbo Soccer](https://newgamescout.com/turbo-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=turbo-soccer) | 19.8K | 208.8M | **2 working** | [Codes](https://newgamescout.com/turbo-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 74 | [Kit PVP FFA](https://newgamescout.com/kit-pvp-ffa?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=kit-pvp-ffa) | 19.7K | 2.3M | — | — |
+| 75 | [My Avatar!](https://newgamescout.com/my-avatar?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=my-avatar-) | 19.2K | 527.3M | **1 working** | [Codes](https://newgamescout.com/my-avatar/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 76 | [Squid Game X](https://newgamescout.com/squid-game-x?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=squid-game-x) | 19.0K | 2.4B | **14 working** | [Codes](https://newgamescout.com/squid-game-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 77 | [NFL Universe Football](https://newgamescout.com/nfl-universe-football?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=nfl-universe-football) | 19.0K | 1.0B | **6 working** | [Codes](https://newgamescout.com/nfl-universe-football/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 78 | [Creatures of Sonaria](https://newgamescout.com/creatures-of-sonaria?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=creatures-of-sonaria) | 19.0K | 2.3B | **1 working** | [Codes](https://newgamescout.com/creatures-of-sonaria/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 79 | [Cast a Magnet](https://newgamescout.com/cast-a-magnet?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cast-a-magnet) | 18.6K | 1.1M | **8 working** | [Codes](https://newgamescout.com/cast-a-magnet/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/cast-a-magnet/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 80 | [Realistic Street Soccer](https://newgamescout.com/realistic-street-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=realistic-street-soccer) | 17.5K | 1.8B | **1 working** | [Codes](https://newgamescout.com/realistic-street-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 81 | [GloryBound](https://newgamescout.com/glorybound?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=glorybound) | 16.8K | 39.3M | **3 working** | [Codes](https://newgamescout.com/glorybound/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 82 | [+1 Venom Evolution](https://newgamescout.com/plus-1-venom-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-venom-evolution) | 16.6K | 74.3M | **5 working** | [Codes](https://newgamescout.com/plus-1-venom-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 83 | [PINKIE PROMISE](https://newgamescout.com/pinkie-promise?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pinkie-promise) | 16.5K | 42.0M | **2 working** | [Codes](https://newgamescout.com/pinkie-promise/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 84 | [Jailbreak](https://newgamescout.com/jailbreak?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jailbreak) | 16.2K | 8.1B | **4 working** | [Codes](https://newgamescout.com/jailbreak/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 85 | [Stack A Butter Squishy](https://newgamescout.com/stack-a-butter-squishy?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=stack-a-butter-squishy) | 15.2K | 57.7M | **6 working** | [Codes](https://newgamescout.com/stack-a-butter-squishy/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 86 | [Grow a Garden](https://newgamescout.com/grow-a-garden?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=grow-a-garden) | 14.8K | 36.0B | **3 working** | [Codes](https://newgamescout.com/grow-a-garden/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/grow-a-garden/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 87 | [Net a Fish!](https://newgamescout.com/net-a-fish?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=net-a-fish-) | 14.7K | 22.9M | **10 working** | [Codes](https://newgamescout.com/net-a-fish/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 88 | [Dubai RP](https://newgamescout.com/dubai-rp?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dubai-rp) | 14.5K | 339.0M | **3 working** | [Codes](https://newgamescout.com/dubai-rp/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 89 | [Say Cheese!](https://newgamescout.com/say-cheese?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=say-cheese-) | 14.5K | 8.1M | None yet | [Codes](https://newgamescout.com/say-cheese/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [All endings](https://newgamescout.com/say-cheese/endings?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=all-endings) · [Guide](https://newgamescout.com/say-cheese/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 90 | [My Anime Mine](https://newgamescout.com/my-anime-mine?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=my-anime-mine) | 14.3K | 35.8M | **8 working** | [Codes](https://newgamescout.com/my-anime-mine/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 91 | [Build A Racetrack](https://newgamescout.com/build-a-racetrack?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=build-a-racetrack) | 12.6K | 7.7M | **3 working** | [Codes](https://newgamescout.com/build-a-racetrack/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 92 | [Make a Cartoon](https://newgamescout.com/make-a-cartoon?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=make-a-cartoon) | 12.3K | 5.9M | None yet | [Codes](https://newgamescout.com/make-a-cartoon/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/make-a-cartoon/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 93 | [Blue Lock: Rivals](https://newgamescout.com/blue-lock-rivals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blue-lock-rivals) | 12.2K | 5.0B | **6 working** | [Codes](https://newgamescout.com/blue-lock-rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 94 | [Ragdoll Soccer](https://newgamescout.com/ragdoll-soccer?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-soccer) | 11.9K | 2.2M | **2 working** | [Codes](https://newgamescout.com/ragdoll-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ragdoll-soccer/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 95 | [Be a Soccer Legend](https://newgamescout.com/be-a-soccer-legend?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=be-a-soccer-legend) | 11.8K | 18.7M | **4 working** | [Codes](https://newgamescout.com/be-a-soccer-legend/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 96 | [WRECKED](https://newgamescout.com/wrecked?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=wrecked) | 11.5K | 1.7M | None yet | [Codes](https://newgamescout.com/wrecked/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/wrecked/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 97 | [Azure Latch](https://newgamescout.com/azure-latch?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=azure-latch) | 11.0K | 619.7M | **10 working** | [Codes](https://newgamescout.com/azure-latch/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 98 | [Tower Defense Simulator](https://newgamescout.com/tower-defense-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tower-defense-simulator) | 10.8K | 5.1B | **2 working** | [Codes](https://newgamescout.com/tower-defense-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 99 | [Run a Christmas Tree Lot](https://newgamescout.com/run-a-christmas-tree-lot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=run-a-christmas-tree-lot) | 10.6K | 10.2M | **10 working** | [Codes](https://newgamescout.com/run-a-christmas-tree-lot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/run-a-christmas-tree-lot/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 100 | [Build A Boat For Treasure](https://newgamescout.com/build-a-boat-for-treasure?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=build-a-boat-for-treasure) | 10.6K | 5.3B | **3 working** | [Codes](https://newgamescout.com/build-a-boat-for-treasure/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 101 | [Baddies](https://newgamescout.com/baddies?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=baddies) | 10.4K | 1.9B | **2 working** | [Codes](https://newgamescout.com/baddies/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 102 | [Tower of Hell](https://newgamescout.com/tower-of-hell?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tower-of-hell) | 10.4K | 29.5B | **3 working** | [Codes](https://newgamescout.com/tower-of-hell/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 103 | [Ball VS Ball](https://newgamescout.com/ball-vs-ball?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ball-vs-ball) | 10.3K | 213.9M | **2 working** | [Codes](https://newgamescout.com/ball-vs-ball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 104 | [A Bizarre Run](https://newgamescout.com/a-bizarre-run?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=a-bizarre-run) | 10.3K | 52.8M | **7 working** | [Codes](https://newgamescout.com/a-bizarre-run/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 105 | [Kaiju Alpha](https://newgamescout.com/kaiju-alpha?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=kaiju-alpha) | 10.1K | 69.1M | **2 working** | [Codes](https://newgamescout.com/kaiju-alpha/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 106 | [Do Not Stop](https://newgamescout.com/do-not-stop?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=do-not-stop) | 9.8K | 1.4M | **6 working** | [Codes](https://newgamescout.com/do-not-stop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/do-not-stop/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 107 | [Unstable SMP FFA](https://newgamescout.com/unstable-smp-ffa?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=unstable-smp-ffa) | 9.7K | 1.1M | None yet | [Codes](https://newgamescout.com/unstable-smp-ffa/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/unstable-smp-ffa/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 108 | [Paper To Plane](https://newgamescout.com/paper-to-plane?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=paper-to-plane) | 9.6K | 543.8K | **8 working** | [Codes](https://newgamescout.com/paper-to-plane/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/paper-to-plane/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 109 | [Pumpkin Playground](https://newgamescout.com/pumpkin-playground?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pumpkin-playground) | 9.6K | 8.9M | **2 working** | [Codes](https://newgamescout.com/pumpkin-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 110 | [BlockSpin](https://newgamescout.com/blockspin?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=blockspin) | 9.4K | 1.4B | **1 working** | [Codes](https://newgamescout.com/blockspin/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/blockspin/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 111 | [Revolver Arena](https://newgamescout.com/revolver-arena?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=revolver-arena) | 9.3K | 3.6M | None yet | [Codes](https://newgamescout.com/revolver-arena/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/revolver-arena/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 112 | [Raise The Biggest Family](https://newgamescout.com/raise-the-biggest-family?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=raise-the-biggest-family) | 9.1K | 13.4M | None yet | [Codes](https://newgamescout.com/raise-the-biggest-family/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/raise-the-biggest-family/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 113 | [Ragdoll Experiment](https://newgamescout.com/ragdoll-experiment?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-experiment) | 9.1K | 1.6M | — | — |
+| 114 | [Ride Storm](https://newgamescout.com/ride-storm?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ride-storm) | 9.0K | 135.1M | **4 working** | [Codes](https://newgamescout.com/ride-storm/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 115 | [Beyond Nen](https://newgamescout.com/beyond-nen?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=beyond-nen) | 8.8K | 3.9M | **7 working** | [Codes](https://newgamescout.com/beyond-nen/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 116 | [Technical Ragdoll MMA](https://newgamescout.com/technical-ragdoll-mma?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=technical-ragdoll-mma) | 8.6K | 9.9M | **1 working** | [Codes](https://newgamescout.com/technical-ragdoll-mma/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 117 | [Ragdoll Realism](https://newgamescout.com/ragdoll-realism?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-realism) | 8.6K | 1.3M | None yet | [Codes](https://newgamescout.com/ragdoll-realism/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ragdoll-realism/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 118 | [Deagle Arena](https://newgamescout.com/deagle-arena?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=deagle-arena) | 8.5K | 324.9M | **2 working** | [Codes](https://newgamescout.com/deagle-arena/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/deagle-arena/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 119 | [DOORS](https://newgamescout.com/doors?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=doors) | 8.5K | 8.0B | **21 working** | [Codes](https://newgamescout.com/doors/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 120 | [Low Range: Offroad 4x4](https://newgamescout.com/low-range-offroad-4x4?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=low-range-offroad-4x4) | 8.3K | 1.2M | None yet | [Codes](https://newgamescout.com/low-range-offroad-4x4/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/low-range-offroad-4x4/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 121 | [Evermore High](https://newgamescout.com/evermore-high?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evermore-high) | 8.2K | 27.6M | **3 working** | [Codes](https://newgamescout.com/evermore-high/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/evermore-high/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 122 | [BoneBox Engine](https://newgamescout.com/bonebox-engine?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bonebox-engine) | 8.1K | 4.2M | **5 working** | [Codes](https://newgamescout.com/bonebox-engine/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 123 | [FERAL Animal Survival](https://newgamescout.com/feral-animal-survival?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=feral-animal-survival) | 7.9K | 963.5K | None yet | [Codes](https://newgamescout.com/feral-animal-survival/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/feral-animal-survival/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 124 | [My Cookie Store](https://newgamescout.com/my-cookie-store?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=my-cookie-store) | 7.9K | 2.6M | None yet | [Codes](https://newgamescout.com/my-cookie-store/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/my-cookie-store/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 125 | [Barber Simulator](https://newgamescout.com/barber-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=barber-simulator) | 7.8K | 1.9M | **1 working** | [Codes](https://newgamescout.com/barber-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/barber-simulator/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 126 | [untitled boxing game](https://newgamescout.com/untitled-boxing-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-boxing-game) | 7.7K | 1.5B | **8 working** | [Codes](https://newgamescout.com/untitled-boxing-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 127 | [Ghost Driver](https://newgamescout.com/ghost-driver?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ghost-driver) | 7.6K | 133.3M | **4 working** | [Codes](https://newgamescout.com/ghost-driver/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ghost-driver/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 128 | [+1 Ghoul Evolution](https://newgamescout.com/1-ghoul-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-ghoul-evolution) | 7.6K | 2.1M | **8 working** | [Codes](https://newgamescout.com/1-ghoul-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/1-ghoul-evolution/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 129 | [Untitled Symbiote Suit Game](https://newgamescout.com/untitled-symbiote-suit-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-symbiote-suit-game) | 7.5K | 1.7M | None yet | [Codes](https://newgamescout.com/untitled-symbiote-suit-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/untitled-symbiote-suit-game/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 130 | [Cozy Lucky Scoop Order](https://newgamescout.com/cozy-lucky-scoop-order?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cozy-lucky-scoop-order) | 7.5K | 8.3M | None yet | [Codes](https://newgamescout.com/cozy-lucky-scoop-order/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/cozy-lucky-scoop-order/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 131 | [Rooster Rivals](https://newgamescout.com/rooster-rivals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rooster-rivals) | 7.5K | 3.9M | **8 working** | [Codes](https://newgamescout.com/rooster-rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/rooster-rivals/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 132 | [My KPOP Shop](https://newgamescout.com/my-kpop-shop?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=my-kpop-shop) | 7.5K | 1.4M | **2 working** | [Codes](https://newgamescout.com/my-kpop-shop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/my-kpop-shop/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 133 | [Throw Food For Clowns](https://newgamescout.com/throw-food-for-clowns?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=throw-food-for-clowns) | 7.5K | 1.6M | None yet | [Codes](https://newgamescout.com/throw-food-for-clowns/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 134 | [+1 Baddie Evolution](https://newgamescout.com/1-baddie-evolution?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-baddie-evolution) | 7.3K | 2.2M | None yet | [Codes](https://newgamescout.com/1-baddie-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/1-baddie-evolution/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 135 | [Jump for Cases](https://newgamescout.com/jump-for-cases?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jump-for-cases) | 7.1K | 7.6M | **4 working** | [Codes](https://newgamescout.com/jump-for-cases/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 136 | [Bubble Gum Simulator INFINITY](https://newgamescout.com/bubble-gum-simulator-infinity?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bubble-gum-simulator-infinity) | 7.1K | 627.9M | **53 working** | [Codes](https://newgamescout.com/bubble-gum-simulator-infinity/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 137 | [Project Web](https://newgamescout.com/project-web?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=project-web) | 7.1K | 5.4M | None yet | [Codes](https://newgamescout.com/project-web/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/project-web/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 138 | [Fish for Secret Animals](https://newgamescout.com/fish-for-secret-animals?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fish-for-secret-animals) | 7.1K | 707.2K | None yet | [Codes](https://newgamescout.com/fish-for-secret-animals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 139 | [Summon A Pet Army](https://newgamescout.com/summon-a-pet-army?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=summon-a-pet-army) | 6.9K | 4.2M | None yet | [Codes](https://newgamescout.com/summon-a-pet-army/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/summon-a-pet-army/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 140 | [Untitled Ragdoll Game](https://newgamescout.com/untitled-ragdoll-game?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=untitled-ragdoll-game) | 6.8K | 1.4M | None yet | [Codes](https://newgamescout.com/untitled-ragdoll-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/untitled-ragdoll-game/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 141 | [Heavyweight Fishing](https://newgamescout.com/heavyweight-fishing?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=heavyweight-fishing) | 6.7K | 83.7M | **15 working** | [Codes](https://newgamescout.com/heavyweight-fishing/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 142 | [MALAM SAMA OPAH](https://newgamescout.com/malam-sama-opah?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-sama-opah) | 6.7K | 7.3M | **2 working** | [Codes](https://newgamescout.com/malam-sama-opah/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/malam-sama-opah/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 143 | [Dragon Arena](https://newgamescout.com/dragon-arena?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dragon-arena) | 6.5K | 5.9M | **3 working** | [Codes](https://newgamescout.com/dragon-arena/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 144 | [Harpoon a Fish](https://newgamescout.com/harpoon-a-fish?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=harpoon-a-fish) | 6.5K | 24.0M | **3 working** | [Codes](https://newgamescout.com/harpoon-a-fish/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 145 | [Dragon Adventures](https://newgamescout.com/dragon-adventures?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dragon-adventures) | 6.5K | 1.8B | **5 working** | [Codes](https://newgamescout.com/dragon-adventures/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 146 | [The Ditch Hotel](https://newgamescout.com/the-ditch-hotel?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-ditch-hotel) | 6.3K | 6.4M | **7 working** | [Codes](https://newgamescout.com/the-ditch-hotel/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/the-ditch-hotel/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 147 | [Cambria](https://newgamescout.com/cambria?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cambria) | 6.2K | 1.1M | — | — |
+| 148 | [Steal A Balut](https://newgamescout.com/steal-a-balut?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-balut) | 6.1K | 1.3M | **9 working** | [Codes](https://newgamescout.com/steal-a-balut/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/steal-a-balut/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 149 | [SF BIKE](https://newgamescout.com/sf-bike?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sf-bike) | 6.0K | 3.8M | **4 working** | [Codes](https://newgamescout.com/sf-bike/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sf-bike/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 150 | [BloxNG](https://newgamescout.com/bloxng?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bloxng) | 5.9K | 580.2K | None yet | [Codes](https://newgamescout.com/bloxng/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/bloxng/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 151 | [Bloodlines](https://newgamescout.com/bloodlines?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bloodlines) | 5.9K | 73.4M | **6 working** | [Codes](https://newgamescout.com/bloodlines/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/bloodlines/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 152 | [Pull a Dino](https://newgamescout.com/pull-a-dino?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pull-a-dino) | 5.9K | 2.0M | **9 working** | [Codes](https://newgamescout.com/pull-a-dino/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 153 | [Sorcerer Tower Defense](https://newgamescout.com/sorcerer-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sorcerer-tower-defense) | 5.9K | 204.6M | **4 working** | [Codes](https://newgamescout.com/sorcerer-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 154 | [RoChess](https://newgamescout.com/rochess?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rochess) | 5.8K | 11.7M | **3 working** | [Codes](https://newgamescout.com/rochess/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 155 | [Survive a Million Monkeys](https://newgamescout.com/survive-a-million-monkeys?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=survive-a-million-monkeys) | 5.7K | 66.5M | **7 working** | [Codes](https://newgamescout.com/survive-a-million-monkeys/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 156 | [Break To Steal A Chicken](https://newgamescout.com/break-to-steal-a-chicken?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=break-to-steal-a-chicken) | 5.7K | 2.1M | **19 working** | [Codes](https://newgamescout.com/break-to-steal-a-chicken/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/break-to-steal-a-chicken/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 157 | [Decorate Me!](https://newgamescout.com/decorate-me?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=decorate-me-) | 5.6K | 3.0M | None yet | [Codes](https://newgamescout.com/decorate-me/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/decorate-me/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 158 | [Defeat Anime RNG](https://newgamescout.com/defeat-anime-rng?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=defeat-anime-rng) | 5.6K | 15.7M | **5 working** | [Codes](https://newgamescout.com/defeat-anime-rng/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 159 | [Night Rider](https://newgamescout.com/night-rider?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=night-rider) | 5.6K | 38.4M | **6 working** | [Codes](https://newgamescout.com/night-rider/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 160 | [Mini War](https://newgamescout.com/mini-war?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=mini-war) | 5.5K | 373.7M | **1 working** | [Codes](https://newgamescout.com/mini-war/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 161 | [Build a REAL House](https://newgamescout.com/build-a-real-house?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=build-a-real-house) | 5.5K | 1.4M | None yet | [Codes](https://newgamescout.com/build-a-real-house/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/build-a-real-house/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 162 | [Steal a Superpower](https://newgamescout.com/steal-a-superpower?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-superpower) | 5.4K | 16.4M | **10 working** | [Codes](https://newgamescout.com/steal-a-superpower/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/steal-a-superpower/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 163 | [Bad Physics](https://newgamescout.com/bad-physics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=bad-physics) | 5.4K | 1.3M | None yet | [Codes](https://newgamescout.com/bad-physics/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/bad-physics/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 164 | [Rebirth Champions: Ultimate](https://newgamescout.com/rebirth-champions-ultimate?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rebirth-champions-ultimate) | 5.3K | 254.8M | **40 working** | [Codes](https://newgamescout.com/rebirth-champions-ultimate/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 165 | [Catch A Pet And Ride It](https://newgamescout.com/catch-a-pet-and-ride-it?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=catch-a-pet-and-ride-it) | 5.3K | 1.4M | None yet | [Codes](https://newgamescout.com/catch-a-pet-and-ride-it/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 166 | [RUNAWAYS](https://newgamescout.com/runaways?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=runaways) | 5.3K | 184.5M | **6 working** | [Codes](https://newgamescout.com/runaways/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 167 | [Deep Fishing](https://newgamescout.com/deep-fishing?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=deep-fishing) | 5.3K | 30.0M | **20 working** | [Codes](https://newgamescout.com/deep-fishing/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 168 | [Ragdoll Playground](https://newgamescout.com/ragdoll-playground?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-playground) | 5.2K | 38.3M | **3 working** | [Codes](https://newgamescout.com/ragdoll-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 169 | [Murder Duels](https://newgamescout.com/murder-duels?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=murder-duels) | 5.1K | 336.2M | **1 working** | [Codes](https://newgamescout.com/murder-duels/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 170 | [Gakuran](https://newgamescout.com/gakuran?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=gakuran) | 5.1K | 293.5M | **6 working** | [Codes](https://newgamescout.com/gakuran/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 171 | [Jujutsu Farm](https://newgamescout.com/jujutsu-farm?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jujutsu-farm) | 5.1K | 3.7M | **4 working** | [Codes](https://newgamescout.com/jujutsu-farm/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 172 | [Wanted](https://newgamescout.com/wanted?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=wanted) | 5.1K | 153.6M | **6 working** | [Codes](https://newgamescout.com/wanted/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 173 | [Impact Lab: Extreme Physics!](https://newgamescout.com/impact-lab-extreme-physics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=impact-lab-extreme-physics-) | 4.9K | 467.8K | None yet | [Codes](https://newgamescout.com/impact-lab-extreme-physics/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/impact-lab-extreme-physics/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 174 | [Anime Card Clash](https://newgamescout.com/anime-card-clash?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-card-clash) | 4.8K | 542.5M | **11 working** | [Codes](https://newgamescout.com/anime-card-clash/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 175 | [30 Floors Up](https://newgamescout.com/30-floors-up?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=30-floors-up) | 4.8K | 2.2M | **2 working** | [Codes](https://newgamescout.com/30-floors-up/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/30-floors-up/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 176 | [Onthel Purwodadi](https://newgamescout.com/onthel-purwodadi?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=onthel-purwodadi) | 4.7K | 3.8M | **4 working** | [Codes](https://newgamescout.com/onthel-purwodadi/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/onthel-purwodadi/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 177 | [Defeat Ragdolls for Powers!](https://newgamescout.com/defeat-ragdolls-for-powers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=defeat-ragdolls-for-powers-) | 4.5K | 463.2K | **1 working** | [Codes](https://newgamescout.com/defeat-ragdolls-for-powers/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/defeat-ragdolls-for-powers/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 178 | [Teleport Duels](https://newgamescout.com/teleport-duels?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=teleport-duels) | 4.4K | 1.6M | None yet | [Codes](https://newgamescout.com/teleport-duels/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/teleport-duels/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 179 | [Taxi Boss](https://newgamescout.com/taxi-boss?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=taxi-boss) | 4.4K | 901.4M | **4 working** | [Codes](https://newgamescout.com/taxi-boss/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 180 | [Pixel Z](https://newgamescout.com/pixel-z?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pixel-z) | 4.4K | 525.7K | **1 working** | [Codes](https://newgamescout.com/pixel-z/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/pixel-z/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 181 | [Tiny Snipers](https://newgamescout.com/tiny-snipers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tiny-snipers) | 4.4K | 3.9M | **2 working** | [Codes](https://newgamescout.com/tiny-snipers/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 182 | [Gym Star Simulator](https://newgamescout.com/gym-star-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=gym-star-simulator) | 4.4K | 744.5M | **4 working** | [Codes](https://newgamescout.com/gym-star-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 183 | [Steal an Nightmare Egg](https://newgamescout.com/steal-an-nightmare-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-an-nightmare-egg) | 4.3K | 3.3M | None yet | [Codes](https://newgamescout.com/steal-an-nightmare-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/steal-an-nightmare-egg/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 184 | [War Tycoon](https://newgamescout.com/war-tycoon?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=war-tycoon) | 4.3K | 1.1B | **3 working** | [Codes](https://newgamescout.com/war-tycoon/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 185 | [Ragdoll Destruction Playground](https://newgamescout.com/ragdoll-destruction-playground?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-destruction-playground) | 4.3K | 543.3K | None yet | [Codes](https://newgamescout.com/ragdoll-destruction-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ragdoll-destruction-playground/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 186 | [Basketball Legends](https://newgamescout.com/basketball-legends?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=basketball-legends) | 4.2K | 787.1M | **15 working** | [Codes](https://newgamescout.com/basketball-legends/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 187 | [+1 Loot To Forge](https://newgamescout.com/loot-to-forge?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=-1-loot-to-forge) | 4.1K | 98.3M | **3 working** | [Codes](https://newgamescout.com/loot-to-forge/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/loot-to-forge/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 188 | [Anime Astral Simulator](https://newgamescout.com/anime-astral-simulator?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-astral-simulator) | 4.0K | 127.6M | **40 working** | [Codes](https://newgamescout.com/anime-astral-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 189 | [Moto Empire](https://newgamescout.com/moto-empire?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=moto-empire) | 3.9K | 12.1M | **7 working** | [Codes](https://newgamescout.com/moto-empire/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 190 | [Sleepover (Story)](https://newgamescout.com/sleepover?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sleepover-story-) | 3.8K | 4.5M | None yet | [Codes](https://newgamescout.com/sleepover/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sleepover/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 191 | [Asylum Life](https://newgamescout.com/asylum-life?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=asylum-life) | 3.8K | 312.9M | **3 working** | [Codes](https://newgamescout.com/asylum-life/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 192 | [Escooter World](https://newgamescout.com/escooter-world?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=escooter-world) | 3.8K | 3.1M | None yet | [Codes](https://newgamescout.com/escooter-world/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 193 | [Impossible Hill Climb](https://newgamescout.com/impossible-hill-climb?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=impossible-hill-climb) | 3.8K | 1.1M | None yet | [Codes](https://newgamescout.com/impossible-hill-climb/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/impossible-hill-climb/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 194 | [Tesla Roadster Chase](https://newgamescout.com/tesla-roadster-chase?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tesla-roadster-chase) | 3.7K | 3.3M | **3 working** | [Codes](https://newgamescout.com/tesla-roadster-chase/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/tesla-roadster-chase/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 195 | [MALAM SAMA ATOK](https://newgamescout.com/malam-sama-atok?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-sama-atok) | 3.6K | 1.4M | None yet | [Codes](https://newgamescout.com/malam-sama-atok/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/malam-sama-atok/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 196 | [Ragdoll Awakening](https://newgamescout.com/ragdoll-awakening?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ragdoll-awakening) | 3.6K | 912.5K | None yet | [Codes](https://newgamescout.com/ragdoll-awakening/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 197 | [Pocket Landlord](https://newgamescout.com/pocket-landlord?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pocket-landlord) | 3.5K | 1.5M | None yet | [Codes](https://newgamescout.com/pocket-landlord/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/pocket-landlord/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 198 | [Button Battles](https://newgamescout.com/button-battles?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=button-battles) | 3.5K | 1.9M | None yet | [Codes](https://newgamescout.com/button-battles/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/button-battles/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 199 | [Ball Knowledge](https://newgamescout.com/ball-knowledge?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ball-knowledge) | 3.5K | 1.9M | None yet | [Codes](https://newgamescout.com/ball-knowledge/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/ball-knowledge/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 200 | [Cave Casualties](https://newgamescout.com/cave-casualties?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=cave-casualties) | 3.4K | 885.8K | None yet | [Codes](https://newgamescout.com/cave-casualties/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/cave-casualties/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 201 | [Noob Incremental](https://newgamescout.com/noob-incremental?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=noob-incremental) | 3.4K | 58.0M | **22 working** | [Codes](https://newgamescout.com/noob-incremental/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 202 | [Tower Defense X: BETA](https://newgamescout.com/tower-defense-x?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=tower-defense-x-beta) | 3.3K | 436.3M | **4 working** | [Codes](https://newgamescout.com/tower-defense-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 203 | [Garden Tower Defense](https://newgamescout.com/garden-tower-defense?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=garden-tower-defense) | 3.3K | 832.8M | **11 working** | [Codes](https://newgamescout.com/garden-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 204 | [Ishin](https://newgamescout.com/ishin?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ishin) | 3.3K | 4.8M | **6 working** | [Codes](https://newgamescout.com/ishin/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 205 | [Your Bizarre Adventure](https://newgamescout.com/your-bizarre-adventure?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=your-bizarre-adventure) | 3.2K | 2.3B | **1 working** | [Codes](https://newgamescout.com/your-bizarre-adventure/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 206 | [Drink the Ocean](https://newgamescout.com/drink-the-ocean?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=drink-the-ocean) | 3.2K | 603.5K | **1 working** | [Codes](https://newgamescout.com/drink-the-ocean/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [All endings](https://newgamescout.com/drink-the-ocean/endings?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=all-endings) · [Guide](https://newgamescout.com/drink-the-ocean/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) · [Badges](https://newgamescout.com/drink-the-ocean/badges?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=badges) |
+| 207 | [Shibuya](https://newgamescout.com/shibuya?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=shibuya) | 3.0K | 3.3M | **3 working** | [Codes](https://newgamescout.com/shibuya/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/shibuya/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 208 | [Detect and Steal an Egg](https://newgamescout.com/detect-and-steal-an-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=detect-and-steal-an-egg) | 3.0K | 1.2M | None yet | [Codes](https://newgamescout.com/detect-and-steal-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/detect-and-steal-an-egg/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 209 | [Be a Cleaning Robot](https://newgamescout.com/be-a-cleaning-robot?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=be-a-cleaning-robot) | 3.0K | 917.4K | None yet | [Codes](https://newgamescout.com/be-a-cleaning-robot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/be-a-cleaning-robot/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 210 | [That Is NOT My Mom](https://newgamescout.com/that-is-not-my-mom?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=that-is-not-my-mom) | 3.0K | 7.7M | None yet | [Codes](https://newgamescout.com/that-is-not-my-mom/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/that-is-not-my-mom/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 211 | [The Glitched Attraction](https://newgamescout.com/glitched-attraction?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-glitched-attraction) | 2.8K | 737.2K | None yet | [Codes](https://newgamescout.com/glitched-attraction/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/glitched-attraction/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 212 | [The Phone](https://newgamescout.com/the-phone?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=the-phone) | 2.7K | 944.5K | — | — |
+| 213 | [Gecko Duo](https://newgamescout.com/gecko-duo?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=gecko-duo) | 2.5K | 782.8K | None yet | [Codes](https://newgamescout.com/gecko-duo/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/gecko-duo/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 214 | [evil crawling things](https://newgamescout.com/evil-crawling-things?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evil-crawling-things) | 2.4K | 693.6K | — | — |
+| 215 | [Malam Bersama Kaka](https://newgamescout.com/malam-bersama-kaka?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=malam-bersama-kaka) | 2.4K | 886.9K | None yet | [Codes](https://newgamescout.com/malam-bersama-kaka/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/malam-bersama-kaka/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 216 | [Steal A Scooter](https://newgamescout.com/steal-a-scooter?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=steal-a-scooter) | 2.3K | 4.2M | None yet | [Codes](https://newgamescout.com/steal-a-scooter/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/steal-a-scooter/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 217 | [Jujutsu: Zero](https://newgamescout.com/jujutsu-zero?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=jujutsu-zero) | 2.3K | 135.5M | **6 working** | [Codes](https://newgamescout.com/jujutsu-zero/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 218 | [Evolve an Egg!](https://newgamescout.com/evolve-an-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=evolve-an-egg-) | 2.3K | 653.3K | None yet | [Codes](https://newgamescout.com/evolve-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 219 | [Golf a Lucky Egg](https://newgamescout.com/golf-a-lucky-egg?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=golf-a-lucky-egg) | 2.2K | 780.8K | None yet | [Codes](https://newgamescout.com/golf-a-lucky-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/golf-a-lucky-egg/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 220 | [Archived](https://newgamescout.com/archived?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=archived) | 2.0K | 148.5M | **3 working** | [Codes](https://newgamescout.com/archived/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 221 | [PokeIdle](https://newgamescout.com/pokeidle?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pokeidle) | 1.9K | 249.9K | **2 working** | [Codes](https://newgamescout.com/pokeidle/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/pokeidle/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 222 | [Sell Pearls](https://newgamescout.com/sell-pearls?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=sell-pearls) | 1.9K | 1.9M | None yet | [Codes](https://newgamescout.com/sell-pearls/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/sell-pearls/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 223 | [Dont Swim](https://newgamescout.com/dont-swim?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=dont-swim) | 1.8K | 1.4M | None yet | [Codes](https://newgamescout.com/dont-swim/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/dont-swim/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 224 | [Patrol Compton](https://newgamescout.com/patrol-compton?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=patrol-compton) | 1.7K | 388.3K | None yet | [Codes](https://newgamescout.com/patrol-compton/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/patrol-compton/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 225 | [Destroy a Tank](https://newgamescout.com/destroy-a-tank?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=destroy-a-tank) | 1.6K | 817.1K | None yet | [Codes](https://newgamescout.com/destroy-a-tank/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/destroy-a-tank/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 226 | [Peroxide](https://newgamescout.com/peroxide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=peroxide) | 1.4K | 427.0M | **4 working** | [Codes](https://newgamescout.com/peroxide/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) |
+| 227 | [Villain City: Destroy Everything](https://newgamescout.com/villain-city-destroy-everything?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=villain-city-destroy-everything) | 1.2K | 354.0K | None yet | [Codes](https://newgamescout.com/villain-city-destroy-everything/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/villain-city-destroy-everything/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 228 | [Get Your Superpowers!](https://newgamescout.com/get-your-superpowers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=get-your-superpowers-) | 1.2K | 2.4M | None yet | [Codes](https://newgamescout.com/get-your-superpowers/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/get-your-superpowers/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 229 | [Fix PCs!](https://newgamescout.com/fix-pcs?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=fix-pcs-) | 1.1K | 661.0K | None yet | [Codes](https://newgamescout.com/fix-pcs/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/fix-pcs/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 230 | [Anime Zero](https://newgamescout.com/anime-zero?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=anime-zero) | 559 | 60.9M | **38 working** | [Codes](https://newgamescout.com/anime-zero/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/anime-zero/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
+| 231 | [Last Call](https://newgamescout.com/last-call?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=last-call) | 71 | 1.6M | None yet | [Codes](https://newgamescout.com/last-call/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=codes) · [Guide](https://newgamescout.com/last-call/guide?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=guide) |
 
 ## Working codes
 
@@ -309,31 +278,6 @@ No working codes yet. The page above lists where we looked.
 Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/break-and-steal-an-egg/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
-
-### Blox Fruits codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/blox-fruits/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `EASTEREXP` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Sub2CaptainMaui` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Axiore` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `TantaiGaming` | 2x EXP boost (15 min on Pocket Tactics, 20 min on iGeeksBlog) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `StrawHatMaine` | 2x EXP boost (15 min on Pocket Tactics, 20 min on iGeeksBlog) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Sub2OfficialNoobie` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Fudd10` | $1 (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Bignews` | "Big News" title (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `TheGreatAce` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `kittgaming` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Enyu_is_Pro` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Magicbus` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `JCWK` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Bluxxy` | 2x EXP boost (20 min) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `fudd10_v2` | $2 (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Sub2NoobMaster123` | 2x EXP boost (15 min on Pocket Tactics, 20 min on iGeeksBlog) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Sub2UncleKizaru` | Stat reset (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `Sub2Daigrock` | 2x EXP boost (15 min on Pocket Tactics, 20 min on iGeeksBlog) (Listed active by Pocket Tactics (Nov 13) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
 
 ### Blox Fruits codes
 
@@ -506,27 +450,6 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Practical Basketball codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/practical-basketball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `WEGUARDPOST` | 7,500 Coins and a 2x Badge EXP Boost (5 games) (Listed active by Game.guide (Nov 15) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-| `YOUGOTMAIL` | 7,500 Coins and 1 Blueprint (Listed active by Game.guide (Nov 15) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-| `100KCCUPLS` | 10,000 Coins and 50 Tickets (Listed active by Timesaver, Pocket Tactics, Game.guide and RobloxDen (Nov 7 to 15). We haven't redeemed it ourselves.) |
-
-### Practical Basketball codes
-
-Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/practical-basketball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `SORRYFORINCONVENIENCE` | 5,000 Coins (Listed active by Roblox Den (Nov 20, 2026). We haven't redeemed it ourselves.) |
-| `YOUGOTMAIL` | 7,500 Coins and 1 Blueprint (Listed active by Roblox Den (Nov 20, 2026). We haven't redeemed it ourselves.) |
-| `WEGUARDPOST` | 7,500 Coins and 2x Badge EXP Boost (5 Games) (Listed active by Roblox Den (Nov 20, 2026). We haven't redeemed it ourselves.) |
-| `100KCCUPLS` | 10,000 Coins and 50 Tickets (Roblox Den marks it Active (Nov 20) but PC GamesN lists it as expired (Nov 2026), so status is uncertain. We haven't redeemed it ourselves.) |
-
-### Practical Basketball codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/practical-basketball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -576,18 +499,6 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Cameraman Tower Defense codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/cameraman-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `LStriderSpeaker` | 50 Coins (Listed active by Pocket Tactics (Nov 12) and Beebom (Nov 2). We haven't redeemed it ourselves.) |
-| `Battlepass` | 50 Coins (Listed active by Pocket Tactics (Nov 12) and Beebom (Nov 2). We haven't redeemed it ourselves.) |
-| `UTCM` | 50 Coins (Listed active by Pocket Tactics (Nov 12) and Beebom (Nov 2). Pro Game Guides lists it too. We haven't redeemed it ourselves.) |
-| `PathOfHonor` | 50 Coins (Listed active by Pocket Tactics (Nov 12) and Pro Game Guides (Nov). We haven't redeemed it ourselves.) |
-| `UTTVM` | 50 Coins (Listed active by Pocket Tactics (Nov 12) and Pro Game Guides (Nov). We haven't redeemed it ourselves.) |
-
-### Cameraman Tower Defense codes
-
 Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/cameraman-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -606,23 +517,6 @@ Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 No working codes yet. The page above lists where we looked.
 
-### Murderers VS Sheriffs Duels codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/murderers-vs-sheriffs/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-No working codes yet. The page above lists where we looked.
-
-### Murderers VS Sheriffs codes
-
-Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/murderers-vs-sheriffs/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `FREE` | Sea Sword Skin (Listed working by Roblox Den, Game.guide, TechWiser, LEVVVEL and Timesaver (Nov 2026). We haven't redeemed it ourselves.) |
-| `BACK` | 1,000 Coins (Listed working by Roblox Den and Game.guide (Nov 2026); Earnaldo verified it on video in September. We haven't redeemed it ourselves.) |
-| `HOTEL` | Flare Gun Skin (Listed working by Roblox Den and Game.guide (Nov 2026); Earnaldo verified it on video in September. We haven't redeemed it ourselves.) |
-| `EGGHUNT` | 1,500 Coins (Listed working by Roblox Den and Game.guide (Nov 2026). Timesaver traces it to the April 2026 Easter event post and thinks it may now be dead. We haven't redeemed it ourselves.) |
-
 ### Murderers VS Sheriffs codes
 
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/murderers-vs-sheriffs/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -637,21 +531,6 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 Checked Nov 16, 2026 · [How to redeem and expired codes](https://newgamescout.com/sandworm-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
-
-### King Legacy codes
-
-Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.com/king-legacy/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `HALLOWEENRESET` | Stats refund (Listed active by Roblox Den and Beebom (Nov 14). We haven't redeemed it ourselves.) |
-| `PITYSYSTEM` | 5 Copper Keys (Listed active by Roblox Den and Beebom (Nov 14). We haven't redeemed it ourselves.) |
-| `LEGACYISLAND` | 2x EXP for 20 minutes (Listed active by Roblox Den and Beebom (Nov 14). We haven't redeemed it ourselves.) |
-| `MYTHICALDRAGON` | 2 Iron Keys (Listed active by Roblox Den and Beebom (Nov 14). We haven't redeemed it ourselves.) |
-| `MOBILEFIXED` | 3 Chronicles Lore (Listed active by Roblox Den and Beebom (Nov 14). We haven't redeemed it ourselves.) |
-| `TRADE8SLOTS` | 100,000 cash (Listed active by Roblox Den and Beebom (Nov 14). We haven't redeemed it ourselves.) |
-| `4BVISITS` | 40 gems (Listed active by Beebom (Nov 14) and Bloxodes (added Nov 14, verified Nov 16); Roblox Den doesn't list it. We haven't redeemed it ourselves.) |
-| `UPDATE11PART1` | Stats refund (Listed active by Roblox Den and Bloxodes (Nov 16, 2026); Beebom doesn't list it. We haven't redeemed it ourselves.) |
 
 ### King Legacy codes
 
@@ -673,12 +552,6 @@ Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `WELCOMETOKINGLEGACY` | 2x EXP Boost (30 minutes) (Listed active by Roblox Den (Nov 20, 2026). We haven't redeemed it ourselves.) |
 | `FREESTATSRESET` | Stat Refund (Listed active by Roblox Den (Nov 20, 2026). We haven't redeemed it ourselves.) |
 | `2MFAV` | 1 Stat Reset (Listed active by Roblox Den (Nov 20, 2026). We haven't redeemed it ourselves.) |
-
-### Tap Simulator REBORN codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/tap-simulator-reborn/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-No working codes yet. The page above lists where we looked.
 
 ### Tap Simulator REBORN codes
 
@@ -706,37 +579,11 @@ No working codes yet. The page above lists where we looked.
 
 ### Steal a Brainrot codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/steal-a-brainrot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-No working codes yet. The page above lists where we looked.
-
-### Steal a Brainrot codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/steal-a-brainrot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
 | `BLINGBLINGBLING` | Freebies (unspecified in-game reward) (RBXScoop, Game.guide and GameTips.io all list it working on Nov 21–23, 2026.) |
-
-### Driving Empire codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/driving-empire/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `UWU` | 75,000 cash (Listed active by iGeeksBlog (Nov 2) and PocketGamer (Nov 7). We haven't redeemed it ourselves.) |
-| `RECORD` | 75,000 cash on iGeeksBlog, 85,000 on PocketGamer (Listed active by iGeeksBlog (Nov 2) and PocketGamer (Nov 7). The sites disagree on the amount. We haven't redeemed it ourselves.) |
-| `USA250` | Rocket Car (Listed active by iGeeksBlog (Nov 2) and PocketGamer (Nov 7). We haven't redeemed it ourselves.) |
-
-### Driving Empire codes
-
-Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/driving-empire/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `RAMBO` | $50,000 Cash (Listed active by Roblox Den, Pocket Tactics, G2A News, battle4play and FreshGameRadar (Nov 2026). We haven't redeemed it ourselves.) |
-| `UWU` | $75,000 Cash (Listed active by Roblox Den, Pocket Tactics, the Fandom wiki and FreshGameRadar (Nov 2026); also printed on the official Roblox thumbnail. We haven't redeemed it ourselves.) |
-| `200KMEMBERS` | $50,000 Cash (Listed active by Roblox Den, Pocket Tactics, the Fandom wiki and G2A News (Nov 2026). We haven't redeemed it ourselves.) |
 
 ### Driving Empire codes
 
@@ -753,23 +600,6 @@ Checked Nov 22, 2026 · [How to redeem and expired codes](https://newgamescout.c
 Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/13-days-to-escape/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
-
-### Evade codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/evade/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `HALLOWEEN2026` | 40 Wisps or event tickets (the sites name the currency differently) (Listed active by Pocket Tactics (Nov 10), Timesaver (Nov 2) and iGeeksBlog (Nov 1). A Halloween code, so it may go soon. We haven't redeemed it ourselves.) |
-| `iloveevade` | Wisps or Tokens and Points: Timesaver says 15 Wisps, Pocket Tactics says 350 Tokens and 10 Points (Listed active by Pocket Tactics (Nov 10), Timesaver (Nov 2) and iGeeksBlog (Nov 1). The sites disagree on the reward. We haven't redeemed it ourselves.) |
-
-### Evade codes
-
-Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/evade/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `HALLOWEEN2026` | 40x Wisps (Listed active by Roblox Den (Nov 20, 2026) and by Radio Times, Gaming Route and G2A (Nov 2026). We haven't redeemed it ourselves.) |
 
 ### Evade codes
 
@@ -790,41 +620,6 @@ No working codes yet. The page above lists where we looked.
 Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/fling-things-and-people/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
-
-### Bee Swarm Simulator codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/bee-swarm-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `FOURtunate` | Honeyday bundle: a Marshmallow Bee, berries, seeds, pineapples, micro-converters, field dice, gumdrops, jelly beans and stingers (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `15MMembers` | Club-member code: a Red Balloon, a Marshmallow Bee, 15 each of several berries, seeds, pineapples and gumdrops, plus field boosts (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `38217` | 5 Tickets (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `BeesBuzz123` | Cloud Vial, 5 Bitterberries and 10 Gumdrops (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `ClubBean` | Magic Bean and 2 Pineapple Patch Boosts (needs Bee Swarm Simulator Club membership) (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `BopMaster` | 5 Tickets (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `Connoisseur` | 5 Tickets (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `Crawlers` | 5 Tickets (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `Nectar` | 5,000 Honey (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `Roof` | 5 Tickets (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-| `Wax` | 5,000 Honey and 5 Tickets (Listed active by Pocket Tactics (Nov 4) and Nerdschalk (Sep 4). We haven't redeemed it ourselves.) |
-
-### Bee Swarm Simulator codes
-
-Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/bee-swarm-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `fourtunate` | 1 Marshmallow Bee, 4 Strawberries, 4 Sunflower Seeds, 4 Blueberries, 4 Pineapples, 4 Micro-Converters, 4 Field Dice, 4 Gumdrops, 4 Jelly Beans and 4 Stingers (Listed active by Roblox Den (Nov 20, 2026), Gaming Route and PC Gamer (Nov 2026). We haven't redeemed it ourselves.) |
-| `15MMembers` | Red Balloon, Marshmallow Bee, 15 of each berry/seed, Gumdrops and Bamboo/Rose/Coconut field boosts and winds (Listed active by Roblox Den (Nov 20, 2026) and PC Gamer (Nov 2026). Needs the BSS Club group. We haven't redeemed it ourselves.) |
-| `CLUBBEAN` | 1 Magic Bean and 2 Pineapple Patch Boosts (Listed active by Roblox Den (Nov 20, 2026); needs the BSS Club group. We haven't redeemed it ourselves.) |
-| `NECTAR` | 5,000 Honey (Listed active by Roblox Den (Nov 20, 2026) and bee code roundups (Nov 2026). We haven't redeemed it ourselves.) |
-| `38217` | 5 Tickets (Listed active by Roblox Den (Nov 20, 2026) and ticket-code roundups (Nov 2026). We haven't redeemed it ourselves.) |
-| `BOPMASTER` | 5 Tickets (Listed active by Roblox Den (Nov 20, 2026) and ticket-code roundups (Nov 2026). We haven't redeemed it ourselves.) |
-| `CONNOISSEUR` | 5 Tickets (Listed active by Roblox Den (Nov 20, 2026) and ticket-code roundups (Nov 2026). We haven't redeemed it ourselves.) |
-| `CRAWLERS` | 5 Tickets (Listed active by Roblox Den (Nov 20, 2026) and ticket-code roundups (Nov 2026). We haven't redeemed it ourselves.) |
-| `ROOF` | 5 Tickets (Listed active by Roblox Den (Nov 20, 2026) and ticket-code roundups (Nov 2026). We haven't redeemed it ourselves.) |
-| `BEESBUZZ123` | 1 Cloud Vial, 5 Bitterberries and 5 Gumdrops (Listed active by Roblox Den (Nov 20, 2026). We haven't redeemed it ourselves.) |
 
 ### Bee Swarm Simulator codes
 
@@ -853,28 +648,6 @@ Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | --- | --- |
 | `BYP4SS1` | 15,000 Speed (Listed by RobloxDen (Nov 15), PCGamesN (Jul 10) and Nerdschalk (Sep 2). RobloxDen calls it a social code from the Discord server, and Allthings.how (Nov 14) says a Discord-linked social code can only be redeemed once. We haven't redeemed it ourselves.) |
 
-### Tower of Hell codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/tower-of-hell/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `69` | Roblox Den says NICE; Techwiser gives no reward (Listed active by Roblox Den (Nov 15) and Techwiser (Nov 3). We haven't redeemed it ourselves.) |
-| `5KMILESTONE` | The Minigunner (per Roblox Den) (Listed active by Roblox Den (Nov 15) and Techwiser (Nov 3). We haven't redeemed it ourselves.) |
-| `B1RDHUNT3R` | The Hunter Tower (per Roblox Den) (Listed active by Roblox Den (Nov 15) and Techwiser (Nov 3). We haven't redeemed it ourselves.) |
-| `DOUBLEBLOXIES` | Cowboy skin (per Roblox Den) (Listed active by Roblox Den (Nov 15) and Techwiser (Nov 3). We haven't redeemed it ourselves.) |
-| `ICYFREEZE` | IcyTea Freezer skin (per Roblox Den) (Listed active by Roblox Den (Nov 15) and Techwiser (Nov 3). We haven't redeemed it ourselves.) |
-| `FreezerMYW1F3L3FTM3` | Garbage Bag and Child Support (per Roblox Den) (Listed active by Roblox Den (Nov 15) and Techwiser (Nov 3). We haven't redeemed it ourselves.) |
-| `W33KLICODE` | 65 XP (per Roblox Den) (Listed active by Roblox Den (Nov 15) and Techwiser (Nov 3). We haven't redeemed it ourselves.) |
-
-### Sol's RNG codes
-
-Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.com/sols-rng/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `GargantuaBiome` | 20 potion chests and 5 rare potion chests (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-
 ### Sol's RNG codes
 
 Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/sols-rng/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -884,23 +657,6 @@ Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `Part2Halloween` | 20 Potion Chests and 5 Rare Potion Chests (Listed active by Roblox Den (Nov 20, 2026); part of the current Halloween event. We haven't redeemed it ourselves.) |
 | `RolledBack` | 1.2x Total Luck (24 hours) (Listed active by Roblox Den (Nov 20, 2026). We haven't redeemed it ourselves.) |
 | `GargantuaBiome` | 20 Potion Crates and 5 Rare Potion Chests (Listed active by Roblox Den (Nov 20, 2026). We haven't redeemed it ourselves.) |
-
-### LifeTogether RP codes
-
-Checked Nov 16, 2026 · [How to redeem and expired codes](https://newgamescout.com/lifetogether-rp/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `3SH0AM0` | Red Cute Girl outfit (Listed active by Roblox Den and Pro Game Guides (July 2026); Pocket Tactics doesn't list it. It is an outfit code; we haven't redeemed it ourselves.) |
-| `9L6I3LI` | emo/goth boy outfit (Listed active by Roblox Den and Pocket Tactics. It is an outfit code; we haven't redeemed it ourselves.) |
-| `BU4FC9E` | pink brat outfit (Listed active by Roblox Den and Pocket Tactics. It is an outfit code; we haven't redeemed it ourselves.) |
-| `EC1NH9A` | teen baddie outfit (Listed active by Roblox Den and Pocket Tactics. It is an outfit code; we haven't redeemed it ourselves.) |
-| `VD8QT6A` | teen baddie outfit 2 (Listed active by Roblox Den and Pocket Tactics. It is an outfit code; we haven't redeemed it ourselves.) |
-| `Y5KV1TB` | hood rich outfit (Listed active by Roblox Den and Pocket Tactics. It is an outfit code; we haven't redeemed it ourselves.) |
-| `L1JO0UI` | hood rich outfit 2 (Listed active by Roblox Den and Pocket Tactics. It is an outfit code; we haven't redeemed it ourselves.) |
-| `MR9VL8X` | rich casual outfit (Listed active by Roblox Den and Pocket Tactics. It is an outfit code; we haven't redeemed it ourselves.) |
-| `DG8EA9K` | female red and black outfit (Listed active by Roblox Den and Pocket Tactics. It is an outfit code; we haven't redeemed it ourselves.) |
-| `1q2345a` | female white and pink outfit (Listed active by Roblox Den and Pocket Tactics. It is an outfit code; we haven't redeemed it ourselves.) |
 
 ### LifeTogether RP codes
 
@@ -918,56 +674,6 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `DG8EA9K` | Female red and black outfit (Roblox Den, Game.guide, MobileMatters and MrGuider agree.) |
 | `1q2345a` | Female white and pink outfit (Roblox Den, Game.guide, MobileMatters and MrGuider agree.) |
 
-### DOORS codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/doors/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `PROTOCOL` | 20 Stardust (Listed active by iGeeksBlog (Nov 2) and TechWiser (Nov 3). We haven't redeemed it ourselves.) |
-| `FE4R_RBX` | 5 Knobs (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `NO_DATA` | 5 or 50 Knobs (iGeeksBlog says 5, TechWiser says 50) (Listed active by iGeeksBlog and TechWiser; they disagree on the reward. We haven't redeemed it ourselves.) |
-| `REPRESSED` | 10 Stardust (Listed active by iGeeksBlog and TechWiser. We haven't redeemed it ourselves.) |
-| `LAZYDEVS` | 50 Knobs (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `3rd` | 33 Knobs (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `SCREECHSUCKS` | 25 Knobs (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `PATHSWAP` | 1 Stardust (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `RAGDOLL COMBAT` | 1 Stardust (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `JUMP OVER THE BRICK` | 1 Stardust (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `VOCAB HAVOC` | 1 Stardust (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `E FREE` | 1 Knob (Listed active by iGeeksBlog, TechWiser and TheSpike (some write it /E FREE). We haven't redeemed it ourselves.) |
-| `41` | 5 Knobs (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `54` | 5 Knobs (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `67` | 5 Knobs (Listed active by iGeeksBlog, TechWiser and TheSpike. We haven't redeemed it ourselves.) |
-| `ISHOWSPEED` | 5 Knobs (Listed active by iGeeksBlog and TheSpike. We haven't redeemed it ourselves.) |
-| `XQC` | 5 Knobs (Listed active by iGeeksBlog and TheSpike. We haven't redeemed it ourselves.) |
-| `LORE` | 5 Knobs (Listed active by iGeeksBlog and TheSpike. We haven't redeemed it ourselves.) |
-| `W` | 5 Knobs (Listed active by iGeeksBlog and TheSpike. We haven't redeemed it ourselves.) |
-| `CHEDDAR BALLS` | 1 Knob (Listed active by iGeeksBlog and TheSpike. We haven't redeemed it ourselves.) |
-
-### Creatures of Sonaria codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/creatures-of-sonaria/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-No working codes yet. The page above lists where we looked.
-
-### STAND OUT codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/stand-out/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-No working codes yet. The page above lists where we looked.
-
-### STAND OUT codes
-
-Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/stand-out/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `SORRY4SHUTDOWN` | 2 Mysterious Arrows and 500 Dalas (Listed active by Roblox Den and Bloxodes (Nov 20–21, 2026). We haven't redeemed it ourselves.) |
-| `HUGE100K` | 1 Bizarre Arrow (Listed active by Roblox Den and Bloxodes (Nov 20–21, 2026). We haven't redeemed it ourselves.) |
-| `RELEASE` | 3 Mysterious Arrows (Listed active by Roblox Den and Bloxodes (Nov 20–21, 2026). We haven't redeemed it ourselves.) |
-| `100KLIKESHUGE` | 3 Mysterious Arrows, 1 Lucky Arrow, 3 Arrow Parts and 333 Dalas (Listed active by Roblox Den and Bloxodes (Nov 20–21, 2026). We haven't redeemed it ourselves.) |
-
 ### STAND OUT codes
 
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/stand-out/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -980,42 +686,6 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `SORRY4SHUTDOWN` | 2 Mysterious Arrows and 500 Dalas (Roblox Den and Beebom, read Nov 23 2026.) |
 | `HUGE100K` | 1 Bizarre Arrow (Roblox Den, Beebom and timesaver.gg agree.) |
 | `RELEASE` | 3 Mysterious Arrows (Roblox Den, Beebom and timesaver.gg agree.) |
-
-### Anime Crusaders X codes
-
-Checked Nov 17, 2026 · [How to redeem and expired codes](https://newgamescout.com/anime-crusaders-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `THANKYOUFOR30KMAJORFIXES` | 1,000 Gems (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `ACBESTTD2026` | 50 Curse Tokens, 50 Relic Cubes, 50 Stat Cubes and 5,000 Gems (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `SORRYFORSHUTDOWNEA2026` | 50 Trait Remnants (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `WELCOMETOACX` | 200 Trait Remnants and 5,000 Gems (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `ACCOMEBACK` | 200 Trait Remnants (level 20 or higher) (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `ANNIVERSARY` | 100 Trait Remnants (level 10 or higher) (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `TY7KAL` | 250 Divine Rerolls Tokens, 25 Tokens of Resonance, 50 Perfect Stat Cubes, 50 Stat Cubes and 2,500 Gems (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `32xComeback` | 100 Divine Rerolls Tokens, 25 Tokens of Resonance, 50 Perfect Stat Cubes, 50 Stat Cubes and 2,500 Gems (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `AnimeLegendsSimulator` | 100 Divine Rerolls Tokens, 25 Tokens of Resonance, 50 Perfect Stat Cubes, 50 Stat Cubes and 2,500 Gems (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `AnimeCrusadersX2026` | 100 Divine Rerolls Tokens, 25 Tokens of Resonance, 50 Perfect Stat Cubes, 50 Stat Cubes and 2,500 Gems (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `AnimeLegends2026` | 100 Divine Reroll Tokens, 25 Tokens of Resonance, 50 Perfect Stat Cubes, 50 Stat Cubes and 2,500 Gems (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `JoinAnimeLegends` | 2,500 Gems, 50 All Stat Rerolls, 50 Specific Stat Rerolls, 25 Bleach Bossrush Tokens and 100 Trait Rerolls (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-| `JUDASUPDATESOON` | 5 Divine Reroll Tokens (level 10 or higher) (Listed working by Roblox Den and Bloxodes (Nov 17, 2026). We haven't redeemed it ourselves.) |
-
-### Anime Crusaders X codes
-
-Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/anime-crusaders-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `NEWACPEAKTHANKYOU` | 4,600 Gems and 75 Trait Remnants (Listed active by Roblox Den, Bloxodes and Destructoid (Nov 20, 2026). Some sites write it with an eagle emoji at the end; the in-game Codes menu has Redeem buttons so typing is optional. We haven't redeemed it ourselves.) |
-| `JUSTTHESTART` | 1,500 Gems and 50 Trait Remnants (Listed active by Roblox Den, Bloxodes, Beebom, Pro Game Guides and Destructoid (Nov 2026). We haven't redeemed it ourselves.) |
-| `RobloxVNGBACK` | 1,000 Gems and 30 Trait Remnants (Listed active by Roblox Den, Bloxodes, Beebom, PCGamesN and Game.guide (Nov 2026); some sources say 50 Remnants. We haven't redeemed it ourselves.) |
-| `THANKYOUFOR30KMAJORFIXES` | 1,000 Gems and 50 Trait Remnants (Listed active by Roblox Den, Bloxodes, Beebom, PCGamesN and GamesRadar (Nov 2026). We haven't redeemed it ourselves.) |
-| `ACBESTTD2026` | 5,000 Gems, 50 Curse Tokens, 50 Relic Cubes and 50 Stat Cubes (Listed active by Roblox Den, Bloxodes, Beebom and GamesRadar (Nov 2026); a few sites say Stat Tokens instead of Curse Tokens. We haven't redeemed it ourselves.) |
-| `SORRYFORSHUTDOWNEA2026` | 50 Trait Remnants (Listed active by Roblox Den, Bloxodes, Beebom and GamesRadar (Nov 2026). We haven't redeemed it ourselves.) |
-| `WELCOMETOACX` | 5,000 Gems and 200 Trait Remnants (Listed active by Roblox Den, Bloxodes, Beebom, GamesRadar and Pro Game Guides (Nov 2026). We haven't redeemed it ourselves.) |
-| `ACCOMEBACK` | 200 Trait Remnants (level 20 required) (Listed active by Roblox Den, Bloxodes, Beebom and GamesRadar (Nov 2026). We haven't redeemed it ourselves.) |
-| `ANNIVERSARY` | 100 Trait Remnants (level 10 required) (Listed active by Roblox Den, Bloxodes, Beebom and GamesRadar (Nov 2026). We haven't redeemed it ourselves.) |
 
 ### Anime Crusaders X codes
 
@@ -1057,12 +727,6 @@ Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Illegal Soccer codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/illegal-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-No working codes yet. The page above lists where we looked.
-
-### Illegal Soccer codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/illegal-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1077,20 +741,6 @@ Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | --- | --- |
 | `PutTheFriesInTheBag` | 1.25x gems for 1 hour (Listed active by Pocket Tactics (Nov 13) and Roblox Den (Nov 15). We haven't redeemed it ourselves.) |
 | `Chapter2` | 3 spins (Listed active by Pocket Tactics (Nov 13) and Roblox Den (Nov 15). We haven't redeemed it ourselves.) |
-
-### Throw a Seed codes
-
-Checked Nov 18, 2026 · [How to redeem and expired codes](https://newgamescout.com/throw-a-seed/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `allages` | 1,000,000 Cash, 1 Mega Luck Potion and 1 Lucky Throw (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `CANDY` | 1 Training Boost and 1 Lucky Throw (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `1KFAVORITES` | 1 Money Boost and 1 Lucky Throw (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `UPDATE` | 1 Mega Luck Potion and 1 Lucky Throw (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `HYPE` | 1 Money Boost and 1 Lucky Throw (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `TIKTOK` | 1 Mega Luck Potion and 1 Lucky Throw (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `RELEASE` | 5,000 Cash and 1 Luck Potion (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
 
 ### Throw a Seed codes
 
@@ -1146,14 +796,6 @@ No working codes yet. The page above lists where we looked.
 
 ### 100 Days at Sea codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/100-days-at-sea/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `RIVAL` | 20 Pearls (Listed active by Roblox Den (Nov 15) and Dexerto (Oct 12). We haven't redeemed it ourselves.) |
-
-### 100 Days at Sea codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/100-days-at-sea/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1186,21 +828,6 @@ No working codes yet. The page above lists where we looked.
 
 ### Project Slayers 2 codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/project-slayers-2/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `Update1RaceReset` | A free Race reset (Listed active by iGeeksBlog (verified Nov 14) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-| `Update1Statpointreset` | A free Stat Point reset (Listed active by iGeeksBlog (verified Nov 14) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-| `Update1Breathingreset` | A free Breathing reset (Listed active by iGeeksBlog (verified Nov 14) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-| `Update1Evilartreset` | A free Evil Art reset (Listed active by iGeeksBlog (verified Nov 14) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-| `Update1DoubleExp` | 30 minutes of 2x EXP (Listed active by iGeeksBlog (verified Nov 14) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-| `Update1DoubleWen` | 30 minutes of 2x Wen (Listed active by iGeeksBlog (verified Nov 14) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-| `Update1DoubleMastery` | 30 minutes of 2x Mastery (Listed active by iGeeksBlog (verified Nov 14) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-| `Update1Reforge` | 1 Weapon Transfer Ticket (Listed active by iGeeksBlog (verified Nov 14) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-
-### Project Slayers 2 codes
-
 Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/project-slayers-2/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1220,48 +847,11 @@ Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Toilet Tower Defense codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/toilet-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `REBALANCE` | 2x Luck Boost for 30 minutes (Listed active by Destructoid (Nov 10) and RobloxDen (Nov 15). We haven't redeemed it ourselves.) |
-
-### Toilet Tower Defense codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/toilet-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
 | `REBALANCE` | 2x Luck Boost (30 minutes) (Roblox Den, Game Codes Today, Destructoid, RBLXSTAT and BloxSwaps all list it working.) |
-
-### Vanguards: Trail of the Saint codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/vanguards/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `Finally` | 1,000 Memoria Shards, 100,000 Gold, 30 Rainbow Essences (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `2ndAnniversary` | 1,000 Rerolls (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `TrueShadowMonarch` | Red Key, 50,000 Gems, 500 Stat Chips (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `LetTheLarpingBegin` | 50 Controller Tokens, 10,000 Gems, 50,000 Gold (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `2ndAnniDay1` | 100 Trait Rerolls (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `2ndAnniDay2` | 100 Memoria Shards (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `2ndAnniDay3` | 100 Rerolls (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `2ndAnniDay4` | 100 Memoria Shards (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `2ndAnniDay5` | 100 Rerolls (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `2ndAnniDay6` | 100 Memoria Shards (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `Assault` | 100 Trait Rerolls (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `SummerLeaving` | 100 Memoria Shards (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `AnniNextHopefully` | 100 Trait Rerolls, 100 Memoria Shards, 5,000 Gems (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `MiniUpd2` | 200 Trait Rerolls, 50,000 Gems (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `Wrath` | 200 Memoria Shards, 50,000 Gems (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `Retribution` | 20,000 Gems, 50 Trait Rerolls, 50 Memoria Shards (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `1DayDelay` | 200 Trait Rerolls (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `25thHour` | 50 Trait Rerolls, 50 Memoria Shards (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `WhoopsieDaisy` | 100 Memoria Shards (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `PowerOfLove` | 50 Trait Rerolls, 50 Memoria Shards (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `EEPart1` | 50 Gambler Tokens, 50 Trait Rerolls, 10,000 Gems (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
-| `BPSoon` | 50 Memoria Shards, 50 Green Essences (Listed active by Pocket Tactics (Nov 8) and Roblox Den (Nov 15), under the Anime Vanguards name. We haven't redeemed it ourselves.) |
 
 ### Vanguards codes
 
@@ -1300,37 +890,6 @@ Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Anime Dice codes
 
-Checked Nov 16, 2026 · [How to redeem and expired codes](https://newgamescout.com/anime-dice/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `AUTUMN` | 1,000 Leaves, Lucky Spins and potions (amounts differ by site) (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `LEAFTOWER` | 1,000 Leaves, 1 Harvest Jackpot and potions (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `Update11` | 50 Gems, 50 Trait Rerolls and 3 Lucky Spins (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `100KCCU` | 100 Trait Rerolls and 100 Gems (Roblox Den also lists a Pumpkin Jackpot) (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `UPDATE10` | 50 Trait Rerolls and a Pumpkin Jackpot (other rewards differ by site) (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `UPDATE8` | 5 Lucky Spins, 50 Trait Rerolls and 50 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `50KCCU` | 3 Lucky Spins, 30 Trait Rerolls and 30 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `UPDATE7` | 3 Lucky Spins, 30 Trait Rerolls, 20 Tickets and 30 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `400KLIKES` | Lucky Spins, Trait Rerolls and Gems (amounts differ by site) (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `Update6` | Lucky Spins, Trait Rerolls, Tickets and Gems (amounts differ by site) (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `UPDATE5` | 3 Lucky Spins, 20 Trait Rerolls, 20 Tickets and 20 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `250KLIKES` | 2 Lucky Spins, plus Trait Rerolls and Gems (amounts differ by site) (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `100KLIKES` | 2 Lucky Spins, 10 Trait Rerolls and 10 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `40KCCU` | 2 Lucky Spins, 10 Trait Rerolls and 10 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `30KCCU` | 2 Lucky Spins, 10 Trait Rerolls and 10 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `UPDATE4` | 3 Lucky Spins, 10 Trait Rerolls, 10 Tickets and 10 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `10KCCU` | 2 Lucky Spins, 10 Trait Rerolls and 10 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `20KCCU` | 2 Lucky Spins, 10 Trait Rerolls and 10 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `UPDATE3` | 2 Lucky Spins, 7 Trait Rerolls and 7 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `1KCCU` | 2 Lucky Spins, 5 Trait Rerolls and 5 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `5KCCU` | 2 Lucky Spins, 5 Trait Rerolls and 5 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `UPDATE2` | 2 Lucky Spins, 5 Trait Rerolls and 5 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `UPDATE1` | 3 Trait Rerolls, 3 Gems and Lucky Spins (amounts differ by site) (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-| `RELEASE` | 1 Lucky Spin, 2 Trait Rerolls and 2 Gems (Listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
-
-### Anime Dice codes
-
 Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/anime-dice/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1361,28 +920,6 @@ Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `UPDATE2` | 2 Lucky Spins, 5 Trait Rerolls and 5 Gems (Listed working by Roblox Den, Pocket Tactics, Destructoid, Eurogamer and Gaming Route (Nov 2026). We haven't redeemed it ourselves.) |
 | `UPDATE1` | 2 Lucky Spins, 3 Trait Rerolls and 3 Gems (Listed working by Roblox Den, Pocket Tactics, Destructoid, Eurogamer and Gaming Route (Nov 2026). We haven't redeemed it ourselves.) |
 | `RELEASE` | 1 Lucky Spin, 2 Trait Rerolls and 2 Gems (Listed working by Roblox Den, Pocket Tactics, Destructoid, Eurogamer and Gaming Route (Nov 2026). We haven't redeemed it ourselves.) |
-
-### Blade Ball codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/blade-ball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `4BVISITS` | Bubble Wand sword skin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `RAMADAN` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `SPOOKYSEASON` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `SHARKATTACK` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `SUMMERWHEEL` | 1 free wheel spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `SUMMERSTARTSHERE` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `ENERGYSWORDS` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `GIVEMELUCK` | 4x Luck in the AFK world for 10 minutes (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `DUNGEONSRELEASE` | 50 Dungeon Runes (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `FROGS` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `GOODVSEVIL` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `BATTLEROYALE` | 1 free spin (iGeeksBlog) or 1 Storm Ticket (Roblox Den) (Listed active by Roblox Den and iGeeksBlog, which disagree on the reward. We haven't redeemed it ourselves.) |
-| `RNGEMOTES` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `FREESPINS` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
-| `2BTHANKS` | 1 free spin (Listed active by Roblox Den (Nov 15) and iGeeksBlog (Nov 1). We haven't redeemed it ourselves.) |
 
 ### Blade Ball codes
 
@@ -1432,15 +969,6 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### The Forge codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/the-forge/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `AIDASAYSSORRY` | 15 Rerolls (Listed active by iGeeksBlog (verified Nov 13) and Pro Game Guides (Nov 8). We haven't redeemed it ourselves.) |
-| `TWILIGHTWAR` | 15 Rerolls (Listed active by iGeeksBlog (verified Nov 13) and Pro Game Guides (Nov 8). Destructoid lists it too (Nov 10) but says 10 rerolls. We haven't redeemed it ourselves.) |
-
-### The Forge codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/the-forge/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1456,12 +984,6 @@ No working codes yet. The page above lists where we looked.
 
 ### Vox Seas codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/vox-seas/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-No working codes yet. The page above lists where we looked.
-
-### Vox Seas codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/vox-seas/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1471,17 +993,6 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `Release2026` | 1 hour of double XP (IGN, Eurogamer, Pro Game Guides, Beebom, PCGamesN and voxseas.net agree.) |
 | `THX200K` | 30 minutes of double XP (IGN, Beebom, PCGamesN and Roblox Den list it; Eurogamer omits it.) |
 | `175KLIKES` | 1 Stat Reset Token (Beebom, Roblox Den, Destructoid and voxseas.net list it active.) |
-
-### Steal an Anime Pack codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/steal-an-anime-pack/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `KaidoBossBug` | 2x Luck for 15 minutes (Listed active by Techwiser (Nov 14) and Roblox Den (Nov 15). We haven't redeemed it ourselves.) |
-| `Buubles` | 2x Cash for 15 minutes (Listed active by Techwiser (Nov 14) and Roblox Den (Nov 15). We haven't redeemed it ourselves.) |
-| `AdminAbuse2` | 2x Speed for 15 minutes (Listed active by Techwiser (Nov 14) and Roblox Den (Nov 15). We haven't redeemed it ourselves.) |
-| `Sorry` | 2x Mutation for 15 minutes (Listed active by Techwiser (Nov 14) and Roblox Den (Nov 15). We haven't redeemed it ourselves.) |
 
 ### Steal an Anime Pack codes
 
@@ -1503,14 +1014,6 @@ Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Ant Evolution codes
 
-Checked Nov 17, 2026 · [How to redeem and expired codes](https://newgamescout.com/ant-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `RELEASE` | 1,000 Ants and 10 Wins (Listed working by Roblox Den and Bloxodes (added Nov 10, 2026). We haven't redeemed it ourselves.) |
-
-### Ant Evolution codes
-
 Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/ant-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1519,15 +1022,6 @@ Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `QUEEN` | 2 free mutation rolls (Listed working by Roblox Den, Dexerto, TechWiser, Pro Game Guides and Sportskeeda (Nov 2026). We haven't redeemed it ourselves.) |
 | `ANTS` | 250 DNA (Listed working by Roblox Den, Dexerto, TechWiser, Pro Game Guides and Sportskeeda (Nov 2026). We haven't redeemed it ourselves.) |
 | `RELEASE` | 500 DNA and 2x Power for 15 minutes (Listed working by Roblox Den, Dexerto, TechWiser, Pro Game Guides and Sportskeeda (Nov 2026). We haven't redeemed it ourselves.) |
-
-### Criminal Simulator codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/criminal-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `POLICE` | 1,500 cash (Listed active by Pocket Tactics (Nov 5), Roblox Den (Nov 14) and MrGuider (Nov 7). We haven't redeemed it ourselves.) |
-| `CITY` | 1,000 cash (Listed active by Roblox Den (Nov 14) and MrGuider (Nov 7); Pocket Tactics doesn't list it. We haven't redeemed it ourselves.) |
 
 ### Criminal Simulator codes
 
@@ -1557,80 +1051,11 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### My Avatar! codes
 
-Checked Nov 18, 2026 · [How to redeem and expired codes](https://newgamescout.com/my-avatar/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `50Points` | 50 Points (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-
-### My Avatar! codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/my-avatar/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
 | `50Points` | 50 Points (Game.guide, Bloxodes, RoCodes, UrGameTips and Roblox Den all list it; Roblox Den marks Check.) |
-
-### Squid Game X codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/squid-game-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `$1.2M` | 200 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `VALENTINES` | 200 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `FASTCASHOUT` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `BOOSTED` | 20 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `500K_LIKES` | 100 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `EPICSTACK` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `LUCKLOOT` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `FREEPOWER` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `RISINGSTAR` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `MEGACOINS` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `BONANZA` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `CASHBLAST` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `SUPERJUMP` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `FIRSTPLACE` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `TOPPLAYER` | 20 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `GOLDRUSH` | 50 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `MYSTERYWIN` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `$750K$` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `MAXBOOST` | 20 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `BIGSPREE` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `POWERHOUR` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `MEGAPRIZE` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `LUCKYSHOT` | 20 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `STACKBOOST` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `DOUBLELUCK` | 20 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `EXTRABONUS` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `FREEWIN` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `BONUSLEVEL` |  (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `STACKED` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `NEVERLOSE` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `FASTPASS` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `FINALROUND` | 20 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `REWARDZONE` | 20 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `WINTHEGAME` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `WINNERSPOT` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `400K_LIKES` | 100 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `350K_LIKES` | 100 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `QUICKWIN` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `DAILYBOOST` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `WINBIG` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `PROPLAYER` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `ONECHANCE` | 20 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `$500K$` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `$1M$` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `RAININGCASH` | 40 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `REWARDTIME` | 30 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `RISKYPLAY` | 20 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `$250K$` | 50 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `FRONTMAN` | 75 Cash (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `REVAMP` | 33 Cash (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `150KLIKES` | 55 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `PENTA` | 35 Coins (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `UPDATE11RELEASE` | 75 Cash (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
-| `MINGLE` | 45 Cash (Listed active by RobloxDen (Nov 15) and Timesaver (Nov 6, from RobloxDen and RoCodes). We haven't redeemed it ourselves.) |
 
 ### Squid Game X codes
 
@@ -1655,17 +1080,6 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### NFL Universe Football codes
 
-Checked Nov 17, 2026 · [How to redeem and expired codes](https://newgamescout.com/nfl-universe-football/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `ANIMEVERSE` | 1 NFL All-Star Pack (Listed active by Roblox Den and Bloxodes. We haven't redeemed it ourselves.) |
-| `SEASONSMODE` | 5,000 Ghosts (Bloxodes and Pocket Gamer list it working; Roblox Den marks it Check. We haven't redeemed it ourselves.) |
-| `HALLOWEEN26` | 1 Hat (Bloxodes and Pocket Gamer list it working; Roblox Den marks it Check. A Halloween code, so it may go soon. We haven't redeemed it ourselves.) |
-| `UNIFORMS26` | Free rewards (Bloxodes and Pocket Gamer list it working; Roblox Den marks it Check. We haven't redeemed it ourselves.) |
-
-### NFL Universe Football codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/nfl-universe-football/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1676,6 +1090,14 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `HALLOWEEN26` | 1 Hat (Dexerto, PCGamesN, RoCodes, Bloxodes and UrGameTips agree; Roblox Den marks Check.) |
 | `1BIL` | 1 Hat / Hat Pack (Dexerto, PCGamesN, RoCodes and Bloxodes agree; Roblox Den marks Check.) |
 | `NIKE` | Free rewards (Dexerto, PCGamesN, RoCodes and Bloxodes agree; Roblox Den marks Check.) |
+
+### Creatures of Sonaria codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/creatures-of-sonaria/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `PineNuts` | 100 Pine Nuts (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
 
 ### Cast a Magnet codes
 
@@ -1692,16 +1114,6 @@ Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `1KPLAYERS` | $500,000,000 Cash, Gold Kraken's Cursed Skull, Blood Sunken Obelisk, Diamond Potion, 2 Rainbow Potions, Gold Potion, 2 2x Luck and 2 4x Luck Potions (30 min) (Roblox Den and TryHardGuides. We haven't redeemed it ourselves.) |
 | `5KPLAYERS` | $50,000,000,000 Cash, Gold Sunken Obelisk, Blood Leviathan Fang, 2 Diamond, 2 Rainbow, 2 Gold and 2 Blood Potions and 3 4x Luck Potions (30 min) (Roblox Den and TryHardGuides. We haven't redeemed it ourselves.) |
 
-### Evermore High codes
-
-Checked Nov 16, 2026 · [How to redeem and expired codes](https://newgamescout.com/evermore-high/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `ROLEPLAY` | 250 Morebucks (Listed active by Roblox Den, Pocket Tactics, Gamer Tweak and Bloxodes. We haven't redeemed it ourselves.) |
-| `Fall` | 500 Morebucks (Listed active by Roblox Den, Pocket Tactics, Gamer Tweak and Bloxodes. We haven't redeemed it ourselves.) |
-| `RELEASE` | 250 Morebucks (Listed active by Roblox Den, Pocket Tactics, Gamer Tweak and Bloxodes. We haven't redeemed it ourselves.) |
-
 ### Realistic Street Soccer codes
 
 Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.com/realistic-street-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -1710,18 +1122,15 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | --- | --- |
 | `200MVISITS` | 150 Coins (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
 
-### +1 Venom Evolution codes
+### GloryBound codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/plus-1-venom-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/glorybound/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
-| `HAPPY100K` | 2x Venom and 2x Wins (45 min), a Mega Chest and a Revive (Listed active by PocketGamer (Nov 14) and Bloxodes (Nov 13). We haven't redeemed it ourselves.) |
-| `VOIDKING` | 2x Venom and 2x Wins (30 min) and a Revive (Listed active by PocketGamer (Nov 14) and Bloxodes (Nov 13). Destructoid lists it too. We haven't redeemed it ourselves.) |
-| `ALTAREGO` | 2x Venom (30 min) and a Mega Chest (Listed active by PocketGamer (Nov 14) and Bloxodes (Nov 13). We haven't redeemed it ourselves.) |
-| `DUNGEON` | 2x Mutagen (10 min) (Listed active by PocketGamer (Nov 14) and Bloxodes (Nov 13). We haven't redeemed it ourselves.) |
-| `HAPPY50K` | 2x Venom and 2x Wins (45 min), a Mega Chest and 2 Revives (Listed active by PocketGamer (Nov 14) and Bloxodes (Nov 13). Dexerto lists it too. We haven't redeemed it ourselves.) |
-| `HAPPY30K` | 2x Venom and 2x Wins (30 min), a Mega Chest and a Revive (Listed active by PocketGamer (Nov 14) and Bloxodes (Nov 13). Dexerto lists it too. We haven't redeemed it ourselves.) |
+| `ASCENSION` | 5 Lucky Spins (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `UPDATE5` | 5 Lucky Spins (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `IGNIS` | a Legendary Chest (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
 
 ### +1 Venom Evolution codes
 
@@ -1757,18 +1166,6 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Stack A Butter Squishy codes
 
-Checked Nov 18, 2026 · [How to redeem and expired codes](https://newgamescout.com/stack-a-butter-squishy/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `MATCHA` | 500 Cash (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `WAX` | A Finish Wax (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `STACK` | 500 Cash (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `BUTTER` | 500 Cash (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `SQUISHY` | Kangaroo Pet (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-
-### Stack A Butter Squishy codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/stack-a-butter-squishy/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1782,15 +1179,6 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Grow a Garden codes
 
-Checked Nov 17, 2026 · [How to redeem and expired codes](https://newgamescout.com/grow-a-garden/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `RDCAward` | RDCAward cosmetic (Listed working by Roblox Den, Levvvel and iGeeksBlog (Nov 2026). We haven't redeemed it ourselves.) |
-| `BEANORLEAVE10` | Green Bean Chamber cosmetic (Listed working by Roblox Den, Levvvel and iGeeksBlog (Nov 2026). We haven't redeemed it ourselves.) |
-
-### Grow a Garden codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/grow-a-garden/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1798,29 +1186,6 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `RDCAward` | RDC Award cosmetic (Listed active by Roblox Den, game.guide, PCGamesN, bloxswaps and gfinity.) |
 | `BEANORLEAVE10` | Green Bean Chamber cosmetic (Listed active by Roblox Den, game.guide, PCGamesN, bloxswaps and gfinity.) |
 | `FREESEED` | 3 Uncommon Seed Packs (Roblox Den, BloxRant and TechNerdiness, added Nov 20 2026.) |
-
-### Net a Fish! codes
-
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/net-a-fish/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `5MVISITS` | 3 Ocean Crates and 15 min of 2x Money, Luck and Fish Caught (Listed active by Pocket Tactics (Nov 15), Tryhardguides (Nov 13) and the Roblox game description. We haven't redeemed it ourselves.) |
-| `2MVISITS` | 1 Abyss Crate and 15 min of 2x Money, Luck and Fish Caught (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `1MVISITS` | 2 Ocean Crates and 15 min of 2x Money, Luck and Fish Caught (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `ANCIENT` | 3 Ocean Crates plus 2x Luck, 2x Money and 2x Fish Caught boosts (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `500KVISITS` | 2 Ocean Crates and 15 min of 2x Money, Luck and Fish Caught (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `250KVISITS` | 2 Ocean Crates, 15 min income and 15 min of 2x Money and Luck (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `100KVISITS` | 2 Ocean Crates, 10 min income and 15 min of 2x Money and Luck (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `UPD1` | 3 Cash Boost X, 2 Net Space X potions and 15 min of 2x Money (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `BOUNDLESS` | 3 Cash Boost X, 2 Net Space X potions and 15 min of 2x Money (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `GENESIS` | 2 Ocean Crates and 15 min of 2x Money and Luck (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `ABSOLUTE` | 3 Ocean Crates and 1 hour of 2x income (GGRecon says 1 hour of 2x Money) (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `PETFISH` | 1 Ocean Crate (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `MONARCH` | 15 min of income (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `SEAMASTER` | 10 min of income (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `MONEY` | 15 min of 2x Money (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
-| `LUCKY` | 15 min of 2x Luck (Listed active by GGRecon (Nov 9), Pocket Tactics (Nov 15) and Tryhardguides (Nov 13). We haven't redeemed it ourselves.) |
 
 ### Net a Fish! codes
 
@@ -1888,16 +1253,6 @@ No working codes yet. The page above lists where we looked.
 
 ### Blue Lock: Rivals codes
 
-Checked Nov 17, 2026 · [How to redeem and expired codes](https://newgamescout.com/blue-lock-rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `BIGQOLSOON` | 5 Lucky Style Spins (Listed working by Levvvel (Nov 9) and Roblox Den (Nov 16, 2026). We haven't redeemed it ourselves.) |
-| `CROWTHEFTBACK` | 5 Lucky Flow Spins (Listed working by Levvvel (Nov 9) and Roblox Den (Nov 16, 2026). We haven't redeemed it ourselves.) |
-| `KARASUREWORK` | 5 Lucky Style Spins and 5 Lucky Flow Spins (Listed working by Levvvel (Nov 9) and Roblox Den (Nov 16, 2026). We haven't redeemed it ourselves.) |
-
-### Blue Lock: Rivals codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/blue-lock-rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1911,7 +1266,7 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Ragdoll Soccer codes
 
-Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.com/ragdoll-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/ragdoll-soccer/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -1937,19 +1292,6 @@ No working codes yet. The page above lists where we looked.
 
 ### Azure Latch codes
 
-Checked Nov 18, 2026 · [How to redeem and expired codes](https://newgamescout.com/azure-latch/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `wowzie` | Candy / Style Coins and Cash (amount differs by source) (Roblox Den lists it active as WOWZIE (1,000 Candies); iGeeksBlog lists it as wowzie (10k Style Coins and 15k Cash). We haven't redeemed it ourselves.) |
-| `AARIN1` | 100 Candies (Roblox Den) or 10k Style Coins and 15k Cash (iGeeksBlog) (Listed active by both. We haven't redeemed it ourselves.) |
-| `AARIN2` | 200 Candies (Roblox Den) or 10k Style Coins and 15k Cash (iGeeksBlog) (Listed active by both. We haven't redeemed it ourselves.) |
-| `SIKEE` | 300 Candies (Roblox Den) or 10k Style Coins and 15k Cash (iGeeksBlog) (Listed active by both. We haven't redeemed it ourselves.) |
-| `AARIN67` | 400 Candies (Roblox Den) or 10k Style Coins and 15k Cash (iGeeksBlog) (Listed active by both. We haven't redeemed it ourselves.) |
-| `BRAZILFORDELAY` | Brazil Emote (Roblox Den) or 10k Style Coins and 15k Cash (iGeeksBlog) (Listed active by both. We haven't redeemed it ourselves.) |
-
-### Azure Latch codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/azure-latch/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -1967,36 +1309,12 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Tower Defense Simulator codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/tower-defense-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `1MILCOMMUNITY` | Community Shotgunner skin (need the Shotgunner tower) (Listed active by Pocket Tactics, TheSpike and Roblox Den. We haven't redeemed it ourselves.) |
-| `2MILLION` | Mercenary Pursuit skin (need the Pursuit tower) (Listed active by Pocket Tactics, TheSpike and Roblox Den. We haven't redeemed it ourselves.) |
-
-### Tower Defense Simulator codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/tower-defense-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
 | `1MILCOMMUNITY` | Community Shotgunner skin (needs the Shotgunner tower) (Eurogamer, Roblox Den, Pro Game Guides, Destructoid, Twinfinite and Game.guide agree.) |
 | `2MILLION` | Mercenary Pursuit skin (needs the Pursuit tower) (Eurogamer, Roblox Den, Pro Game Guides, Twinfinite, Game.guide and RoCodes agree.) |
-
-### Run a Christmas Tree Lot codes
-
-Checked Nov 16, 2026 · [How to redeem and expired codes](https://newgamescout.com/run-a-christmas-tree-lot/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `MISTLETOE` | 2x Cash for 30 minutes (Listed active by Roblox Den and Bloxodes. We haven't redeemed it ourselves.) |
-| `SNOWBALL` | $10,000 (Listed active by Roblox Den and Bloxodes. We haven't redeemed it ourselves.) |
-| `HOHOHO` | 4,000 Reputation (Listed active by Roblox Den and Bloxodes. We haven't redeemed it ourselves.) |
-| `IMBROKE` | $25,000 (Listed active by Roblox Den and Bloxodes. We haven't redeemed it ourselves.) |
-| `BUDDYTHEELF` | $10,000 (Listed active by Roblox Den and Bloxodes. We haven't redeemed it ourselves.) |
-| `JINGLEBELLS` | 1,000 Reputation (Listed active by Roblox Den and Bloxodes. We haven't redeemed it ourselves.) |
-| `NICELIST` | 2x Reputation for 10 minutes (Listed active by Roblox Den and Bloxodes. We haven't redeemed it ourselves.) |
-| `OGTICKET` | OG Golden Plaque (Listed active by Bloxodes, Gamer Tweak and Roonby; Roblox Den marks it 'Check'. We haven't redeemed it ourselves.) |
 
 ### Run a Christmas Tree Lot codes
 
@@ -2017,17 +1335,6 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Build A Boat For Treasure codes
 
-Checked Nov 15, 2026 · [How to redeem and expired codes](https://newgamescout.com/build-a-boat-for-treasure/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `hi` | 5 gold (Listed active by Pocket Tactics and PocketGamer. We haven't redeemed it ourselves.) |
-| `Squid Army` | 22 gold and 22 ice (Listed active by Pocket Tactics and PocketGamer (Pocket Tactics says 22 ice and 22 gold). We haven't redeemed it ourselves.) |
-| `=D` | 5 gold (Listed active by Pocket Tactics and PocketGamer. We haven't redeemed it ourselves.) |
-| `=P` | 5 gold (Listed active by Pocket Tactics and PocketGamer (PocketGamer prints it =p). We haven't redeemed it ourselves.) |
-
-### Build A Boat For Treasure codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/build-a-boat-for-treasure/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
@@ -2038,21 +1345,31 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Baddies codes
 
-Checked Nov 18, 2026 · [How to redeem and expired codes](https://newgamescout.com/baddies/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `KITTY` | Kitty Trash Bag Skin (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-| `Baddies` | Treasure Chest Purse Skin (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
-
-### Baddies codes
-
 Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/baddies/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
 | `KITTY` | Kitty Trash Bag Skin (Roblox Den, Pocket Gamer, Beebom, TechWiser, Game.guide, BloxRant and GameRant agree.) |
 | `Baddies` | Treasure Chest Purse Skin (Roblox Den, Pocket Gamer, Beebom, TechWiser, Game.guide, BloxRant and GameRant agree.) |
+
+### Tower of Hell codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/tower-of-hell/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `DERHAUSAUFGABE` | A New Stage (Listed active by Roblox Den and PocketGamer (read Nov 24, 2026).) |
+| `69420` | First Vault Code (Listed active by Roblox Den and PocketGamer (read Nov 24, 2026).) |
+| `5164627` | Second Vault Code (Listed active by Roblox Den and PocketGamer (read Nov 24, 2026).) |
+
+### Ball VS Ball codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/ball-vs-ball/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `UPD14` | 100 Coins (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `UPD12` | 100 Coins (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
 
 ### A Bizarre Run codes
 
@@ -2079,7 +1396,7 @@ Checked Nov 18, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Do Not Stop codes
 
-Checked Nov 22, 2026 · [How to redeem and expired codes](https://newgamescout.com/do-not-stop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/do-not-stop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -2098,10 +1415,14 @@ No working codes yet. The page above lists where we looked.
 
 ### Paper To Plane codes
 
-Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.com/paper-to-plane/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/paper-to-plane/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
+| `DELAY` | 5 Aura Tickets (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
+| `UPDATE1` | Luck, Power and Coin potions (15 min each) and 5 Aura Tickets (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
+| `P2W` | 10M Coins (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
+| `1M5VISIT` | 2 Luck, 2 Power and 2 Coin Potions, 5 Aura Tickets, 10M Coins (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
 | `BIDAITHAN` | Reward not listed by the sources |
 | `RELEASE` | Reward not listed by the sources |
 | `20KCCU` | Reward not listed by the sources (Named after 20K concurrent players) |
@@ -2115,14 +1436,6 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | --- | --- |
 | `PUMPKIN` | Cluster Bomb (Listed working by Roblox Den and Bloxodes (Nov 19, 2026). We haven't redeemed it ourselves.) |
 | `BOOM` | Pumpkin Nuke (Listed working by Roblox Den and Bloxodes (Nov 19, 2026). We haven't redeemed it ourselves.) |
-
-### BlockSpin codes
-
-Checked Nov 16, 2026 · [How to redeem and expired codes](https://newgamescout.com/blockspin/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
-
-| Code | Reward |
-| --- | --- |
-| `W7C28D` | $500 cash (new players, one referral code per account) (Named in the Roblox game description and listed active by Roblox Den and Pocket Tactics. We haven't redeemed it ourselves.) |
 
 ### BlockSpin codes
 
@@ -2144,21 +1457,16 @@ Checked Nov 18, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 No working codes yet. The page above lists where we looked.
 
-### Steal a Superpower codes
+### Ride Storm codes
 
-Checked Nov 17, 2026 · [How to redeem and expired codes](https://newgamescout.com/steal-a-superpower/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/ride-storm/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
-| `DOMINUS` | 3 Dominus Packs (Listed working by Roblox Den and Dexerto (Nov 11, 2026). We haven't redeemed it ourselves.) |
-| `50KLIKES` | 1 Luck Potion III, 1 Strength Potion III, 1 Power Potion III and 1 Health Potion III (Listed working by Roblox Den, Beebom, Pocket Tactics and Dexerto (checked Nov 2026). We haven't redeemed it ourselves.) |
-| `30KLIKES` | 1 Luck Potion III (Listed working by Roblox Den, Beebom, Pocket Tactics and Dexerto (checked Nov 2026). We haven't redeemed it ourselves.) |
-| `20KLIKES` | 1 Luck Potion III (Listed working by Roblox Den, Beebom, Pocket Tactics and Dexerto (checked Nov 2026). We haven't redeemed it ourselves.) |
-| `SOZFORUPDATES` | 1 Power Potion III (Listed working by Roblox Den, Beebom, Pocket Tactics and Dexerto (checked Nov 2026). We haven't redeemed it ourselves.) |
-| `10KLIKES` | 1 Power Potion III (Listed working by Roblox Den, Beebom, Pocket Tactics and Dexerto (checked Nov 2026). We haven't redeemed it ourselves.) |
-| `1KCCU` | 1 Power Potion II (Listed working by Roblox Den, Beebom, Pocket Tactics and Dexerto (checked Nov 2026). We haven't redeemed it ourselves.) |
-| `POTIONS` | 1 Luck Potion II (Listed working by Roblox Den, Beebom, Pocket Tactics and Dexerto (checked Nov 2026). We haven't redeemed it ourselves.) |
-| `DISCORD` | 1 Legend Pack (Listed working by Roblox Den, Beebom, Pocket Tactics and Dexerto (checked Nov 2026). We haven't redeemed it ourselves.) |
+| `100KLIKES` | Rewards (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `95KLIKES` | 9,500 Cash (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `CRASH` | 20,000 Cash (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `90KLIKES` | 9,000 Cash (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
 
 ### Beyond Nen codes
 
@@ -2197,11 +1505,49 @@ Checked Nov 17, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `DISCORD` | 5,000 Cash (Listed working by Roblox Den and Timesaver (which cites IGN and UrGameTips too). We haven't redeemed it ourselves.) |
 | `GREEKWARRIOR` | 100 Greekpoints (Listed working by Roblox Den and Timesaver. It is tied to the Greek Warrior event, which the developer scheduled for Aug 23 to 29, 2026. We haven't redeemed it ourselves.) |
 
+### DOORS codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/doors/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `CRUSADERS` | 5 Stardusts (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `PENGUINZ0` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `FIND THE TROLLFACES` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `ABCDEFGHIJKLMNOPQRSTUVWXYZ` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `LAZYDEVS` | 50 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `PATHSWAP` | 1 Stardust (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `JUMP OVER THE BRICK` | 1 Stardust (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `ISHOWSPEED` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `KUBZ SCOUTS` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `8BITRYAN` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `BIJUU MIKE` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `LORE` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `RAGDOLL COMBAT` | 1 Stardust (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `RAGDOLL UNIVERSE` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `DANTDM` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `CHEDDAR BALLS` | 1 Knob (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `RAGDOLL MAYHEM` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `VOCAB HAVOC` | 1 Stardust (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `THINKNOODLES` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `KREEKCRAFT` | 5 Knobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+| `SCREECHSUCKS` | 25 Doorknobs (Listed active by Roblox Den and Beebom (read Nov 24, 2026).) |
+
 ### Low Range: Offroad 4x4 codes
 
 Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.com/low-range-offroad-4x4/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
+
+### Evermore High codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/evermore-high/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `ROLEPLAY` | 250 Morebucks (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `Fall` | 100 Morebucks (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `RELEASE` | 250 Morebucks (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
 
 ### BoneBox Engine codes
 
@@ -2263,10 +1609,13 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### +1 Ghoul Evolution codes
 
-Checked Nov 22, 2026 · [How to redeem and expired codes](https://newgamescout.com/1-ghoul-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/1-ghoul-evolution/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
+| `WORLD4` | 2x Wins (15 min) and 5 Ability Tokens (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
+| `WORLD5` | 2x Wins (15 min) and 5 Ability Tokens (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
+| `WORLD6` | 2x Wins (15 min) and 5 Ability Tokens (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
 | `2MVISITS` | Not stated (New: added to the Roblox game description by Nov 15, 2026. We haven't redeemed it ourselves.) |
 | `GHOUL` | Not stated (In the Roblox game description and on 9to5Gaming. We haven't redeemed it ourselves.) |
 | `WORLD3` | Not stated (In the Roblox game description and on 9to5Gaming. We haven't redeemed it ourselves.) |
@@ -2287,16 +1636,27 @@ No working codes yet. The page above lists where we looked.
 
 ### Rooster Rivals codes
 
-Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.com/rooster-rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/rooster-rivals/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
+| `7MILLIONVISITS` | 7,777 coins, trophy, 2x XP + title (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
+| `SHAMO` | 2,500 coins, Shamo Statue, 2x Growth + title (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
 | `TRADINGCHANGE` | 10,000 coins (New: listed by the developer in the game description on Nov 17, 2026 (Update 2.5). We haven't redeemed it ourselves.) |
 | `3MILLIONVISITS` | 5,000 coins, a trophy, 2x XP and a title (Listed by the developer in the game description (rechecked Nov 15, 2026, after Update 2.5).) |
 | `BLUEFACE` | 1,500 coins, a Blueface egg, 2x Growth and a title (Listed by the developer in the game description (rechecked Nov 15, 2026, after Update 2.5).) |
 | `1MILLIONVISITS` | 2,500 coins, a trophy and a title (Listed by the developer in the game description (rechecked Nov 15, 2026, after Update 2.5).) |
 | `4KVISITS` | 1,500 coins, 2x Growth, Prime feed and a title (Listed by the developer in the game description (rechecked Nov 15, 2026, after Update 2.5).) |
 | `250ACTIVEUSERS` | 2,500 coins, medicine and a title (Listed by the developer in the game description (rechecked Nov 15, 2026, after Update 2.5).) |
+
+### My KPOP Shop codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/my-kpop-shop/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `250LIKES` | 2x Money for 30 minutes (On both GameRant and MrGuider (2x Money Boost / 30 Minutes), and also printed in the Roblox description as 2x Cash for 30m. Not redeemed by us.) |
+| `MONEYPLEASE` | 2x Money for 30 minutes (On both GameRant and MrGuider with the same 30-minute 2x Money reward. The Roblox description does not print it. Not redeemed by us.) |
 
 ### Throw Food For Clowns codes
 
@@ -2393,6 +1753,12 @@ Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 No working codes yet. The page above lists where we looked.
 
+### Summon A Pet Army codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/summon-a-pet-army/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+No working codes yet. The page above lists where we looked.
+
 ### Untitled Ragdoll Game codes
 
 Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.com/untitled-ragdoll-game/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -2429,6 +1795,16 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | --- | --- |
 | `UPD_2` | 10 Spins and 5 Lucky Spins (Listed by Roblox Den, PocketGamer and MrGuider. Not in the game description.) |
 | `SORRYITSNOTOURFAULT` | 10 Spins and 5 Lucky Spins (Listed as active by Roblox Den and PocketGamer (both checked Nov 11 to 12, 2026). MrGuider doesn't list it. Join the Sabun Studios Roblox community first.) |
+
+### Dragon Arena codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/dragon-arena/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `HarvestHunt` | Rewards (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `FreeSpin` | rewards (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `Release` | a Damage Potion (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
 
 ### Harpoon a Fish codes
 
@@ -2484,10 +1860,11 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### SF BIKE codes
 
-Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.com/sf-bike/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/sf-bike/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
+| `10MILLIONVISITS` | 7,500 Cash (New on Nov 24, 2026: listed by the developer in the Roblox game description and by Roblox Den as active. We haven't redeemed it ourselves.) |
 | `7MILLIONVISITS` | 7,500 Cash (New: added to the game description by Nov 17, 2026 (UPD Dragster). Roblox Den lists it as active for 7,500 Cash; GGRecon (Nov 14) lists it as new and active without a reward.) |
 | `1MILLIONVISITS` | 8,500 Cash (In the game description. The reward is from Roblox Den; GGRecon lists the code but says the reward isn't stated.) |
 | `700KVISITS` | 7,500 Cash (In the game description. Roblox Den and LevelGeeks both give 7,500 Cash, and LevelGeeks says it is valid until Nov 30, 2026.) |
@@ -2548,6 +1925,20 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `SOYSLOPGAMES` | 3 Tokens (Listed working by Roblox Den and game.guide (Nov 19, 2026). We haven't redeemed it ourselves.) |
 | `CORDCODE` | 3 Tokens (Listed working by Roblox Den and game.guide (Nov 19, 2026). We haven't redeemed it ourselves.) |
 
+### Survive a Million Monkeys codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/survive-a-million-monkeys/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `50MVISITS` | 50,000 Gems (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `GUNNY` | 15,000 Gems and 1,000 Candy (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `HALLOWEEN` | 10,000 Gems and 400 Candy (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `25MVISITS` | 5,000 Gems (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `MAYHEM` | 5,000 Gems (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `MONKEYS` | 1,000 Gems (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `SURVIVE` | 1,000 Gems (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+
 ### Break To Steal A Chicken codes
 
 Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.com/break-to-steal-a-chicken/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -2580,6 +1971,31 @@ Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 No working codes yet. The page above lists where we looked.
 
+### Defeat Anime RNG codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/defeat-anime-rng/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `upd13luck` | a 2x Luck Boost (1 Hour) (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `upd13gold` | a 2 Gold Boost (3 Hours) (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `crimson` | 150 Trait Shards (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `arise` | 150 Trait Shards (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `shadowmonarch` | 50 Star Shards (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+
+### Night Rider codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/night-rider/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `BOOST` | 2x Cash (30 Minutes) and 2x XP (30 Minutes) (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `LETSRACE` | 10,000 Cash (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `COMMUNITYSERVER` | 7,500 Cash (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `BIGUPDATE` | 8,000 Cash (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `POLICE` | $6,000 Cash (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `SECRET` | $5,000 Cash (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+
 ### Mini War codes
 
 Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.com/mini-war/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -2593,6 +2009,23 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.com/build-a-real-house/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
+
+### Steal a Superpower codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/steal-a-superpower/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `10KMEMBERS` | 1 Luck Potion V (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `1MMEMBERS` | 1 Luck Potion IV, 1 Strength Potion IV, and 1 Power Potion IV (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `50KLIKES` | 1 Luck Potion III, 1 Strength Potion III, 1 Power Potion III, and 1 Health Potion III (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `DISCORD` | 1 Legend Pack (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `POTIONS` | 1 Luck Potion II (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `1KCCU` | 1 Power Potion II (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `10KLIKES` | 1 Power Potion III (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `20KLIKES` | 1 Luck Potion III (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `SOZFORUPDATES` | 1 Power Potion III (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `30KLIKES` | 1 Luck Potion III (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
 
 ### Bad Physics codes
 
@@ -2653,6 +2086,19 @@ Checked Nov 23, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 No working codes yet. The page above lists where we looked.
 
+### RUNAWAYS codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/runaways/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `PIZZA` | 2,000 Credz (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `VROOM` | 3,000 Credz (Listed active by Roblox Den, Beebom and PCGamesN (read Nov 24, 2026).) |
+| `SPOOKY` | 2,222 Credz (Listed active by Roblox Den, Beebom and PCGamesN (read Nov 24, 2026).) |
+| `RECVEH` | a Sawed-Off (Listed active by Roblox Den, Beebom and PCGamesN (read Nov 24, 2026).) |
+| `SUPERCAT` | a Light Pistol (Listed active by Roblox Den, Beebom and PCGamesN (read Nov 24, 2026).) |
+| `BOTCHER` | 2,500 Credz (Listed active by Roblox Den, Beebom and PCGamesN (read Nov 24, 2026).) |
+
 ### Deep Fishing codes
 
 Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.com/deep-fishing/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -2680,6 +2126,16 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | `skins` | 3 Meadow Bait (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
 | `pond` | 5 Meadow Bait (Listed working by Roblox Den and Bloxodes (Nov 18, 2026). We haven't redeemed it ourselves.) |
 
+### Ragdoll Playground codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/ragdoll-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `30MVisits` | the Quake Power and 1 Crate Spin (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `JELLY!` | the Rainbow Alien Skin and 1 Crate Spin (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `RELEASE` | the Rainbow Robot Skin (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+
 ### Murder Duels codes
 
 Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.com/murder-duels/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -2687,6 +2143,19 @@ Checked Nov 19, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | Code | Reward |
 | --- | --- |
 | `280KLIKES` | Recruit Case (Listed working by Roblox Den and game.guide (Nov 19, 2026). We haven't redeemed it ourselves.) |
+
+### Gakuran codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/gakuran/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `strays` | 67 Rerolls (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `random` | 67 Rerolls (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `MANGA` | 37 Rerolls and 500 Yen (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `limitedhalloweenitemsgogetthemtoflex` | 30 Rerolls (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `PHONEDECO` | 67 Rerolls and 1,000 Yen (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `9999rerolls` | a Reroll (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
 
 ### Jujutsu Farm codes
 
@@ -2770,9 +2239,20 @@ Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 No working codes yet. The page above lists where we looked.
 
+### Taxi Boss codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/taxi-boss/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `THX600K` | 1k Cash (Listed active by Roblox Den and PocketGamer (read Nov 24, 2026).) |
+| `LETSGO` | 2,000 Cash (Listed active by Roblox Den and PocketGamer (read Nov 24, 2026).) |
+| `HIGHWAY` | 1,000 Cash (Listed active by Roblox Den, Pocket Tactics and PocketGamer (read Nov 24, 2026).) |
+| `START` | 1,000 Cash (Listed active by Roblox Den, Pocket Tactics and PocketGamer (read Nov 24, 2026).) |
+
 ### Pixel Z codes
 
-Checked Nov 22, 2026 · [How to redeem and expired codes](https://newgamescout.com/pixel-z/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/pixel-z/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -2786,6 +2266,17 @@ Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.c
 | --- | --- |
 | `THANKYOU` | rewards. You must be at least level 5 to redeem this code (Listed working by Roblox Den and Bloxodes (Nov 20, 2026). We haven't redeemed it ourselves.) |
 | `TINYSNIPERS` | 500 Coins and a Standard Case (Listed working by Roblox Den and Bloxodes (Nov 20, 2026). We haven't redeemed it ourselves.) |
+
+### Gym Star Simulator codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/gym-star-simulator/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `STALCRY` | 5,500 Enchant Crystals (Listed active by Roblox Den and Pocket Tactics (read Nov 24, 2026).) |
+| `CRYSTAL` | 2,000 Enchant Crystals (Listed active by Roblox Den and Pocket Tactics (read Nov 24, 2026).) |
+| `FRIENDTRAINER` | 500 Enchant Crystals (Listed active by Roblox Den and Pocket Tactics (read Nov 24, 2026).) |
+| `SORRY` | Spins (Listed active by Roblox Den and Pocket Tactics (read Nov 24, 2026).) |
 
 ### Steal an Nightmare Egg codes
 
@@ -2808,6 +2299,28 @@ Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.c
 Checked Nov 21, 2026 · [How to redeem and expired codes](https://newgamescout.com/ragdoll-destruction-playground/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 No working codes yet. The page above lists where we looked.
+
+### Basketball Legends codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/basketball-legends/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `680KLIKES` | 1,000 Coins (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `HWPASS` | the Halloween Effect Case (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `HWCLANS` | the Halloween Skin Case (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `HWSTOCK` | the Halloween Banner Case (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `670KLIKES` | 1.000 coins (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `HWEFFECTS` | the Halloween Effect Case (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `HWSKINS` | the Halloween Skin Case (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `HWBANNERS` | the Halloween Banner Case (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `660KLIKES` | 1,000 Coins (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `EMOTESFX` | a Summer Case (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `650KLIKES` | 1,000 Coins (Listed active by Roblox Den and Pocket Tactics (read Nov 24, 2026).) |
+| `640KLIKES` | 1,000 Coins (Listed active by Roblox Den, Pocket Tactics and Beebom (read Nov 24, 2026).) |
+| `SUMMER` | the Summer Effect Case (Listed active by Roblox Den, Pocket Tactics, Beebom and PCGamesN (read Nov 24, 2026).) |
+| `MOBILE` | 2,000 Coins (Listed active by Roblox Den, Beebom and PocketGamer (read Nov 24, 2026).) |
+| `SPRINGSKINS` | a Spring Skin Case (Listed active by Roblox Den, Beebom and PocketGamer (read Nov 24, 2026).) |
 
 ### +1 Loot To Forge codes
 
@@ -2954,6 +2467,46 @@ Checked Nov 20, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 No working codes yet. The page above lists where we looked.
 
+### Noob Incremental codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/noob-incremental/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `HAPPYSHUTDOWN` | 100 Nectar, 100 Roast Shards, 100 Ancient Fragments, 50 Rune Speed Potions, 50 Rune Luck Potions, 50 Rune Bulk Potions, 50 Expedition Luck Potions, 50 Mastery XP Potions, and 1 Aura Luck Potion (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `HAPPYTHANKSGIVING` | 250 Card Tokens, 2,000 Chi, 200 Ancient Fragments, 100,000 Enchant Tokens, 100,000 Normal Dice, 100 Golden Dice, 50 2x Rune Luck, 50 2x Rune Speed, 50 2x Rune Bulk, 50 2x Drops Luck, 50 2x Expedition Luck, 50 2x Capsule Luck, 50 2x Mastery XP, and 1 2x Aura Luck (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `SHUTDOWNCODEYES` | 100 Nectar, 500 Chi, 50 Rune Speed Potions, 50 Rune Luck Potions, 50 Rune Bulk Potions, 50 Drop Luck Potions, 50 Expedition Luck Potions, 50 Capsule Luck Potions, and 50 Mastery XP Potions (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `SHUTDOWNSORRY` | 100 Nectar, 100 Ancient Fragments, 100 2x Expedition Luck, and 100 2x Mastery XP (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `MINIUPDATEAGAIN` | 150 Nectar, 750 Chi, 250 Ancient Fragments, 50 2x Rune Luck, 50 2x Rune Speed, 50 2x Rune Bulk, 50 2x Drop Luck, 50 2x Expedition Luck, 50 2x Capsule Luck, and 50 2x Mastery XP (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `HAPPYHALLOWEEN2!` | 50 Tickets, 100 Nectars, 500 Chi, 50 2x Rune Luck, 50 2x Rune Speed, 50 2x Rune Bulk, 50 2x Drops Luck, 50 2x Expedition Luck, 50 2x Capsule Luck, and 50 2x Mastery XP (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `CHANGESSHUTDOWN` | 50 Card Tokens and 1 Double Aura Luck Potion (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `HAPPYHALLOWEEN!` | 100 Card Tokens, 500 Chi, 50 Ancient Fragments, 100,000 Enchant Tokens, 100,000 Normal Dice, 100 Golden Dice, 50 2x Rune Luck Potions, 50 2x Rune Speed Potions, 50 2x Rune Bulk Potions, 50 2x Drops Luck Potions, 50 2x Expedition Luck Potions, 50 2x Capsule Luck Potions, 50 2x Mastery XP Potions, and a 2x Aura Luck Potion (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `ZEUSAPPEARED` | 200 Card Tokens and 1,000 Chi (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `SUMMONGHOULAXGOD` | 177 Card Tokens, 777 Chi, 77 Ancient Fragments, 77k Enchant Tokens, 77k Normal Dice, 77 Golden Dice, 50 2x Rune Luck, 50 2x Rune Speed, 50 2x Rune Bulk, 50 2x Drops Luck, 50 2x Expedition Luck, 50 2x Capsule Luck, and 50 2x Mastery XP (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `ANOTHERMINIUPDATE` | 50 Card Tokens and 500 Chi (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `FIXINGSTUFF` | 66 Card Tokens (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `UPDATEFIX` | 500 Chi and 50 card Token (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `UNDERWATERISFINALLYHERE` | Rewards (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `YINYANG` | 65 Card Tokens (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `MASTERIESAREHERE!` | 25 Card Tokens, 5,000 Enchant Tokens, and 10,000 Normal Dice (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `SPACEREALMISOUT!` | 20 2x Rune Luck Potions, 20 2x Rune Speed Potions, 20 2x Rune Bulk Potions, 20 2x Drops Luck Potions, 20 2x Expedition Luck Potions, 20 2x Capsule Luck Potions, 100 Chests, 25 Golden Chests and 25 Card Tokens (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `500KGROUPMEMBERS!!!` | 500 T1 Trial Chests, 500 T2 Trial Chests, 5,000 Enchant Tokens, 50 Tickets, 50 Double Rune Luck Potions, 50 Double Rune Speed Potions, 50 Double Rune Bulk Potions, 50 Double Drop Luck Potions, 50 Double Expedition Luck Potions, and 50 Double Capsule Luck Potions (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `FOOTBALLEVENT` | 50 Enchant Tokens, 5 Golden Chests, and other rewards (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `LABUPDATE` | 10 Enchant Tokens and 1 2x Rune Bulk Potion (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `RELEASE` | 1 2x Rune Luck Potion, 1 2x Rune Speed Potion,1 2x Rune Bulk Potion, and 10 Tickets (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+| `THANKS4JOINING` | 10% Rune Luck (Active). You must paste it in the Special Code box to redeem (Listed active by Roblox Den and PCGamesN (read Nov 24, 2026).) |
+
+### Tower Defense X: BETA codes
+
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/tower-defense-x/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+
+| Code | Reward |
+| --- | --- |
+| `tdxiswinning` | TDX Name Tag (Listed active by Roblox Den and Pocket Tactics (read Nov 24, 2026).) |
+| `TB4LIFE` | 1,000 Gold (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `johnrobloxforever` | 500 Gold and 1,000 Exp (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+| `powerupzbutworks` | Free Rewards (Listed active by Roblox Den, Pocket Tactics and PCGamesN (read Nov 24, 2026).) |
+
 ### Garden Tower Defense codes
 
 Checked Nov 18, 2026 · [How to redeem and expired codes](https://newgamescout.com/garden-tower-defense/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
@@ -3003,7 +2556,7 @@ Checked Nov 22, 2026 · [How to redeem and expired codes](https://newgamescout.c
 
 ### Shibuya codes
 
-Checked Nov 22, 2026 · [How to redeem and expired codes](https://newgamescout.com/shibuya/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
+Checked Nov 24, 2026 · [How to redeem and expired codes](https://newgamescout.com/shibuya/codes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=how-to-redeem-and-expired-codes)
 
 | Code | Reward |
 | --- | --- |
@@ -3293,7 +2846,7 @@ No working codes yet. The page above lists where we looked.
 
 ### +1 Ghoul Evolution
 
-[Punching Bags](https://newgamescout.com/1-ghoul-evolution/punching-bags?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=punching-bags) · [Power Passes](https://newgamescout.com/1-ghoul-evolution/power-passes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=power-passes) · [Best Game Passes](https://newgamescout.com/1-ghoul-evolution/best-game-passes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=best-game-passes) · [Kagunes](https://newgamescout.com/1-ghoul-evolution/kagunes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=kagunes) · [Pets](https://newgamescout.com/1-ghoul-evolution/pets?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pets) · [Rebirth](https://newgamescout.com/1-ghoul-evolution/how-to-rebirth?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rebirth) · [Scripts](https://newgamescout.com/1-ghoul-evolution/scripts?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=scripts) · [Worlds and Stages](https://newgamescout.com/1-ghoul-evolution/worlds-and-stages?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=worlds-and-stages) · [Offline Power](https://newgamescout.com/1-ghoul-evolution/offline-power?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=offline-power) · [Auras](https://newgamescout.com/1-ghoul-evolution/auras?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=auras)
+[Punching Bags](https://newgamescout.com/1-ghoul-evolution/punching-bags?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=punching-bags) · [Power Passes](https://newgamescout.com/1-ghoul-evolution/power-passes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=power-passes) · [Best Game Passes](https://newgamescout.com/1-ghoul-evolution/best-game-passes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=best-game-passes) · [Kagunes](https://newgamescout.com/1-ghoul-evolution/kagunes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=kagunes) · [Pets](https://newgamescout.com/1-ghoul-evolution/pets?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pets) · [Rebirth](https://newgamescout.com/1-ghoul-evolution/how-to-rebirth?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rebirth) · [Scripts](https://newgamescout.com/1-ghoul-evolution/scripts?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=scripts) · [Worlds and Stages](https://newgamescout.com/1-ghoul-evolution/worlds-and-stages?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=worlds-and-stages) · [Offline Power](https://newgamescout.com/1-ghoul-evolution/offline-power?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=offline-power) · [Auras](https://newgamescout.com/1-ghoul-evolution/auras?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=auras) · [Luck, pet equips and pet storage](https://newgamescout.com/1-ghoul-evolution/luck-and-pet-slots?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=luck-pet-equips-and-pet-storage)
 
 ### Untitled Symbiote Suit Game
 
@@ -3333,7 +2886,7 @@ No working codes yet. The page above lists where we looked.
 
 ### Steal an Nightmare Egg
 
-[Pets](https://newgamescout.com/steal-an-nightmare-egg/pets?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pets)
+[Pets](https://newgamescout.com/steal-an-nightmare-egg/pets?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=pets) · [Ban Hammer and Freeze Gun](https://newgamescout.com/steal-an-nightmare-egg/ban-hammer-and-freeze-gun?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=ban-hammer-and-freeze-gun) · [Legendary Nightmare Pack](https://newgamescout.com/steal-an-nightmare-egg/legendary-nightmare-pack?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=legendary-nightmare-pack)
 
 ### Pocket Landlord
 
@@ -3341,11 +2894,11 @@ No working codes yet. The page above lists where we looked.
 
 ### Ball Knowledge
 
-[Meaning](https://newgamescout.com/ball-knowledge/meaning?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=meaning) · [Answers](https://newgamescout.com/ball-knowledge/answers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=answers) · [Questions](https://newgamescout.com/ball-knowledge/questions?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=questions) · [Rare Answers](https://newgamescout.com/ball-knowledge/rare-answers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rare-answers) · [Game Modes](https://newgamescout.com/ball-knowledge/modes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=game-modes) · [Scoring Explained](https://newgamescout.com/ball-knowledge/scoring?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=scoring-explained)
+[Meaning](https://newgamescout.com/ball-knowledge/meaning?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=meaning) · [Answers](https://newgamescout.com/ball-knowledge/answers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=answers) · [Questions](https://newgamescout.com/ball-knowledge/questions?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=questions) · [Rare Answers](https://newgamescout.com/ball-knowledge/rare-answers?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=rare-answers) · [Game Modes](https://newgamescout.com/ball-knowledge/modes?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=game-modes) · [Scoring Explained](https://newgamescout.com/ball-knowledge/scoring?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=scoring-explained) · [VIP and 2x Coins](https://newgamescout.com/ball-knowledge/vip-and-2x-coins?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=vip-and-2x-coins)
 
 ### Cave Casualties
 
-[Controls](https://newgamescout.com/cave-casualties/controls?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=controls) · [Crafting](https://newgamescout.com/cave-casualties/crafting?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=crafting) · [Wounds](https://newgamescout.com/cave-casualties/wounds?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=wounds) · [Skills](https://newgamescout.com/cave-casualties/skills?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=skills) · [Mimics](https://newgamescout.com/cave-casualties/mimics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=mimics)
+[Controls](https://newgamescout.com/cave-casualties/controls?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=controls) · [Crafting](https://newgamescout.com/cave-casualties/crafting?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=crafting) · [Wounds](https://newgamescout.com/cave-casualties/wounds?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=wounds) · [Skills](https://newgamescout.com/cave-casualties/skills?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=skills) · [Mimics](https://newgamescout.com/cave-casualties/mimics?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=mimics) · [Private Server+ admin panel](https://newgamescout.com/cave-casualties/private-server-admin?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=private-server-admin-panel) · [VIP pass](https://newgamescout.com/cave-casualties/vip?utm_source=github&utm_medium=readme&utm_campaign=roblox-game-codes&utm_content=vip-pass)
 
 ### Shibuya
 
